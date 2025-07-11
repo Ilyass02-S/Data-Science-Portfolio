@@ -1,0 +1,84 @@
+@charset "ISO-8859-1";
+
+.main-container {
+  height: 220vh;
+  max-height: 150rem;
+  min-height: 95rem;
+  color: snow;
+  user-select: none;
+  background-size: cover;
+  flex-wrap: wrap;
+  font-size: 2em;
+  background-image: url(imagesweb/scott-graham-OQMZwNd3ThU-unsplash.jpg);
+}
+.title1{
+  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-left: 0.7em;
+  font-size: 3rem;
+}
+
+.img1 {
+  display: flex;
+  background-image: url(imagesweb/Section\ 2_Reasons\ To\ Vote_Blog.jpg);
+  border-radius: 1em;
+  height: 18em;
+  max-width: 30em;
+  background-size:cover;
+  box-sizing: border-box;
+  margin-left: 4em;
+  margin-right: 2em;
+}
+.img1txt {
+  font-size: large;
+  background-color: rgba(255, 250, 250, 0.669);
+  color: black;
+  align-self: flex-end;
+  height: 6em;
+  border-radius: 0.7em;
+  margin:2em;
+  padding-left: 1em;
+}
+.img2{
+  background-image:url(imagesweb/Section\ 4_Reasons\ To\ Vote_Blog.jpg) ;
+  display: flex;
+  border-radius: 1em;
+  height: 18em;
+  max-width: 30em;
+  background-size:cover;
+  margin-top: 3em;
+  margin-left: 4em;
+  margin-right: 2em;
+}
+.img2txt {
+  font-size: large;
+  background-color: rgba(255, 250, 250, 0.669);
+  color: black;
+  align-self: flex-end;
+  height: 6em;
+  border-radius: 0.7em;
+  margin:2em;
+  padding-left: 1em;
+}
+.footer{
+  padding: 1.5em;
+  color: snow;
+  background-color: rgb(44, 44, 119);
+  display: flex;
+}
+#btn{
+  position: fixed;
+  right: 1em;
+  bottom: 1em;
+  width: 3.7em;
+  height: 3.7em;
+  color: white;
+  background-color: #d65050;
+  border-radius: 1.2em;
+  border: none;
+  box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+#btn:active{
+  background-color: rgb(123, 4, 4);
+}
