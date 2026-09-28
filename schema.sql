@@ -8,7 +8,7 @@ Create Table Games (
     Game_Studio varchar(50)
 );
 
-DROP TABLE Reviews;
+DROP TABLE Steam_Prices;
 DELETE FROM Games;
 Insert into Games(Game_Name,Game_Year,Game_Genre,Game_studio)
 values
@@ -38,3 +38,29 @@ CREATE TABLE IF NOT EXISTS Reviews (
     Fetched_At TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (GameID) REFERENCES Games(GameID)
 );
+CREATE TABLE IF NOT EXISTS Steam_Prices (
+    PriceID INTEGER PRIMARY KEY AUTOINCREMENT,
+    GameID INTEGER NOT NULL,
+    Steam_AppID INTEGER NOT NULL,
+    Initial_Price REAL DEFAULT 0.0,   -- Original price (MSRP)
+    Final_Price REAL DEFAULT 0.0,     -- Current selling price
+    Discount_Pct INTEGER DEFAULT 0,    -- Active discount percentage
+    Is_Free INTEGER DEFAULT 0,        -- 1 = Free to play, 0 = Paid
+    Currency TEXT DEFAULT 'EUR',
+    Updated_At TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (GameID) REFERENCES Games(GameID) ON DELETE CASCADE
+);
+Insert into Games(Game_Name,Game_Year,Game_Genre,Game_studio)
+values
+('It Takes Two', 2021,'Platform','Hazelight Studios'),
+("Five Nights at Freddy's: Secret of the Mimic", 2025,'Survival Horror','Steel Wool Studios'),
+("Marvel's Spider-Man Remastered", 2022,'Action/Adventure','Insomniac Games'),
+('Hollow Knight',2017,'Metroidvania','Team Cherry'),
+('Detroit: Become Human',2018,'Interactive Story','Quantic Dream'),
+('Where Winds Meet',2024,'RPG','Everstone Studio'),
+('Palworld',2024,'Survival','Pocketpair'),
+('Final Fantasy VII Remake Intergrade',2020,'RPG','Square Enix'),
+('Silent Hill 2',2024,'Survival Horror','Konami'),
+('Call of Duty: Black Ops 7',2025,'FPS','Activision');
+
+
