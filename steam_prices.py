@@ -6,6 +6,7 @@ HEADERS = {
     "User-Agent": "GameWorthinessPredictor/1.0 (dev-contact@example.com)"
 }
 
+
 def sync_steam_prices_eur(db_path="games.db"):
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()

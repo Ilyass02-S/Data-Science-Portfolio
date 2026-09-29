@@ -5,23 +5,14 @@ Create Table Games (
     Game_Name TEXT UNIQUE COLLATE NOCASE NOT NULL,
     Game_Year int not null,
     Game_Genre varchar(50),
+    Game_Subgenre varchar(50),
     Game_Studio varchar(50)
 );
 
+DROP TABLE Games;
 DROP TABLE Steam_Prices;
+DROP TABLE Reviews;
 DELETE FROM Games;
-Insert into Games(Game_Name,Game_Year,Game_Genre,Game_studio)
-values
-('Horizon: Zero Dawn',2017,'Action/Adventure','Gurrilla Games'),
-('Horizon: Forbidden West',2022,'Action/Adventure','Gurrilla Games'),
-("Assassin's Creed 3",2012,'Action/Adventure','Ubisoft Montreal'),
-('Alan Wake 2',2023,'Survival Horror','Remedy Entertainment'),
-('God of War Ragnarök',2022,'Action/Adventure','Santa Monica Studio'),
-('EA Sports FC 26',2025,'Sports','Electronic Arts'),
-('Resident Evil 9',2026,'Survival horror','Capcom'),
-('The Witcher 3: Wild Hunt',2015,'RPG-action','CD Projekt'),
-('A Plague Tale: Requiem',2022,'Stealth Game','Asobo Studio'),
-('Black Myth: Wukong',2024,'RPG-action','Game Science');
 
 SELECT * FROM Games sort ORDER BY Game_Name;
 
@@ -50,17 +41,9 @@ CREATE TABLE IF NOT EXISTS Steam_Prices (
     Updated_At TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (GameID) REFERENCES Games(GameID) ON DELETE CASCADE
 );
-Insert into Games(Game_Name,Game_Year,Game_Genre,Game_studio)
-values
-('It Takes Two', 2021,'Platform','Hazelight Studios'),
-("Five Nights at Freddy's: Secret of the Mimic", 2025,'Survival Horror','Steel Wool Studios'),
-("Marvel's Spider-Man Remastered", 2022,'Action/Adventure','Insomniac Games'),
-('Hollow Knight',2017,'Metroidvania','Team Cherry'),
-('Detroit: Become Human',2018,'Interactive Story','Quantic Dream'),
-('Where Winds Meet',2024,'RPG','Everstone Studio'),
-('Palworld',2024,'Survival','Pocketpair'),
-('Final Fantasy VII Remake Intergrade',2020,'RPG','Square Enix'),
-('Silent Hill 2',2024,'Survival Horror','Konami'),
-('Call of Duty: Black Ops 7',2025,'FPS','Activision');
-
-
+DELETE FROM Games
+WHERE GameID NOT IN (
+    SELECT MIN(GameID)
+    FROM Games
+    GROUP BY Game_Name
+);

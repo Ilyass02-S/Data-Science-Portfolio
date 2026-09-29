@@ -1,21 +1,201 @@
-GameID,Game_Name,Game_Year,Game_Genre,Game_Studio
-1,Horizon: Zero Dawn,2017,Action/Adventure,Gurrilla Games
-2,Horizon: Forbidden West,2022,Action/Adventure,Gurrilla Games
-3,Assassin's Creed 3,2012,Action/Adventure,Ubisoft Montreal
-4,Alan Wake 2,2023,Survival Horror,Remedy Entertainment
-5,God of War Ragnarök,2022,Action/Adventure,Santa Monica Studio
-6,EA Sports FC 26,2025,Sports,Electronic Arts
-7,Resident Evil 9,2026,Survival horror,Capcom
-8,The Witcher 3: Wild Hunt,2015,RPG-action,CD Projekt
-9,A Plague Tale: Requiem,2022,Stealth Game,Asobo Studio
-10,Black Myth: Wukong,2024,RPG-action,Game Science
-11,It Takes Two,2021,Platform,Hazelight Studios
-12,Five Nights at Freddy's: Secret of the Mimic,2025,Survival Horror,Steel Wool Studios
-13,Marvel's Spider-Man Remastered,2022,Action/Adventure,Insomniac Games
-14,Hollow Knight,2017,Metroidvania,Team Cherry
-15,Detroit: Become Human,2018,Interactive Story,Quantic Dream
-16,Where Winds Meet,2024,RPG,Everstone Studio
-17,Palworld,2024,Survival,Pocketpair
-18,Final Fantasy VII Remake Intergrade,2020,RPG,Square Enix
-19,Silent Hill 2,2024,Survival Horror,Konami
-20,Call of Duty: Black Ops 7,2025,FPS,Activision
+GameID,Game_Name,Game_Year,Game_Genre,Game_Subgenre,Game_Studio
+1,Grand Theft Auto V,2013,Action,Tactical Shooter,Rockstar North
+2,The Witcher 3: Wild Hunt,2015,Action,Action RPG,CD PROJEKT RED
+3,Portal 2,2011,Shooter,Tactical Shooter,Valve Software
+4,Counter-Strike: Global Offensive,2012,Shooter,Tactical Shooter,Valve Software
+5,Portal,2007,Action,Tactical Shooter,Valve Software
+6,Tomb Raider,2013,Action,Action Stealth,Crystal Dynamics
+7,Left 4 Dead 2,2009,Action,Tactical Shooter,Valve Software
+8,Red Dead Redemption 2,2018,Action,Tactical Shooter,Rockstar Games
+9,The Elder Scrolls V: Skyrim,2011,Action,Tactical Shooter,Bethesda Game Studios
+10,Half-Life 2,2004,Action,Tactical Shooter,Valve Software
+11,BioShock Infinite,2013,Action,Tactical Shooter,Aspyr Media
+12,Borderlands 2,2012,Action,Action RPG,Aspyr Media
+13,Life is Strange,2015,Action,Action Adventure,DONTNOD Entertainment
+14,BioShock,2007,Action,Tactical Shooter,Digital Extremes
+15,God of War (2018),2018,Action,Action RPG,Santa Monica Studio
+16,Destiny 2,2017,Action,Tactical Shooter,Bungie
+17,Fallout 4,2015,Action,Tactical Shooter,Bethesda Game Studios
+18,Limbo,2010,Action,Action Adventure,Double Eleven
+19,PAYDAY 2,2013,Action,Tactical Shooter,505 Games
+20,DOOM (2016),2016,Action,Tactical Shooter,Bethesda Softworks
+21,Cyberpunk 2077,2020,Action,Tactical Shooter,CD PROJEKT RED
+22,Team Fortress 2,2007,Action,Tactical Shooter,Valve Software
+23,Terraria,2011,Action,Action Adventure,Engine Software
+24,Grand Theft Auto 4,2008,Action,Action Adventure,Rockstar North
+25,Dota 2,2013,Action,Action RPG,Valve Software
+26,Warframe,2013,Action,Action Adventure,Digital Extremes
+27,Rocket League,2015,Sports,Sports Sim,Psyonix
+28,Horizon Zero Dawn,2017,Action,Action Stealth,Guerrilla Games
+29,Metro 2033,2010,Action,Tactical Shooter,4A Games
+30,Rise of the Tomb Raider,2015,Action,Action Stealth,Feral Interactive
+31,Batman: Arkham Knight,2015,Action,Action Stealth,Rocksteady Studios
+32,Grand Theft Auto: San Andreas,2004,Action,Action Adventure,Rockstar North
+33,Metal Gear Solid V: The Phantom Pain,2015,Action,Action Stealth,Kojima Productions
+34,The Witcher 2: Assassins of Kings Enhanced Edition,2012,RPG,Action RPG,CD PROJEKT RED
+35,Apex Legends,2019,Action,Tactical Shooter,Respawn Entertainment
+36,Hollow Knight,2017,Action,Metroidvania,Team Cherry
+37,The Witcher: Enhanced Edition Director's Cut,2008,Action,Action RPG,CD PROJEKT RED
+38,Middle-earth: Shadow of Mordor,2014,Action,Action Stealth,Feral Interactive
+39,The Walking Dead: Season 1,2012,Action,Action Adventure,Telltale Games
+40,Little Nightmares,2017,Action,Action Stealth,BANDAI NAMCO Entertainment America
+41,Half-Life 2: Lost Coast,2005,Action,Tactical Shooter,Valve Software
+42,BioShock 2,2010,Action,Tactical Shooter,Feral Interactive
+43,Half-Life,1998,Action,Tactical Shooter,Valve Software
+44,Half-Life 2: Episode One,2006,Action,Tactical Shooter,Valve Software
+45,Half-Life 2: Episode Two,2007,Action,Tactical Shooter,Valve Software
+46,Dark Souls 3,2016,Action,Action RPG,BANDAI NAMCO Entertainment America
+47,Half-Life 2: Deathmatch,2004,Action,Tactical Shooter,Valve Software
+48,Stardew Valley,2016,RPG,Action RPG,Chucklefish
+49,Mirror's Edge,2008,Action,Tactical Shooter,Electronic Arts DICE
+50,BioShock Remastered,2016,Shooter,Tactical Shooter,Feral Interactive
+51,Hotline Miami,2012,Action,Action Adventure,Devolver Digital
+52,Hitman,2016,Action,Action Stealth,Feral Interactive
+53,Outlast,2013,Action,Tactical Shooter,Red Barrels
+54,Far Cry 3,2012,Action,Tactical Shooter,Unknown
+55,Deus Ex: Mankind Divided,2016,Action,Tactical Shooter,Eidos Montreal
+56,PlayerUnknown's Battlegrounds,2017,Action,Tactical Shooter,Krafton
+57,Path of Exile,2013,Action,Action RPG,Grinding Gear Games
+58,Marvel's Spider-Man,2018,Action,Action Adventure,Insomniac Games
+59,Alan Wake,2010,Action,Survival Horror,Remedy Entertainment
+60,Detroit: Become Human,2018,Action,Action Adventure,Quantic Dream
+61,Wolfenstein: The New Order,2014,Action,Tactical Shooter,Bethesda Softworks
+62,Garry's Mod,2004,Action,Tactical Shooter,Facepunch Studios
+63,Amnesia: The Dark Descent,2010,Action,Tactical Shooter,Frictional Games
+64,Spec Ops: The Line,2012,Action,Action Adventure,Yager
+65,Half-Life Deathmatch: Source,2006,Action,Tactical Shooter,Valve Software
+66,Saints Row: The Third,2011,Action,Action Adventure,Volition
+67,Fallout: New Vegas,2010,Action,Tactical Shooter,Obsidian Entertainment
+68,Prey,2017,Action,Tactical Shooter,Arkane Studios
+69,Borderlands,2009,Action,Tactical Shooter,2K
+70,The Elder Scrolls V: Skyrim Special Edition,2016,Action,Tactical Shooter,Bethesda Game Studios
+71,Dishonored 2,2016,Action,Tactical Shooter,Bethesda Softworks
+72,Dishonored,2012,Action,Tactical Shooter,Bethesda Softworks
+73,Don't Starve Together,2016,Action,Survival Horror,Klei Entertainment
+74,Grand Theft Auto: Vice City,2002,Action,Action Adventure,Rockstar North
+75,Hellblade: Senua's Sacrifice,2017,Action,Action Adventure,Ninja Theory
+76,Company of Heroes 2,2013,Action,Tactical Shooter,Feral Interactive
+77,Injustice: Gods Among Us Ultimate Edition,2013,Action,Action Adventure,NetherRealm Studios
+78,Assassin's Creed 4: Black Flag,2013,Action,Action Stealth,Ubisoft
+79,Hitman: Absolution,2012,Action,Action Stealth,IO Interactive
+80,Sid Meier's Civilization V,2010,Action,Tactical Shooter,Aspyr Media
+81,Control,2019,Action,Metroidvania,505 Games
+82,L.A. Noire,2011,Action,Action Adventure,Team Bondi
+83,Super Meat Boy,2010,Platformer,3D Platformer,NVIDIA Lightspeed Studios
+84,Star Wars Jedi: Fallen Order,2019,Action,Metroidvania,Respawn Entertainment
+85,For Honor,2017,Action,Action Adventure,Ubisoft
+86,Uncharted 4: A Thief's End,2016,Action,Action Adventure,Naughty Dog
+87,Dead Space (2008),2008,Action,Survival Horror,Electronic Arts
+88,Counter-Strike: Source,2004,Shooter,Tactical Shooter,Valve Software
+89,Mass Effect 2,2010,Action,Action RPG,BioWare
+90,Death Stranding,2019,Action,Action Stealth,Kojima Productions
+91,Just Cause 3,2015,Action,Action Adventure,Square Enix
+92,Metro: Last Light Redux,2014,Action,Tactical Shooter,Deep Silver
+93,Metro 2033 Redux,2014,Action,Tactical Shooter,Deep Silver
+94,Counter-Strike,2000,Action,Tactical Shooter,Valve Software
+95,Borderlands: The Pre-Sequel,2014,Action,Tactical Shooter,Aspyr Media
+96,Left 4 Dead,2008,Action,Tactical Shooter,Valve Software
+97,Hades,2020,Action,Action RPG,Supergiant Games
+98,BioShock 2 Remastered,2016,Action,Tactical Shooter,Digital Extremes
+99,Metal Gear Solid V: Ground Zeroes,2014,Action,Action Stealth,Kojima Productions
+100,NieR:Automata,2017,Action,Action Adventure,Platinum Games
+101,Minecraft,2009,Action,Action Adventure,4J Studios
+102,Mortal Kombat 10,2015,Action,Action Adventure,Warner Bros. Interactive
+103,Mass Effect,2007,Action,Action RPG,BioWare
+104,The Last Of Us Remastered,2014,Action,Action Stealth,Naughty Dog
+105,Just Cause 2,2010,Action,Action Adventure,Square Enix
+106,Fall Guys: Ultimate Knockout,2020,Action,Action Adventure,Mediatonic
+107,ARK: Survival Of The Fittest,2016,Action,Tactical Shooter,Instinct Games
+108,Monster Hunter: World,2018,Action,Action RPG,Capcom
+109,Mad Max,2015,Action,Tactical Shooter,Avalanche Studios
+110,Resident Evil 7: Biohazard,2017,Action,Tactical Shooter,Capcom
+111,Middle-earth: Shadow of War,2017,Action,Action Stealth,Warner Bros. Interactive
+112,Bastion,2011,Action,Action RPG,Warner Bros. Interactive
+113,Titanfall 2,2016,Action,Tactical Shooter,Respawn Entertainment
+114,Batman: Arkham City: Game of the Year Edition,2012,Action,Action Stealth,Feral Interactive
+115,Paladins,2016,Action,Tactical Shooter,Hi-Rez Studios
+116,ARK: Survival Evolved,2015,Action,Tactical Shooter,Instinct Games
+117,Bloodborne,2015,Action,Action Adventure,FromSoftware
+118,Cities: Skylines,2015,Action,Action Adventure,Colossal Order
+119,Journey,2012,Action,Tactical Shooter,thatgamecompany
+120,Undertale,2015,RPG,Action RPG,8-4
+121,Batman: Arkham Asylum Game of the Year Edition,2010,Action,Action Stealth,Feral Interactive
+122,Unturned,2014,Action,Tactical Shooter,505 Games
+123,Warhammer: Vermintide 2,2018,Action,Action Adventure,Fatshark
+124,Far Cry 5,2018,Action,Tactical Shooter,Ubisoft
+125,XCOM: Enemy Unknown,2012,Action,Tactical Shooter,Feral Interactive
+126,Fallout,1997,RPG,Tactical Shooter,Black Isle Studios
+127,Mafia 2,2010,Action,Action Adventure,2K Czech
+128,Brothers: A Tale of Two Sons,2013,Action,Action Adventure,Starbreeze Studios
+129,Watch Dogs,2014,Action,Action Stealth,Ubisoft
+130,Heavy Rain,2010,Action,Action Adventure,Quantic Dream
+131,Sekiro: Shadows Die Twice,2019,Action,Action Stealth,FromSoftware
+132,Shadow of the Tomb Raider,2018,Action,Action Stealth,Eidos Montreal
+133,INSIDE,2016,Action,Action Stealth,Playdead
+134,Metro Exodus,2019,Action,Tactical Shooter,4A Games
+135,Brutal Legend,2009,Action,Action RPG,Electronic Arts
+136,SEGA Mega Drive and Genesis Classics,2010,Action,Action Adventure,SEGA
+137,Psychonauts,2005,Action,Action Adventure,Double Fine Productions
+138,Max Payne 3,2012,Action,Action Adventure,Rockstar Games
+139,Brawlhalla,2014,Action,Action Adventure,Ubisoft
+140,Firewatch,2016,Action,Action Adventure,Campo Santo
+141,Assassin's Creed Odyssey,2018,Action,Action Stealth,Ubisoft
+142,Assassin's Creed 2,2009,Action,Action Adventure,Ubisoft Montreal
+143,No Man's Sky,2016,Action,Tactical Shooter,Hello Games
+144,Saints Row 4,2013,Action,Action Adventure,Volition
+145,Tom Clancy's Rainbow Six Siege,2015,Action,Tactical Shooter,Ubisoft
+146,Alien: Isolation,2014,Action,Tactical Shooter,Feral Interactive
+147,Elden Ring,2022,Action,Action RPG,FromSoftware
+148,Disco Elysium,2019,Action,Action Adventure,ZA/UM
+149,Cuphead,2017,Action,Action Adventure,Studio MDHR
+150,The Darkness 2,2012,Action,Tactical Shooter,2K
+151,Hitman 2,2018,Action,Action Stealth,IO Interactive
+152,Batman: Arkham Origins,2013,Action,Action Stealth,Warner Bros. Interactive
+153,War Thunder,2013,Action,Action Adventure,Gaijin Entertainment
+154,Darksiders,2010,Action,Action RPG,THQ
+155,Assassin's Creed Origins,2017,Action,Action Adventure,Ubisoft
+156,DOOM Eternal,2020,Action,Tactical Shooter,Bethesda Softworks
+157,Titan Quest Anniversary Edition,2016,Action,Action RPG,THQ Nordic
+158,Among Us,2018,Action,Action Adventure,Innersloth
+159,Halo Infinite,2021,Action,Tactical Shooter,343 Industries
+160,Crusader Kings 2,2012,Action,Action Adventure,Paradox Development Studio
+161,The Wolf Among Us,2013,Action,Action Adventure,Unknown
+162,Transistor,2014,Action,Action RPG,Supergiant Games
+163,Battlefield 1,2016,Action,Tactical Shooter,Electronic Arts
+164,Deus Ex: Human Revolution: Director's Cut,2013,Action,Tactical Shooter,Feral Interactive
+165,Far Cry 4,2014,Shooter,Tactical Shooter,Ubisoft
+166,Layers of Fear,2016,Action,Tactical Shooter,Bloober Team
+167,GRID 2,2013,Sports,Tactical Shooter,Feral Interactive
+168,Resident Evil 5,2009,Action,Survival Horror,Capcom
+169,XCOM 2,2016,RPG,Tactical Shooter,Feral Interactive
+170,Ori and the Blind Forest: Definitive Edition,2016,Action,Metroidvania,Moon Studios
+171,The Stanley Parable,2013,Action,Tactical Shooter,Galactic Cafe
+172,Counter-Strike: Condition Zero,2004,Action,Tactical Shooter,Valve Software
+173,Call of Duty: Modern Warfare 2,2009,Shooter,Tactical Shooter,Infinity Ward
+174,Insurgency,2014,Action,Tactical Shooter,New World Interactive
+175,Saints Row 2,2008,Action,Action Adventure,Volition
+176,Black Desert Online,2014,Action,Action Adventure,Unknown
+177,Kingdom Come: Deliverance,2018,Action,Tactical Shooter,Deep Silver
+178,Assassin's Creed 3,2012,Action,Action Stealth,Ubisoft Montreal
+179,Red Dead Redemption,2010,Action,Action Adventure,Rockstar North
+180,The Last of Us Part 2,2020,Action,Action Stealth,Naughty Dog
+181,Sid Meier's Civilization 6,2016,Action,Tactical Shooter,Aspyr Media
+182,Ori and the Blind Forest,2015,Action,Metroidvania,Moon Studios
+183,Amnesia: A Machine for Pigs,2013,Action,Tactical Shooter,The Chinese Room
+184,Total War: SHOGUN 2,2011,Action,Tactical Shooter,Feral Interactive
+185,Trine 2: Complete Story,2013,Action,Action Adventure,Frozenbyte
+186,SOMA,2015,Action,Tactical Shooter,Frictional Games
+187,Viscera Cleanup Detail: Shadow Warrior,2013,Action,Tactical Shooter,Devolver Digital
+188,Watch Dogs 2,2016,Action,Action Stealth,Ubisoft Montreal
+189,Thief,2014,Action,Tactical Shooter,Feral Interactive
+190,The Last Of Us,2013,Action,Action Adventure,Naughty Dog
+191,This War of Mine,2014,Action,Action Stealth,11 Bit Studios
+192,Call of Juarez: Gunslinger,2013,Action,Tactical Shooter,Ubisoft
+193,Grand Theft Auto 3,2001,Action,Action Adventure,DMA Design
+194,Dead Cells,2018,Action,Metroidvania,Plug In Digital
+195,Wolfenstein 2: The New Colossus,2017,Action,Tactical Shooter,Bethesda Softworks
+196,"Papers, Please",2013,Platformer,3D Platformer,Lucas Pope
+197,Call of Duty: Black Ops 3,2015,Action,Tactical Shooter,Raven Software
+198,Killing Floor,2009,Action,Tactical Shooter,Tripwire Interactive
+199,Divinity: Original Sin 2,2017,RPG,Action RPG,Larian Studios
+200,Shadowrun Returns,2013,RPG,Tactical Shooter,Harebrained Schemes
