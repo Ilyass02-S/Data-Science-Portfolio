@@ -8,7 +8,7 @@ import requests
 # ==========================================
 RAWG_API_KEY = "20feb19fa2b04f598a8dfd063ea003de" 
 DB_PATH = "games.db"
-TARGET_TOTAL_GAMES = 200
+TARGET_TOTAL_GAMES = 500
 
 # Maps raw API genre slugs into standard macro-genres
 GENRE_NORMALIZER = {

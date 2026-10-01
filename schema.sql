@@ -10,8 +10,8 @@ Create Table Games (
 );
 
 DROP TABLE Games;
-DROP TABLE Steam_Prices;
-DROP TABLE Reviews;
+DELETE FROM Steam_Prices;
+DELETE FROM Reviews;
 DELETE FROM Games;
 
 SELECT * FROM Games sort ORDER BY Game_Name;
@@ -47,3 +47,5 @@ WHERE GameID NOT IN (
     FROM Games
     GROUP BY Game_Name
 );
+ALTER TABLE Reviews ADD COLUMN Metacritics REAL DEFAULT 0.0;
+ALTER TABLE Steam_Prices DROP COLUMN Currency;
