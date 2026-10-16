@@ -13,7 +13,7 @@ df_prices.to_csv("excel files\steam_prices.csv", index=False)
 
 # Export Reviews table
 df_reviews = pd.read_sql_query("SELECT * FROM Reviews", conn)
-df_reviews.to_csv("excel files\steam_reviews.csv", index=False)
+df_reviews.to_csv("excel files\Reviews.csv", index=False)
 
 conn.close()
 print("Saved all tables to CSV.")

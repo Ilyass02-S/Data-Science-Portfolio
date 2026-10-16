@@ -9,10 +9,12 @@ Create Table Games (
     Game_Studio varchar(50)
 );
 
-DROP TABLE Games;
+DROP TABLE Steam_Prices;
 DELETE FROM Steam_Prices;
 DELETE FROM Reviews;
 DELETE FROM Games;
+
+DELETE FROM sqlite_sequence WHERE name = 'Games';
 
 SELECT * FROM Games sort ORDER BY Game_Name;
 
@@ -26,19 +28,14 @@ CREATE TABLE IF NOT EXISTS Reviews (
     RAWG_Rating REAL,
     Added_Count INTEGER, 
     Ratings_Count INTEGER,
-    Fetched_At TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    Metacritics REAL DEFAULT 0.0,
     FOREIGN KEY (GameID) REFERENCES Games(GameID)
 );
 CREATE TABLE IF NOT EXISTS Steam_Prices (
     PriceID INTEGER PRIMARY KEY AUTOINCREMENT,
     GameID INTEGER NOT NULL,
     Steam_AppID INTEGER NOT NULL,
-    Initial_Price REAL DEFAULT 0.0,   -- Original price (MSRP)
-    Final_Price REAL DEFAULT 0.0,     -- Current selling price
-    Discount_Pct INTEGER DEFAULT 0,    -- Active discount percentage
-    Is_Free INTEGER DEFAULT 0,        -- 1 = Free to play, 0 = Paid
-    Currency TEXT DEFAULT 'EUR',
-    Updated_At TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    Initial_Price REAL DEFAULT 0.0,   
     FOREIGN KEY (GameID) REFERENCES Games(GameID) ON DELETE CASCADE
 );
 DELETE FROM Games
@@ -48,4 +45,4 @@ WHERE GameID NOT IN (
     GROUP BY Game_Name
 );
 ALTER TABLE Reviews ADD COLUMN Metacritics REAL DEFAULT 0.0;
-ALTER TABLE Steam_Prices DROP COLUMN Currency;
+ALTER TABLE Steam_Prices DROP COLUMN Discount_Pct;

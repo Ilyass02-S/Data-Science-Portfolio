@@ -1,438 +1,1340 @@
-Game_Name,Game_Year,Game_Genre,Game_Subgenre,Game_Studio,RAWG_Rating,Metacritics,Initial_Price,Final_Price,Discount_Pct,steam_rating_text,Popularity,Pricing
-Grand Theft Auto V,2013,Action,Tactical Shooter,Rockstar North,4.47,83.47,29.99,14.99,50,Very Positive,Popular,Offre
-The Witcher 3: Wild Hunt,2015,Action,Action RPG,CD PROJEKT RED,3.96,93.0,49.99,24.99,50,Overwhelmingly Positive,Blockbuster,Offre
-Portal 2,2011,Shooter,Tactical Shooter,Valve Software,4.57,95.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-Portal,2007,Action,Tactical Shooter,Valve Software,4.48,95.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-Tomb Raider,2013,Action,Action Stealth,Crystal Dynamics,4.06,86.0,29.99,4.49,85,Overwhelmingly Positive,Popular,Offre
-Left 4 Dead 2,2009,Action,Tactical Shooter,Valve Software,4.1,89.0,9.75,1.95,80,Overwhelmingly Positive,Blockbuster,Offre
-Red Dead Redemption 2,2018,Action,Tactical Shooter,Rockstar Games,4.59,93.0,59.99,14.99,75,Very Positive,Blockbuster,Offre
-The Elder Scrolls V: Skyrim,2011,Action,Tactical Shooter,Bethesda Game Studios,4.42,74.0,39.99,3.99,90,Overwhelmingly Positive,Popular,Offre
-Half-Life 2,2004,Action,Tactical Shooter,Valve Software,4.47,96.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-BioShock Infinite,2013,Action,Tactical Shooter,Aspyr Media,4.38,94.0,29.99,7.49,75,Very Positive,Popular,Offre
-Borderlands 2,2012,Action,Action RPG,Aspyr Media,4.01,89.0,44.99,6.74,85,Very Positive,Popular,Offre
-Life is Strange,2015,Action,Action Adventure,DONTNOD Entertainment,4.12,85.21,0.0,0.0,0,Very Positive,Moderate,Paid
-BioShock,2007,Action,Tactical Shooter,Digital Extremes,4.36,94.0,29.99,7.49,75,Very Positive,Popular,Offre
-Destiny 2,2017,Action,Tactical Shooter,Bungie,3.52,83.0,0.0,0.0,0,Mostly Positive,Popular,Paid
-Fallout 4,2015,Action,Tactical Shooter,Bethesda Game Studios,3.81,84.0,19.99,7.99,60,Very Positive,Popular,Offre
-Limbo,2010,Action,Action Adventure,Double Eleven,4.14,88.0,11.49,1.14,90,Very Positive,Popular,Offre
-PAYDAY 2,2013,Action,Tactical Shooter,505 Games,3.52,79.0,9.49,4.74,50,Very Positive,Popular,Offre
-Cyberpunk 2077,2020,Action,Tactical Shooter,CD PROJEKT RED,3.96,86.0,59.99,17.99,70,Very Positive,Blockbuster,Offre
-Team Fortress 2,2007,Action,Tactical Shooter,Valve Software,3.68,92.0,0.0,0.0,0,Very Positive,Popular,Paid
-Terraria,2011,Action,Action Adventure,Engine Software,4.08,83.0,9.75,4.87,50,Overwhelmingly Positive,Blockbuster,Offre
-Grand Theft Auto 4,2008,Action,Action Adventure,Rockstar North,4.26,90.0,19.99,5.99,70,Very Positive,Popular,Offre
-Dota 2,2013,Action,Action RPG,Valve Software,3.07,90.0,0.0,0.0,0,Very Positive,Moderate,Paid
-Warframe,2013,Action,Action Adventure,Unknown,3.42,69.0,0.0,0.0,0,Very Positive,Moderate,Paid
-Horizon Zero Dawn,2017,Action,Action Stealth,Guerrilla Games,4.27,84.23,49.99,29.99,40,Very Positive,Moderate,Offre
-Metro 2033,2010,Action,Tactical Shooter,4A Games,3.94,91.33,19.99,1.99,90,Very Positive,Popular,Offre
-Rise of the Tomb Raider,2015,Action,Action Stealth,Feral Interactive,4.04,86.0,29.99,4.49,85,Overwhelmingly Positive,Popular,Offre
-Batman: Arkham Knight,2015,Action,Action Stealth,Rocksteady Studios,4.24,92.65,19.99,3.99,80,Very Positive,Popular,Offre
-Grand Theft Auto: San Andreas,2004,Action,Action Adventure,Rockstar North,4.5,80.3,59.99,19.79,67,Very Positive,Moderate,Offre
-Metal Gear Solid V: The Phantom Pain,2015,Action,Action Stealth,Kojima Productions,4.16,91.0,29.99,17.99,40,Very Positive,Popular,Offre
-The Witcher 2: Assassins of Kings Enhanced Edition,2012,RPG,Action RPG,CD PROJEKT RED,3.96,88.0,19.99,2.99,85,Very Positive,Popular,Offre
-Apex Legends,2019,Action,Tactical Shooter,Respawn Entertainment,3.63,88.0,0.0,0.0,0,Mostly Positive,Moderate,Paid
-Hollow Knight,2017,Action,Metroidvania,Team Cherry,4.4,87.0,14.79,14.79,0,Overwhelmingly Positive,Popular,Free
-Middle-earth: Shadow of Mordor,2014,Action,Action Stealth,Feral Interactive,3.91,84.0,19.99,3.99,80,Very Positive,Popular,Offre
-Little Nightmares,2017,Action,Action Stealth,BANDAI NAMCO Entertainment America,4.03,81.0,19.99,4.99,75,Overwhelmingly Positive,Popular,Offre
-BioShock 2,2010,Action,Tactical Shooter,Feral Interactive,4.07,88.0,19.99,2.99,85,Very Positive,Moderate,Offre
-Half-Life,1998,Action,Tactical Shooter,Valve Software,4.38,96.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-Half-Life 2: Episode One,2006,Action,Tactical Shooter,Valve Software,4.38,100.0,0.0,0.0,0,Overwhelmingly Positive,Niche,Paid
-Dark Souls 3,2016,Action,Action RPG,BANDAI NAMCO Entertainment America,4.4,89.0,59.99,29.99,50,Overwhelmingly Positive,Popular,Offre
-Half-Life 2: Deathmatch,2004,Action,Tactical Shooter,Valve Software,3.29,90.16,,,0,Very Positive,Moderate,Free
-Stardew Valley,2016,RPG,Action RPG,Chucklefish,4.39,89.0,13.99,9.79,30,Overwhelmingly Positive,Blockbuster,Offre
-Hotline Miami,2012,Action,Action Adventure,Devolver Digital,4.38,85.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-BioShock Remastered,2016,Shooter,Tactical Shooter,Feral Interactive,4.24,80.0,19.99,4.99,75,Very Positive,Popular,Offre
-Hitman,2016,Action,Action Stealth,Feral Interactive,3.93,87.0,29.99,2.99,90,Very Positive,Popular,Offre
-Outlast,2013,Action,Tactical Shooter,Red Barrels,3.76,92.5,38.99,3.89,90,Very Positive,Popular,Offre
-Far Cry 3,2012,Action,Tactical Shooter,Ubisoft,4.26,88.0,19.99,4.99,75,Very Positive,Popular,Offre
-Deus Ex: Mankind Divided,2016,Action,Tactical Shooter,Eidos Montreal,3.96,83.0,29.99,2.99,90,Mostly Positive,Popular,Offre
-Path of Exile,2013,Action,Action RPG,Grinding Gear Games,3.65,76.55,27.75,27.75,0,Mostly Positive,Popular,Free
-Marvel's Spider-Man,2018,Action,Action Adventure,Insomniac Games,4.45,83.86,59.99,40.19,33,Very Positive,Popular,Offre
-Alan Wake,2010,Action,Survival Horror,Remedy Entertainment,4.09,83.0,12.99,1.94,85,Very Positive,Popular,Offre
-Detroit: Become Human,2018,Action,Action Adventure,Quantic Dream,4.34,80.0,39.99,3.99,90,Overwhelmingly Positive,Popular,Offre
-Wolfenstein: The New Order,2014,Action,Tactical Shooter,Bethesda Softworks,4.18,81.0,19.99,4.99,75,Very Positive,Popular,Offre
-Amnesia: The Dark Descent,2010,Action,Tactical Shooter,Frictional Games,3.65,85.0,19.5,3.9,80,Overwhelmingly Positive,Moderate,Offre
-Half-Life Deathmatch: Source,2006,Action,Tactical Shooter,Valve Software,3.21,74.51,,,0,Mostly Positive,Moderate,Free
-Saints Row: The Third,2011,Action,Action Adventure,Volition,3.95,84.0,9.99,2.49,75,Overwhelmingly Positive,Popular,Offre
-Fallout: New Vegas,2010,Action,Tactical Shooter,Obsidian Entertainment,4.43,84.0,9.99,4.99,50,Overwhelmingly Positive,Popular,Offre
-Prey,2017,Action,Tactical Shooter,Unknown,4.28,90.52,29.99,5.99,80,Very Positive,Popular,Offre
-Borderlands,2009,Action,Tactical Shooter,2K,3.82,81.0,69.99,34.99,50,Mixed,Popular,Offre
-The Elder Scrolls V: Skyrim Special Edition,2016,Action,Tactical Shooter,Bethesda Game Studios,4.45,74.0,39.99,3.99,90,Overwhelmingly Positive,Popular,Offre
-Dishonored 2,2016,Action,Tactical Shooter,Bethesda Softworks,3.96,86.0,29.99,5.99,80,Very Positive,Popular,Offre
-Dishonored,2012,Action,Tactical Shooter,Bethesda Softworks,4.38,86.0,29.99,5.99,80,Very Positive,Popular,Offre
-Don't Starve Together,2016,Action,Survival Horror,Klei Entertainment,3.77,83.0,14.99,5.09,66,Overwhelmingly Positive,Popular,Offre
-Grand Theft Auto: Vice City,2002,Action,Action Adventure,Rockstar North,4.44,82.86,59.99,19.79,67,Very Positive,Moderate,Offre
-Hellblade: Senua's Sacrifice,2017,Action,Action Adventure,Ninja Theory,4.22,83.0,29.99,7.49,75,Very Positive,Popular,Offre
-Company of Heroes 2,2013,Action,Tactical Shooter,Feral Interactive,3.1,80.0,18.49,4.62,75,Very Positive,Popular,Offre
-Injustice: Gods Among Us Ultimate Edition,2013,Action,Action Adventure,NetherRealm Studios,3.53,79.0,19.99,2.99,85,Very Positive,Moderate,Offre
-Hitman: Absolution,2012,Action,Action Stealth,IO Interactive,3.76,79.0,19.99,1.99,90,Very Positive,Popular,Offre
-Sid Meier's Civilization V,2010,Action,Tactical Shooter,Aspyr Media,4.29,90.0,29.99,7.49,75,Overwhelmingly Positive,Popular,Offre
-Control,2019,Action,Metroidvania,505 Games,4.14,89.86,59.99,59.99,0,Very Positive,Moderate,Free
-L.A. Noire,2011,Action,Action Adventure,Team Bondi,4.16,83.0,19.99,5.99,70,Very Positive,Popular,Offre
-Super Meat Boy,2010,Platformer,3D Platformer,NVIDIA Lightspeed Studios,3.98,87.0,13.99,2.23,84,Very Positive,Popular,Offre
-Star Wars Jedi: Fallen Order,2019,Action,Metroidvania,Respawn Entertainment,4.13,81.0,39.99,7.99,80,Very Positive,Popular,Offre
-For Honor,2017,Action,Action Adventure,Ubisoft,3.3,76.0,29.99,2.99,90,Mostly Positive,Popular,Offre
-Dead Space (2008),2008,Action,Survival Horror,Electronic Arts,4.39,87.0,19.99,7.99,60,Very Positive,Moderate,Offre
-Counter-Strike: Source,2004,Shooter,Tactical Shooter,Valve Software,3.22,88.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-Mass Effect 2,2010,Action,Action RPG,BioWare,4.45,94.0,29.99,7.49,75,Mostly Positive,Niche,Offre
-Death Stranding,2019,Action,Action Stealth,Kojima Productions,4.31,94.72,79.99,63.99,20,Overwhelmingly Positive,Moderate,Offre
-Just Cause 3,2015,Action,Action Adventure,Square Enix,3.4,74.0,19.99,2.99,85,Very Positive,Popular,Offre
-Metro: Last Light Redux,2014,Action,Tactical Shooter,Deep Silver,4.13,76.0,19.99,1.99,90,Very Positive,Popular,Offre
-Metro 2033 Redux,2014,Action,Tactical Shooter,Deep Silver,4.1,91.33,19.99,1.99,90,Very Positive,Popular,Offre
-Counter-Strike,2000,Action,Tactical Shooter,Valve Software,4.06,84.99,0.0,0.0,0,Very Positive,Blockbuster,Paid
-Borderlands: The Pre-Sequel,2014,Action,Tactical Shooter,Aspyr Media,3.57,75.0,39.99,3.99,90,Very Positive,Popular,Offre
-Left 4 Dead,2008,Action,Tactical Shooter,Valve Software,4.11,89.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-Hades,2020,Action,Action RPG,Supergiant Games,4.42,94.0,28.99,20.29,30,Overwhelmingly Positive,Popular,Offre
-BioShock 2 Remastered,2016,Action,Tactical Shooter,Digital Extremes,4.0,72.47,19.99,2.99,85,Mostly Positive,Moderate,Offre
-Metal Gear Solid V: Ground Zeroes,2014,Action,Action Stealth,Kojima Productions,3.91,80.0,29.99,17.99,40,Very Positive,Moderate,Offre
-NieR:Automata,2017,Action,Action Adventure,Platinum Games,4.37,84.0,39.99,15.99,60,Very Positive,Popular,Offre
-Minecraft,2009,Action,Action Adventure,4J Studios,4.43,59.82,29.99,29.99,0,Mixed,Moderate,Free
-Mortal Kombat 10,2015,Action,Action Adventure,Warner Bros. Interactive,3.86,84.0,19.99,3.99,80,Very Positive,Popular,Offre
-Mass Effect,2007,Action,Action RPG,BioWare,4.39,89.0,29.99,7.49,75,Very Positive,Moderate,Offre
-The Last Of Us Remastered,2014,Action,Action Stealth,Naughty Dog,4.69,90.65,49.99,33.49,33,Very Positive,Popular,Offre
-Just Cause 2,2010,Action,Action Adventure,Square Enix,3.62,84.0,14.99,1.49,90,Very Positive,Popular,Offre
-ARK: Survival Of The Fittest,2016,Action,Tactical Shooter,Instinct Games,2.6,72.53,,,0,Mostly Positive,Moderate,Free
-Monster Hunter: World,2018,Action,Action RPG,Capcom,4.0,88.0,29.99,7.79,74,Very Positive,Popular,Offre
-Mad Max,2015,Action,Tactical Shooter,Avalanche Studios,3.78,73.0,19.99,2.99,85,Very Positive,Popular,Offre
-Resident Evil 7: Biohazard,2017,Action,Tactical Shooter,Capcom,4.33,83.0,19.99,7.99,60,Overwhelmingly Positive,Popular,Offre
-Middle-earth: Shadow of War,2017,Action,Action Stealth,Warner Bros. Interactive,3.86,88.88,39.99,3.99,90,Very Positive,Popular,Offre
-Bastion,2011,Action,Action RPG,Warner Bros. Interactive,4.15,86.0,14.79,2.95,80,Overwhelmingly Positive,Moderate,Offre
-Titanfall 2,2016,Action,Tactical Shooter,Respawn Entertainment,4.32,86.0,29.99,4.49,85,Overwhelmingly Positive,Popular,Offre
-Batman: Arkham City: Game of the Year Edition,2012,Action,Action Stealth,Feral Interactive,4.4,91.0,19.99,3.99,80,Overwhelmingly Positive,Popular,Offre
-Paladins,2016,Action,Tactical Shooter,Hi-Rez Studios,3.08,83.0,0.0,0.0,0,Very Positive,Moderate,Paid
-ARK: Survival Evolved,2015,Action,Tactical Shooter,Instinct Games,3.08,70.0,14.79,9.76,34,Very Positive,Blockbuster,Offre
-Cities: Skylines,2015,Action,Action Adventure,Unknown,4.12,85.0,27.99,8.39,70,Very Positive,Popular,Offre
-Undertale,2015,RPG,Action RPG,8-4,4.35,92.0,9.99,2.49,75,Overwhelmingly Positive,Popular,Offre
-Batman: Arkham Asylum Game of the Year Edition,2010,Action,Action Stealth,Feral Interactive,4.39,91.0,19.99,2.99,85,Overwhelmingly Positive,Popular,Offre
-Unturned,2014,Action,Tactical Shooter,505 Games,2.73,90.67,0.0,0.0,0,Very Positive,Moderate,Paid
-Warhammer: Vermintide 2,2018,Action,Action Adventure,Fatshark,3.61,82.0,27.99,2.79,90,Very Positive,Popular,Offre
-Far Cry 5,2018,Action,Tactical Shooter,Ubisoft,3.72,81.06,59.99,8.99,85,Very Positive,Popular,Offre
-XCOM: Enemy Unknown,2012,Action,Tactical Shooter,Feral Interactive,4.2,89.0,14.99,5.99,60,Very Positive,Popular,Offre
-Fallout,1997,RPG,Tactical Shooter,Black Isle Studios,4.21,74.51,39.99,9.99,75,Mostly Positive,Popular,Offre
-Mafia 2,2010,Action,Action Adventure,2K Czech,3.96,74.37,29.99,5.99,80,Mostly Positive,Moderate,Offre
-Brothers: A Tale of Two Sons,2013,Action,Action Adventure,Starbreeze Studios,4.18,90.0,14.99,14.99,0,Overwhelmingly Positive,Popular,Free
-Watch Dogs,2014,Action,Action Stealth,Ubisoft,3.6,82.0,59.99,2.99,95,Very Positive,Popular,Offre
-Heavy Rain,2010,Action,Action Adventure,Quantic Dream,4.12,75.0,19.99,0.99,95,Very Positive,Moderate,Offre
-Sekiro: Shadows Die Twice,2019,Action,Action Stealth,FromSoftware,4.38,88.0,59.99,29.99,50,Overwhelmingly Positive,Popular,Offre
-Shadow of the Tomb Raider,2018,Action,Action Stealth,Eidos Montreal,3.92,77.0,39.99,5.99,85,Very Positive,Popular,Offre
-INSIDE,2016,Action,Action Stealth,Playdead,4.38,94.91,7.79,6.38,18,Overwhelmingly Positive,Moderate,Offre
-Metro Exodus,2019,Action,Tactical Shooter,4A Games,4.17,85.0,29.99,2.99,90,Very Positive,Popular,Offre
-Brutal Legend,2009,Action,Action RPG,Electronic Arts,3.65,80.0,14.99,2.99,80,Overwhelmingly Positive,Moderate,Offre
-Psychonauts,2005,Action,Action Adventure,Double Fine Productions,4.05,89.0,59.99,11.99,80,Overwhelmingly Positive,Moderate,Offre
-Max Payne 3,2012,Action,Action Adventure,Rockstar Games,4.26,87.0,19.99,5.99,70,Very Positive,Popular,Offre
-Brawlhalla,2014,Action,Action Adventure,Unknown,3.22,84.67,0.0,0.0,0,Very Positive,Moderate,Paid
-Firewatch,2016,Action,Action Adventure,Campo Santo,4.3,81.0,19.5,3.9,80,Very Positive,Popular,Offre
-Assassin's Creed Odyssey,2018,Action,Action Stealth,Ubisoft,3.97,80.07,39.99,7.99,80,Very Positive,Moderate,Offre
-No Man's Sky,2016,Action,Tactical Shooter,Hello Games,3.71,61.0,58.99,23.59,60,Very Positive,Popular,Offre
-Saints Row 4,2013,Action,Action Adventure,Volition,3.82,86.0,19.99,2.99,85,Very Positive,Popular,Offre
-Tom Clancy's Rainbow Six Siege,2015,Action,Tactical Shooter,Ubisoft,3.88,82.63,0.0,0.0,0,Very Positive,Blockbuster,Paid
-Alien: Isolation,2014,Action,Tactical Shooter,Feral Interactive,4.21,81.0,39.99,11.99,70,Very Positive,Popular,Offre
-Elden Ring,2022,Action,Action RPG,FromSoftware,4.38,94.0,59.99,59.99,0,Very Positive,Blockbuster,Free
-Disco Elysium,2019,Action,Action Adventure,ZA/UM,4.36,97.0,37.99,9.49,75,Very Positive,Popular,Offre
-Cuphead,2017,Action,Action Adventure,Studio MDHR,3.96,88.0,19.99,13.99,30,Overwhelmingly Positive,Popular,Offre
-The Darkness 2,2012,Action,Tactical Shooter,2K,3.71,77.0,29.99,2.99,90,Very Positive,Moderate,Offre
-Hitman 2,2018,Action,Action Stealth,IO Interactive,4.04,87.0,8.99,0.89,90,Very Positive,Moderate,Offre
-Batman: Arkham Origins,2013,Action,Action Stealth,Warner Bros. Interactive,3.95,74.0,19.99,3.99,80,Very Positive,Popular,Offre
-War Thunder,2013,Action,Action Adventure,Gaijin Entertainment,3.19,81.0,0.0,0.0,0,Mostly Positive,Moderate,Paid
-Darksiders,2010,Action,Action RPG,THQ,3.76,77.0,29.99,4.49,85,Very Positive,Moderate,Offre
-Assassin's Creed Origins,2017,Action,Action Adventure,Ubisoft,3.96,78.12,39.99,5.99,85,Mostly Positive,Niche,Offre
-DOOM Eternal,2020,Action,Tactical Shooter,Bethesda Softworks,4.37,88.0,29.99,9.89,67,Very Positive,Popular,Offre
-Titan Quest Anniversary Edition,2016,Action,Action RPG,THQ Nordic,3.78,91.06,19.99,4.99,75,Very Positive,Moderate,Offre
-Among Us,2018,Action,Action Adventure,Innersloth,3.83,85.0,4.49,2.69,40,Very Positive,Blockbuster,Offre
-Halo Infinite,2021,Action,Tactical Shooter,343 Industries,3.64,68.26,0.0,0.0,0,Mixed,Popular,Paid
-Crusader Kings 2,2012,Action,Action Adventure,Paradox Development Studio,3.61,82.0,0.0,0.0,0,Very Positive,Popular,Paid
-The Wolf Among Us,2013,Action,Action Adventure,Telltale Games,4.38,85.0,14.99,14.99,0,Overwhelmingly Positive,Popular,Free
-Transistor,2014,Action,Action RPG,Supergiant Games,4.17,83.0,19.5,3.9,80,Very Positive,Moderate,Offre
-Battlefield 1,2016,Action,Tactical Shooter,Electronic Arts,3.84,86.44,39.99,3.99,90,Very Positive,Popular,Offre
-Far Cry 4,2014,Shooter,Tactical Shooter,Unknown,3.82,80.0,29.99,5.99,80,Very Positive,Popular,Offre
-Layers of Fear,2016,Action,Tactical Shooter,Bloober Team,3.54,79.05,29.99,10.49,65,Very Positive,Moderate,Offre
-Resident Evil 5,2009,Action,Survival Horror,Capcom,3.82,86.0,19.99,4.99,75,Very Positive,Popular,Offre
-GRID 2,2013,Sports,Tactical Shooter,Feral Interactive,3.3,81.0,9.75,3.9,60,Very Positive,Moderate,Offre
-XCOM 2,2016,RPG,Tactical Shooter,Feral Interactive,4.11,88.0,19.99,2.99,85,Very Positive,Popular,Offre
-Ori and the Blind Forest: Definitive Edition,2016,Action,Metroidvania,Moon Studios,3.96,88.0,19.99,4.99,75,Overwhelmingly Positive,Popular,Offre
-The Stanley Parable,2013,Action,Tactical Shooter,Galactic Cafe,4.37,88.0,14.79,7.39,50,Very Positive,Popular,Offre
-Counter-Strike: Condition Zero,2004,Action,Tactical Shooter,Valve Software,3.14,65.0,8.19,1.63,80,Very Positive,Moderate,Offre
-Call of Duty: Modern Warfare 2,2009,Shooter,Tactical Shooter,Infinity Ward,4.27,45.59,69.99,69.99,0,Mixed,Moderate,Free
-Insurgency,2014,Action,Tactical Shooter,New World Interactive,2.82,78.0,29.99,5.99,80,Very Positive,Popular,Offre
-Saints Row 2,2008,Action,Action Adventure,Volition,3.57,72.0,9.99,1.49,85,Mostly Positive,Moderate,Offre
-Kingdom Come: Deliverance,2018,Action,Tactical Shooter,Deep Silver,4.05,89.0,59.99,23.99,60,Very Positive,Popular,Offre
-Red Dead Redemption,2010,Action,Action Adventure,Rockstar North,4.41,93.0,59.99,14.99,75,Very Positive,Blockbuster,Offre
-The Last of Us Part 2,2020,Action,Action Stealth,Naughty Dog,4.41,90.65,49.99,33.49,33,Very Positive,Popular,Offre
-Sid Meier's Civilization 6,2016,Action,Tactical Shooter,Aspyr Media,4.16,88.0,59.99,5.99,90,Very Positive,Popular,Offre
-Ori and the Blind Forest,2015,Action,Metroidvania,Moon Studios,4.37,88.0,,,0,Very Positive,Popular,Free
-Amnesia: A Machine for Pigs,2013,Action,Tactical Shooter,The Chinese Room,3.23,72.0,19.5,3.9,80,Mostly Positive,Moderate,Offre
-Trine 2: Complete Story,2013,Action,Action Adventure,Frozenbyte,3.72,84.0,19.99,3.99,80,Overwhelmingly Positive,Moderate,Offre
-SOMA,2015,Action,Tactical Shooter,Frictional Games,4.17,95.81,28.99,5.79,80,Overwhelmingly Positive,Popular,Offre
-Viscera Cleanup Detail: Shadow Warrior,2013,Action,Tactical Shooter,Unknown,2.59,80.96,,,0,Very Positive,Moderate,Free
-Watch Dogs 2,2016,Action,Action Stealth,Ubisoft Montreal,3.84,82.0,59.99,2.99,95,Very Positive,Popular,Offre
-Thief,2014,Action,Tactical Shooter,Feral Interactive,3.26,88.28,19.5,1.75,91,Very Positive,Popular,Offre
-The Last Of Us,2013,Action,Action Adventure,Naughty Dog,4.54,85.24,59.99,29.99,50,Very Positive,Popular,Offre
-This War of Mine,2014,Action,Action Stealth,11 Bit Studios,4.07,83.0,18.99,1.89,90,Very Positive,Popular,Offre
-Call of Juarez: Gunslinger,2013,Action,Tactical Shooter,Ubisoft,3.81,79.0,12.49,1.24,90,Overwhelmingly Positive,Moderate,Offre
-Grand Theft Auto 3,2001,Action,Action Adventure,Unknown,4.16,66.08,59.99,19.79,67,Mixed,Moderate,Offre
-Dead Cells,2018,Action,Metroidvania,Plug In Digital,4.23,89.0,24.99,12.49,50,Overwhelmingly Positive,Popular,Offre
-Wolfenstein 2: The New Colossus,2017,Action,Tactical Shooter,Bethesda Softworks,4.09,86.0,29.99,4.49,85,Very Positive,Popular,Offre
-"Papers, Please",2013,Platformer,3D Platformer,Lucas Pope,4.37,85.0,9.75,9.75,0,Overwhelmingly Positive,Popular,Free
-Call of Duty: Black Ops 3,2015,Action,Tactical Shooter,Raven Software,3.27,73.0,59.99,59.99,0,Very Positive,Popular,Free
-Killing Floor,2009,Action,Tactical Shooter,Tripwire Interactive,3.45,46.82,39.99,19.99,50,Mixed,Moderate,Offre
-Divinity: Original Sin 2,2017,RPG,Action RPG,Larian Studios,4.38,93.0,44.99,11.24,75,Overwhelmingly Positive,Popular,Offre
-Shadowrun Returns,2013,RPG,Tactical Shooter,Harebrained Schemes,3.5,76.0,14.99,3.74,75,Very Positive,Moderate,Offre
-Darksiders Warmastered Edition,2016,Action,Metroidvania,Vigil Games,3.68,88.25,19.99,2.99,85,Very Positive,Moderate,Offre
-Magicka,2011,Action,Action RPG,Paradox Interactive,3.79,79.54,14.99,3.74,75,Very Positive,Moderate,Offre
-Lara Croft and the Temple of Osiris,2014,Action,Action Adventure,Square Enix,3.09,73.0,19.99,2.99,85,Mixed,Moderate,Offre
-Quake Champions,2017,Action,Tactical Shooter,id Software,3.26,76.01,9.99,9.99,0,Mostly Positive,Moderate,Free
-A Plague Tale: Innocence,2019,Action,Action Stealth,Focus Home Interactive,4.14,81.0,39.99,3.99,90,Very Positive,Popular,Offre
-Subnautica,2018,Action,Tactical Shooter,Unknown Worlds Entertainment,4.24,91.35,29.99,29.99,0,Very Positive,Popular,Free
-Dead Island,2011,Action,Action Adventure,Techland,3.48,77.42,49.99,4.99,90,Mostly Positive,Moderate,Offre
-South Park: The Stick of Truth,2014,Action,Action Adventure,Obsidian Entertainment,4.22,97.51,29.99,7.49,75,Overwhelmingly Positive,Popular,Offre
-Resident Evil 4 (2005),2005,Action,Survival Horror,Capcom,4.4,79.0,19.99,4.99,75,Overwhelmingly Positive,Popular,Offre
-Darkest Dungeon,2016,RPG,Action RPG,Red Hook Studios,4.17,84.0,22.99,3.44,85,Very Positive,Popular,Offre
-FEZ,2012,Action,Metroidvania,POLYTRON,4.01,91.0,9.99,4.99,50,Very Positive,Moderate,Offre
-Star Wars: Knights of the Old Republic,2003,Action,Action Adventure,Aspyr Media,4.35,90.98,9.75,3.9,60,Very Positive,Moderate,Offre
-Half-Life: Blue Shift,2001,Action,Tactical Shooter,Gearbox Software,3.73,71.0,4.99,0.99,80,Very Positive,Moderate,Offre
-Half-Life: Opposing Force,1999,Action,Tactical Shooter,Gearbox Software,3.87,95.49,4.99,0.99,80,Overwhelmingly Positive,Moderate,Offre
-Castle Crashers,2008,Action,Action RPG,The Behemoth,3.89,96.3,11.99,3.59,70,Overwhelmingly Positive,Popular,Offre
-DiRT Rally,2015,Sports,Tactical Shooter,Unknown,3.68,84.0,19.99,13.99,30,Very Positive,Popular,Offre
-Call of Duty: Black Ops,2010,Action,Tactical Shooter,Raven Software,4.06,73.0,59.99,59.99,0,Very Positive,Popular,Free
-Dragon Age: Origins,2009,RPG,Tactical Shooter,BioWare,4.39,91.0,29.99,7.49,75,Very Positive,Moderate,Offre
-Don't Starve,2013,Action,Survival Horror,Klei Entertainment,3.22,83.0,14.99,5.09,66,Overwhelmingly Positive,Popular,Offre
-Halo: The Master Chief Collection,2014,Action,Tactical Shooter,343 Industries,4.25,92.08,39.99,39.99,0,Very Positive,Popular,Free
-The Binding of Isaac,2011,Action,Action Adventure,Edmund McMillen and Florian Himsl,3.91,96.86,14.99,11.24,25,Overwhelmingly Positive,Popular,Offre
-Chivalry: Medieval Warfare,2012,Action,Tactical Shooter,Activision,3.41,79.0,22.99,4.59,80,Very Positive,Popular,Offre
-DmC: Devil May Cry,2013,Action,Action Adventure,Ninja Theory,4.02,85.0,29.99,7.49,75,Very Positive,Moderate,Offre
-Syberia,2002,Action,Action Adventure,Microids,3.94,70.67,29.99,11.99,60,Mostly Positive,Moderate,Offre
-Quantum Break,2016,Action,Action Adventure,Remedy Entertainment,3.9,66.0,36.99,9.24,75,Very Positive,Moderate,Offre
-Dead Space 2,2011,Action,Survival Horror,Electronic Arts,4.38,87.0,19.99,3.99,80,Overwhelmingly Positive,Moderate,Offre
-Batman: Arkham City,2011,Action,Action Adventure,Rocksteady Studios,4.4,91.0,19.99,3.99,80,Overwhelmingly Positive,Popular,Offre
-Sleeping Dogs: Definitive Edition,2014,Action,Action Adventure,Feral Interactive,4.15,94.08,,,0,Overwhelmingly Positive,Popular,Free
-Fallout 3,2008,Shooter,Tactical Shooter,Bethesda Game Studios,4.08,91.0,9.99,2.49,75,Very Positive,Moderate,Offre
-Devil May Cry 5,2019,Action,Action Adventure,Capcom,4.25,89.0,29.99,7.49,75,Overwhelmingly Positive,Popular,Offre
-The Bureau: XCOM Declassified,2013,Action,Tactical Shooter,2K,3.05,66.0,19.99,3.99,80,Mixed,Moderate,Offre
-Rayman Legends,2013,Platformer,3D Platformer,Ubisoft,4.16,89.0,19.99,19.99,0,Very Positive,Moderate,Free
-Beyond: Two Souls,2013,Action,Action Adventure,Quantic Dream,3.81,76.0,19.99,0.99,95,Very Positive,Popular,Offre
-Yakuza 0,2015,Action,Action Adventure,SEGA,4.36,80.85,49.99,24.99,50,Very Positive,Moderate,Offre
-Days Gone,2019,Action,Action Stealth,Bend Studio,3.98,92.67,39.99,15.99,60,Very Positive,Popular,Offre
-Guacamelee! Super Turbo Championship Edition,2014,Action,Metroidvania,DrinkBox Studios,3.55,93.4,15.49,3.87,75,Very Positive,Moderate,Offre
-Mafia 3,2016,Action,Action Stealth,Aspyr Media,3.96,57.64,29.99,5.99,80,Mixed,Popular,Offre
-Battlefield 4,2013,Shooter,Tactical Shooter,Electronic Arts,3.95,84.65,39.99,3.99,90,Very Positive,Popular,Offre
-SUPERHOT,2016,Action,Tactical Shooter,SUPERHOT Team,4.2,83.0,22.49,8.99,60,Very Positive,Moderate,Offre
-What Remains of Edith Finch,2017,Action,Tactical Shooter,Annapurna Interactive,4.38,89.0,18.49,4.62,75,Overwhelmingly Positive,Popular,Offre
-The Sims 4,2014,Action,Action Adventure,Electronic Arts,3.67,85.39,0.0,0.0,0,Very Positive,Popular,Paid
-Torchlight 2,2012,Action,Action RPG,Runic Games,3.84,88.0,18.99,3.79,80,Very Positive,Popular,Offre
-Wallpaper Engine,2016,Action,Action Adventure,Unknown,4.05,97.55,4.99,3.99,20,Overwhelmingly Positive,Blockbuster,Offre
-Goat Simulator,2014,Action,Action Adventure,Double Eleven,3.18,97.88,29.99,11.99,60,Overwhelmingly Positive,Moderate,Offre
-Call of Duty: WWII,2017,Action,Tactical Shooter,Sledgehammer Games,3.55,71.66,59.99,59.99,0,Mostly Positive,Popular,Free
-Ori and the Will of the Wisps,2020,Action,Metroidvania,Moon Studios,4.41,88.0,29.99,2.99,90,Overwhelmingly Positive,Popular,Offre
-Hotline Miami 2: Wrong Number,2015,Action,Action Adventure,Devolver Digital,4.28,94.15,14.79,2.21,85,Overwhelmingly Positive,Popular,Offre
-Resident Evil 6,2012,Action,Survival Horror,Capcom,3.43,69.0,19.99,4.99,75,Mostly Positive,Popular,Offre
-Homefront,2011,Shooter,Tactical Shooter,Digital Extremes,2.96,54.0,19.99,1.99,90,Mixed,Moderate,Offre
-Sniper Elite V2,2012,Action,Action Stealth,Rebellion,3.4,66.0,,,0,Very Positive,Moderate,Free
-Resident Evil 2 (1998),1998,Action,Survival Horror,Capcom,4.33,90.66,9.99,4.99,50,Very Positive,Moderate,Offre
-Grim Fandango Remastered,2015,Action,Action Adventure,Double Fine Productions,4.0,84.0,14.99,2.99,80,Very Positive,Moderate,Offre
-Dragon Age: Inquisition,2014,Action,Action RPG,BioWare,3.79,85.0,39.99,9.99,75,Mostly Positive,Moderate,Offre
-The Outer Worlds,2019,Action,Tactical Shooter,Obsidian Entertainment,3.85,73.06,69.99,34.99,50,Mostly Positive,Moderate,Offre
-The Witness,2016,Action,Tactical Shooter,NVIDIA Lightspeed Studios,3.96,87.0,36.99,3.69,90,Very Positive,Moderate,Offre
-Euro Truck Simulator 2,2012,Action,Tactical Shooter,SCS Software,4.13,79.0,19.99,4.99,75,Overwhelmingly Positive,Blockbuster,Offre
-Call of Duty: Modern Warfare 3,2011,Action,Tactical Shooter,Aspyr Media,3.79,47.4,69.99,17.49,75,Mixed,Moderate,Offre
-Broforce,2015,Action,Action Adventure,Devolver Digital,4.02,83.0,14.79,2.95,80,Overwhelmingly Positive,Popular,Offre
-The Forest,2018,Action,Tactical Shooter,Endnight Games,3.74,83.0,16.79,3.52,79,Overwhelmingly Positive,Blockbuster,Offre
-FTL: Faster Than Light,2012,Action,Action Adventure,Subset Games,4.25,84.0,9.99,2.99,70,Overwhelmingly Positive,Popular,Offre
-POSTAL 2,2003,Action,Tactical Shooter,Running With Scissors,3.91,59.0,,,0,Overwhelmingly Positive,Popular,Free
-Forza Horizon 4,2018,Sports,Tactical Shooter,Playground Games,4.37,84.09,,,0,Very Positive,Niche,Free
-Kingdom: Classic,2015,Action,Action Adventure,Noio,3.4,74.0,0.0,0.0,0,Very Positive,Moderate,Paid
-The Walking Dead: Season 2,2013,Action,Action Adventure,Telltale Games,4.06,80.0,14.79,3.69,75,Overwhelmingly Positive,Moderate,Offre
-Surviving Mars,2018,Action,Action Adventure,Haemimont Games,3.46,56.29,39.99,19.99,50,Mixed,Moderate,Offre
-Borderlands 3,2019,Action,Tactical Shooter,2K,3.87,81.0,59.99,5.99,90,Very Positive,Popular,Offre
-Dark Souls 2: Scholar of the First Sin,2015,Action,Action RPG,BANDAI NAMCO Entertainment America,4.14,79.0,39.99,19.99,50,Very Positive,Popular,Offre
-Deus Ex: Human Revolution,2011,Action,Action Stealth,Eidos Montreal,4.36,91.0,19.99,1.99,90,Very Positive,Moderate,Offre
-Syberia 2,2004,Action,Action Adventure,Microids,3.89,80.0,12.99,2.59,80,Very Positive,Moderate,Offre
-Sleeping Dogs,2012,Action,Action Adventure,United Front Games,4.14,80.0,19.99,2.99,85,Very Positive,Moderate,Offre
-Celeste,2018,Platformer,3D Platformer,Unknown,4.37,88.0,18.99,4.74,75,Overwhelmingly Positive,Popular,Offre
-Bayonetta,2009,Action,Action Adventure,Unknown,4.3,90.0,19.99,5.99,70,Very Positive,Moderate,Offre
-To the Moon,2011,Action,Action Adventure,X.D. Network,4.29,81.0,9.75,1.95,80,Overwhelmingly Positive,Popular,Offre
-Call of Duty: Black Ops 2,2012,Action,Tactical Shooter,Treyarch,3.96,74.0,39.99,39.99,0,Very Positive,Moderate,Free
-A Story About My Uncle,2014,Action,Tactical Shooter,Gone North Games,3.15,73.0,14.99,2.99,80,Very Positive,Moderate,Offre
-Frostpunk,2018,Action,Action Adventure,11 Bit Studios,4.19,85.0,44.99,20.24,55,Mostly Positive,Moderate,Offre
-SMITE,2015,Action,Action Adventure,Hi-Rez Studios,3.05,63.55,0.0,0.0,0,Mixed,Moderate,Paid
-Tom Clancy's The Division,2016,Action,Tactical Shooter,Ubisoft,3.7,16.67,49.99,49.99,0,Overwhelmingly Negative,Niche,Free
-Borderlands Game of the Year Enhanced,2019,Action,Tactical Shooter,Gearbox Software,3.8,81.1,29.99,5.99,80,Very Positive,Moderate,Offre
-Ghost of Tsushima,2020,Action,Action Adventure,Sucker Punch Productions,4.41,93.98,59.99,35.99,40,Very Positive,Popular,Offre
-Batman: Arkham Asylum,2009,Action,Action Stealth,Rocksteady Studios,4.4,91.0,19.99,2.99,85,Overwhelmingly Positive,Popular,Offre
-Team Fortress Classic,1999,Action,Tactical Shooter,Valve Software,2.92,86.48,4.99,0.99,80,Very Positive,Moderate,Offre
-Black Mesa,2020,Action,Tactical Shooter,Crowbar Collective,4.35,84.0,19.5,11.7,40,Overwhelmingly Positive,Popular,Offre
-Metal Gear Rising: Revengeance,2013,Action,Action Stealth,Platinum Games,4.25,83.0,19.99,19.99,0,Overwhelmingly Positive,Popular,Free
-"Warhammer 40,000: Space Marine",2011,Action,Action Adventure,Relic Entertainment,3.48,82.0,59.99,14.99,75,Very Positive,Popular,Offre
-PAYDAY The Heist,2011,Action,Tactical Shooter,OVERKILL Software,3.35,76.0,9.49,3.13,67,Very Positive,Moderate,Offre
-Assassin's Creed Syndicate,2015,Action,Action Stealth,Ubisoft Montreal,3.66,74.0,39.99,7.99,80,Very Positive,Popular,Offre
-Ratchet & Clank,2016,Action,Action Adventure,Insomniac Games,4.15,90.15,59.99,23.99,60,Very Positive,Moderate,Offre
-Dead by Daylight,2016,Action,Tactical Shooter,Behaviour Interactive,3.5,78.4,19.99,7.99,60,Mostly Positive,Blockbuster,Offre
-Age of Wonders 3,2014,RPG,Tactical Shooter,Triumph Studios,2.92,80.0,29.99,7.49,75,Very Positive,Moderate,Offre
-LEGO The Lord of the Rings,2012,Action,Action Adventure,Warner Bros. Interactive,3.56,80.0,19.99,3.99,80,Very Positive,Moderate,Offre
-Half-Life: Source,2004,Action,Tactical Shooter,Valve Software,3.71,74.51,,,0,Mostly Positive,Moderate,Free
-Overcooked,2016,Action,Action Adventure,Team17 Digital,4.07,81.0,22.99,5.74,75,Very Positive,Popular,Offre
-A Way Out,2018,Action,Action Stealth,Unknown,4.13,78.0,29.99,8.99,70,Very Positive,Popular,Offre
-Rust,2018,Action,Tactical Shooter,Facepunch Studios,3.37,69.0,39.99,19.99,50,Very Positive,Blockbuster,Offre
-STAR WARS Battlefront 2,2017,Action,Tactical Shooter,Electronic Arts DICE,3.58,88.39,39.99,9.99,75,Very Positive,Popular,Offre
-Human: Fall Flat,2016,Action,Action Adventure,505 Games,3.83,70.0,19.99,5.99,70,Overwhelmingly Positive,Popular,Offre
-Max Payne,2001,Action,Action Adventure,Remedy Entertainment,4.45,87.0,19.99,5.99,70,Very Positive,Popular,Offre
-Deus Ex: Game of the Year Edition,2000,Action,Tactical Shooter,Ion Storm,4.12,90.0,6.99,0.9,87,Overwhelmingly Positive,Moderate,Offre
-Until Dawn,2015,Action,Action Adventure,Supermassive Games,4.04,82.96,69.99,34.99,50,Very Positive,Moderate,Offre
-Doki Doki Literature Club!,2017,Action,Action Adventure,Team Salvato,4.06,97.52,0.0,0.0,0,Overwhelmingly Positive,Moderate,Paid
-Hitman: Blood Money,2006,Action,Tactical Shooter,Square Enix,4.31,82.0,9.75,0.97,90,Very Positive,Moderate,Offre
-The Long Dark,2014,Action,Tactical Shooter,Hinterland Studio,3.91,89.06,16.99,16.99,0,Very Positive,Popular,Free
-FINAL FANTASY XV,2016,RPG,Action RPG,Square Enix,3.87,83.4,34.99,10.49,70,Very Positive,Popular,Offre
-Company of Heroes,2006,Action,Tactical Shooter,Feral Interactive,3.68,81.0,54.99,21.99,60,Mixed,Moderate,Offre
-The Binding of Isaac: Rebirth,2014,Action,Action Adventure,Nicalis,4.31,96.86,14.99,11.24,25,Overwhelmingly Positive,Popular,Offre
-Oddworld: Abe's Oddysee,1997,Action,Action Adventure,Sony Interactive Entertainment,3.55,38.46,4.99,4.99,0,Mostly Negative,Niche,Free
-Stray,2022,Action,Action Stealth,BlueTwelve,4.15,82.0,28.49,14.24,50,Overwhelmingly Positive,Popular,Offre
-Tropico 4,2011,Action,Action Adventure,Feral Interactive,3.51,78.0,14.99,4.49,70,Very Positive,Moderate,Offre
-Mortal Kombat 11,2019,Action,Action Adventure,NetherRealm Studios,3.97,82.0,49.99,4.99,90,Very Positive,Popular,Offre
-Titan Souls,2015,Action,Action Adventure,Devolver Digital,3.33,74.0,14.79,1.47,90,Very Positive,Moderate,Offre
-Wolfenstein: The Old Blood,2015,Action,Tactical Shooter,Bethesda Softworks,4.0,76.0,19.99,4.99,75,Very Positive,Moderate,Offre
-Divinity: Original Sin: Enhanced Edition,2015,RPG,Action RPG,Unknown,4.25,94.0,39.99,3.99,90,Very Positive,Moderate,Offre
-Dark Souls: Remastered,2018,Action,Action RPG,FromSoftware,4.48,84.0,39.99,19.99,50,Very Positive,Popular,Offre
-Ryse: Son of Rome,2013,Action,Action Adventure,Crytek,3.59,61.0,9.99,3.49,65,Very Positive,Popular,Offre
-It Takes Two,2021,Action,Action RPG,Hazelight,4.45,89.0,39.99,11.99,70,Overwhelmingly Positive,Popular,Offre
-Darksiders 2 Deathinitive Edition,2015,Action,Action RPG,THQ Nordic,3.79,78.86,29.99,4.49,85,Mostly Positive,Moderate,Offre
-The Evil Within,2014,Action,Action Stealth,Bethesda Softworks,3.98,68.0,19.99,4.99,75,Very Positive,Moderate,Offre
-Fallout 2,1998,RPG,Action RPG,Black Isle Studios,4.34,86.0,9.99,2.49,75,Very Positive,Moderate,Offre
-Hacknet,2015,Action,Action Adventure,Team Fractal Alligator,3.19,96.96,6.89,2.75,60,Overwhelmingly Positive,Moderate,Offre
-Beholder,2016,Action,Action Stealth,Alawar Entertainment,3.8,91.67,13.79,4.13,70,Very Positive,Moderate,Offre
-Guns of Icarus Online,2012,Action,Tactical Shooter,Muse Games,2.59,64.0,4.99,4.99,0,Very Positive,Moderate,Free
-Sea of Thieves,2018,Action,Tactical Shooter,Rare,3.69,88.93,39.99,13.99,65,Very Positive,Popular,Offre
-Dear Esther: Landmark Edition,2017,Action,Tactical Shooter,The Chinese Room,3.31,79.03,9.99,1.99,80,Very Positive,Moderate,Offre
-Prison Architect,2015,Action,Action Adventure,Double Eleven,3.73,83.0,24.99,6.24,75,Very Positive,Popular,Offre
-Resident Evil 2,2019,Action,Survival Horror,Capcom,4.5,89.0,39.99,7.99,80,Overwhelmingly Positive,Popular,Offre
-Sid Meier's Civilization 3 Complete,2001,Action,Action Adventure,Firaxis,3.71,90.0,4.99,0.99,80,Very Positive,Moderate,Offre
-Assassin's Creed,2007,Action,Action Stealth,Ubisoft,3.67,74.71,69.99,27.99,60,Mostly Positive,Popular,Offre
-Fallout 3: Game of the Year Edition,2009,Action,Tactical Shooter,Bethesda Game Studios,4.14,91.0,19.99,6.59,67,Very Positive,Popular,Offre
-Minion Masters,2019,Action,Action Adventure,BetaDwarf,2.3,79.67,0.0,0.0,0,Very Positive,Moderate,Paid
-Murdered: Soul Suspect,2014,Action,Action Stealth,Square Enix,3.47,59.0,19.99,1.99,90,Very Positive,Moderate,Offre
-Jotun: Valhalla Edition,2015,Action,Action Adventure,Thunder Lotus,3.06,79.0,15.49,1.54,90,Mostly Positive,Moderate,Offre
-LEGO The Hobbit,2014,Action,Action Adventure,Feral Interactive,3.41,78.91,19.99,3.99,80,Mostly Positive,Moderate,Offre
-F.E.A.R.,2005,Action,Tactical Shooter,Monolith Productions,4.27,88.0,,,0,Very Positive,Moderate,Free
-Starbound,2016,Action,Action Adventure,Chucklefish,3.82,81.0,14.99,5.99,60,Very Positive,Popular,Offre
-Braid,2008,Action,Action Adventure,Hothead Games,4.16,92.92,19.5,1.95,90,Very Positive,Moderate,Offre
-Resident Evil,1996,Action,Action Adventure,Capcom,4.37,91.0,39.99,9.99,75,Overwhelmingly Positive,Popular,Offre
-Killing Floor 2,2016,Action,Tactical Shooter,Tripwire Interactive,3.53,75.0,26.99,2.69,90,Very Positive,Popular,Offre
-Trine Enchanted Edition,2009,Action,Action Adventure,Unknown,3.83,80.0,14.99,2.99,80,Overwhelmingly Positive,Moderate,Offre
-Sanctum 2,2013,Action,Tactical Shooter,Coffee Stain Studios,2.97,77.0,14.99,2.99,80,Very Positive,Moderate,Offre
-Serious Sam Fusion 2017 (beta),2017,Action,Tactical Shooter,Croteam,3.05,92.9,14.99,1.49,90,Very Positive,Moderate,Offre
-Enter the Gungeon,2016,Action,Action Adventure,Dodge Roll,4.07,84.0,14.79,2.95,80,Overwhelmingly Positive,Popular,Offre
-Resident Evil Revelations 2,2015,Action,Action RPG,Capcom,3.69,78.45,19.99,4.99,75,Mostly Positive,Moderate,Offre
-Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011,Action,Tactical Shooter,Unknown,3.26,76.0,24.99,2.49,90,Very Positive,Moderate,Offre
-Neverwinter,2013,Action,Action RPG,Cryptic Studios,2.92,74.0,0.0,0.0,0,Mostly Positive,Niche,Paid
-Far Cry 3: Blood Dragon,2013,Shooter,Tactical Shooter,Ubisoft,4.0,81.0,14.99,3.74,75,Very Positive,Moderate,Offre
-Resident Evil 3,2020,Action,Survival Horror,Capcom,4.04,77.0,39.99,7.99,80,Very Positive,Popular,Offre
-Mafia: Definitive Edition,2020,Action,Action Adventure,Hangar 13,4.24,78.0,39.99,7.99,80,Very Positive,Popular,Offre
-Lords of the Fallen (2014),2014,Action,Tactical Shooter,City Interactive,2.91,75.0,29.99,2.99,90,Mixed,Moderate,Offre
-Serious Sam 3: BFE,2011,Action,Tactical Shooter,Devolver Digital,3.46,72.0,28.99,2.89,90,Very Positive,Moderate,Offre
-Darksiders 2,2012,Action,Action Adventure,THQ Nordic,3.74,78.86,29.99,4.49,85,Mostly Positive,Moderate,Offre
-Mafia 2: Definitive Edition,2020,Action,Action Adventure,Hangar 13,3.96,74.37,29.99,5.99,80,Mostly Positive,Moderate,Offre
-Mark of the Ninja,2012,Action,Action Stealth,Klei Entertainment,3.99,91.0,,,0,Overwhelmingly Positive,Moderate,Free
-Slay the Spire,2019,RPG,Action RPG,Humble Bundle,4.35,61.45,22.99,22.99,0,Mixed,Popular,Free
-BattleBlock Theater,2013,Action,Action Adventure,The Behemoth,3.84,85.0,14.99,4.49,70,Overwhelmingly Positive,Popular,Offre
-Drawful 2,2016,Action,Action Adventure,Jackbox Games,3.2,91.25,9.99,5.49,45,Very Positive,Moderate,Offre
-Final Fantasy 7,2020,Action,Action Adventure,Square Enix,4.37,75.39,49.99,14.99,70,Mostly Positive,Moderate,Offre
-Orwell: Keeping an Eye On You,2016,Action,Action Adventure,Osmotic Studios,3.28,77.0,9.99,2.49,75,Very Positive,Moderate,Offre
-Deep Rock Galactic,2020,Action,Action Adventure,Ghost Ship Games,4.1,85.0,29.99,8.99,70,Overwhelmingly Positive,Popular,Offre
-Vampire Survivors,2022,Action,Action RPG,poncle,4.19,86.0,4.99,3.74,25,Overwhelmingly Positive,Popular,Offre
-Remember Me,2013,Action,Tactical Shooter,Capcom U.S.A,3.67,65.0,29.99,5.99,80,Very Positive,Moderate,Offre
-Far Cry 2,2008,Action,Tactical Shooter,Ubisoft,3.46,85.0,9.99,2.99,70,Mostly Positive,Moderate,Offre
-Resident Evil: Village,2021,Action,Tactical Shooter,Capcom,4.39,83.0,39.99,9.99,75,Overwhelmingly Positive,Popular,Offre
-Stellaris,2016,Action,Action Adventure,Unknown,4.11,78.0,49.99,14.99,70,Very Positive,Popular,Offre
-ABZU,2016,Action,Action Adventure,Giant Squid,3.91,83.0,19.99,4.99,75,Very Positive,Moderate,Offre
-Child of Light,2014,RPG,Metroidvania,Ubisoft,3.84,77.0,14.99,4.49,70,Very Positive,Moderate,Offre
-Broken Age,2014,Action,Action Adventure,Double Fine Productions,3.65,73.0,12.49,2.49,80,Very Positive,Moderate,Offre
-F.E.A.R. 3,2011,Action,Tactical Shooter,Warner Bros. Interactive,3.35,74.0,19.99,3.99,80,Mostly Positive,Moderate,Offre
-VRChat,2017,Action,Action Adventure,VRChat,3.15,83.56,0.0,0.0,0,Very Positive,Niche,Paid
-The Playroom,2013,Action,Action Adventure,SCE Japan Studio,2.27,100.0,4.99,4.99,0,Overwhelmingly Positive,Niche,Free
-F.E.A.R. 2: Project Origin,2009,Action,Tactical Shooter,Warner Bros. Interactive,3.86,79.0,14.99,2.99,80,Very Positive,Moderate,Offre
-PlanetSide 2,2012,Action,Tactical Shooter,Daybreak Games Company,2.97,84.0,0.0,0.0,0,Mostly Positive,Moderate,Paid
-Destiny,2014,Action,Tactical Shooter,Bungie,3.69,83.0,0.0,0.0,0,Mostly Positive,Popular,Paid
-Dying Light,2015,Action,Action Adventure,Techland,4.14,87.0,,,0,Overwhelmingly Positive,Popular,Free
-Sonic Mania,2017,Action,Action Adventure,SEGA,3.86,84.0,19.99,4.99,75,Overwhelmingly Positive,Moderate,Offre
-The Elder Scrolls 3: Morrowind,2002,Action,Tactical Shooter,Bethesda Game Studios,4.37,89.0,14.99,5.99,60,Overwhelmingly Positive,Moderate,Offre
-Lara Croft and the Guardian of Light,2010,Action,Action Adventure,Square Enix,3.43,82.0,9.99,1.49,85,Very Positive,Moderate,Offre
-The Talos Principle,2014,Action,Tactical Shooter,Devolver Digital,4.16,88.0,28.99,2.89,90,Overwhelmingly Positive,Moderate,Offre
-Battlefield 3,2011,Action,Tactical Shooter,Electronic Arts DICE,4.08,89.0,39.99,3.99,90,Mostly Positive,Moderate,Offre
-Gris,2018,Action,Action Adventure,Nomada Studio,4.2,84.0,14.79,2.95,80,Overwhelmingly Positive,Popular,Offre
-Vampyr,2018,Action,Action Adventure,DONTNOD Entertainment,3.49,72.0,39.99,3.99,90,Mostly Positive,Moderate,Offre
-Outer Wilds,2019,Action,Action Adventure,Mobius Digital,4.36,85.0,22.99,11.49,50,Overwhelmingly Positive,Popular,Offre
-The Flame in the Flood,2016,Action,Action Adventure,The Molasses Flood,2.89,73.0,14.99,2.24,85,Mostly Positive,Moderate,Offre
-Battlefield V,2018,Action,Tactical Shooter,Electronic Arts,3.52,70.56,49.99,4.99,90,Mostly Positive,Popular,Offre
-Valheim,2026,Action,Action Adventure,Dvoid,3.98,90.0,29.99,26.99,10,Very Positive,Popular,Offre
-STAR WARS Battlefront,2015,Action,Tactical Shooter,Unknown,3.29,88.39,39.99,9.99,75,Very Positive,Popular,Offre
-Uncharted: Legacy of Thieves Collection,2022,Action,Action Stealth,Naughty Dog,4.46,90.51,49.99,16.49,67,Very Positive,Moderate,Offre
-Divinity: Original Sin,2014,RPG,Action RPG,Larian Studios,4.19,93.0,44.99,11.24,75,Overwhelmingly Positive,Popular,Offre
-Tomb Raider: Underworld,2008,Action,Action Adventure,Feral Interactive,3.7,80.0,8.99,0.98,89,Mostly Positive,Moderate,Offre
-Spelunky,2012,Platformer,3D Platformer,Mossmouth,3.69,91.0,16.79,5.87,65,Very Positive,Moderate,Offre
-Max Payne 2: The Fall of Max Payne,2003,Action,Action Adventure,Remedy Entertainment,4.42,86.0,9.99,2.49,75,Overwhelmingly Positive,Moderate,Offre
-Deponia,2012,Action,Action Adventure,Daedalic Entertainment,3.85,76.0,19.99,1.99,90,Very Positive,Moderate,Offre
-Rogue Legacy,2013,Action,Metroidvania,Abstraction Games,3.87,88.0,24.5,9.8,60,Very Positive,Moderate,Offre
-Killer is Dead: Nightmare Edition,2014,Action,Action Adventure,Grasshopper Manufacture,3.22,75.68,19.99,1.99,90,Mostly Positive,Moderate,Offre
-Crysis 2: Maximum Edition,2011,Action,Tactical Shooter,Crytek,3.96,86.21,29.99,7.49,75,Very Positive,Moderate,Offre
-Star Wars: Battlefront 2 (2005),2005,Action,Tactical Shooter,Electronic Arts,4.21,78.0,9.75,4.87,50,Overwhelmingly Positive,Popular,Offre
-Crash Bandicoot N. Sane Trilogy,2017,Action,Action Adventure,Activision,3.96,92.22,39.99,15.99,60,Very Positive,Moderate,Offre
-Tabletop Simulator,2015,RPG,Action RPG,Berserk Games,4.06,95.9,19.5,9.75,50,Overwhelmingly Positive,Popular,Offre
-Dust: An Elysian Tail,2012,Action,Action RPG,Humble Hearts,3.63,95.11,13.99,2.79,80,Overwhelmingly Positive,Moderate,Offre
-Persona 5,2016,Action,Action Adventure,Atlus,4.34,95.0,59.99,17.99,70,Overwhelmingly Positive,Popular,Offre
-Sniper Elite 4,2017,Action,Action Stealth,Rebellion,3.59,78.0,59.99,5.99,90,Very Positive,Popular,Offre
-Life is Strange 2,2018,Action,Action Adventure,DONTNOD Entertainment,3.8,85.21,0.0,0.0,0,Very Positive,Moderate,Paid
-Machinarium,2009,Action,Action Adventure,Amanita Design,4.18,85.0,19.99,5.99,70,Overwhelmingly Positive,Moderate,Offre
-Day of Defeat: Source,2005,Action,Tactical Shooter,Valve Software,3.2,80.0,9.75,1.95,80,Very Positive,Moderate,Offre
-Medal of Honor,2010,Shooter,Tactical Shooter,Electronic Arts DICE,3.28,72.0,19.99,4.99,75,Very Positive,Moderate,Offre
-Valiant Hearts: The Great War,2014,Action,Action Adventure,Ubisoft Montpellier,4.36,95.5,14.99,3.74,75,Overwhelmingly Positive,Moderate,Offre
-Crysis,2007,Action,Tactical Shooter,Electronic Arts,3.96,88.24,29.99,13.49,55,Very Positive,Moderate,Offre
-Forza Horizon 5,2021,Sports,Tactical Shooter,Playground Games,4.28,89.42,59.99,23.99,60,Very Positive,Popular,Offre
-Yakuza Kiwami,2016,Action,Action Adventure,Ryu ga Gotoku Studio,4.1,82.46,,,0,Very Positive,Moderate,Free
-Marvel's Guardians of the Galaxy,2021,Action,Action Adventure,Eidos Montreal,4.29,75.0,,,55,Mostly Positive,Niche,Offre
-Pillars of Eternity,2015,RPG,Action RPG,Unknown,3.96,89.0,29.99,11.99,60,Very Positive,Moderate,Offre
-The LEGO NINJAGO Movie Video Game,2017,Action,Action Adventure,Warner Bros. Interactive,2.93,86.61,29.99,4.49,85,Very Positive,Moderate,Offre
-Red Faction: Guerrilla,2009,Action,Action Adventure,THQ Nordic,3.68,79.52,19.99,3.99,80,Very Positive,Moderate,Offre
-Mass Effect 3,2012,Action,Action Adventure,BioWare,4.4,89.0,29.99,7.49,75,Mostly Positive,Moderate,Offre
-S.T.A.L.K.E.R.: Clear Sky,2008,Shooter,Tactical Shooter,GSC Game World,3.88,59.56,19.99,13.39,33,Mixed,Moderate,Offre
-The Swapper,2013,Action,Metroidvania,Curve Digital,3.53,87.0,13.99,2.09,85,Very Positive,Moderate,Offre
-The Elder Scrolls 4: Oblivion Game of the Year Edition,2009,RPG,Tactical Shooter,Bethesda Game Studios,4.32,94.0,14.99,3.74,75,Overwhelmingly Positive,Popular,Offre
-Binary Domain,2012,Action,Action Adventure,SEGA,3.56,68.0,14.99,2.99,80,Very Positive,Moderate,Offre
-Hitman 2: Silent Assassin,2002,Action,Tactical Shooter,Square Enix,3.95,87.0,8.99,0.89,90,Very Positive,Moderate,Offre
-Shadow Tactics: Blades of the Shogun,2016,Action,Action Stealth,Daedalic Entertainment,4.08,85.0,39.99,3.99,90,Overwhelmingly Positive,Popular,Offre
-Call of Duty: World at War,2008,Shooter,Tactical Shooter,Treyarch,3.97,83.0,19.99,19.99,0,Very Positive,Popular,Free
-Call of Duty: Modern Warfare Remastered,2016,Action,Tactical Shooter,Raven Software,3.98,55.27,39.99,39.99,0,Mixed,Moderate,Free
-Rage,2011,Action,Tactical Shooter,Aspyr Media,3.42,84.0,24.99,6.24,75,Very Positive,Moderate,Offre
-Injustice 2,2017,Action,Action Adventure,Warner Bros. Interactive,3.92,86.0,49.99,4.99,90,Very Positive,Moderate,Offre
-Sins of a Solar Empire: Rebellion,2012,Action,Action Adventure,Stardock Entertainment,2.73,82.0,20.49,6.14,70,Very Positive,Moderate,Offre
-World of Goo,2008,Action,Action Adventure,2D BOY,4.03,90.0,12.49,6.24,50,Overwhelmingly Positive,Moderate,Offre
-Day of Defeat,2003,Action,Tactical Shooter,Valve Software,2.83,79.0,4.99,0.99,80,Very Positive,Moderate,Offre
-Magicka 2,2015,Action,Action Adventure,Paradox Interactive,3.69,79.54,14.99,3.74,75,Very Positive,Moderate,Offre
-Deathloop,2021,Action,Tactical Shooter,Arkane Studios,3.96,87.0,59.99,11.99,80,Mostly Positive,Moderate,Offre
-Tell Me Why,2020,Action,Action Adventure,DONTNOD Entertainment,3.19,89.65,0.0,0.0,0,Very Positive,Moderate,Paid
-Assassin's Creed Valhalla,2020,Action,Action Stealth,Unknown,3.67,58.82,39.99,9.99,75,Mixed,Niche,Offre
-Outlast 2,2017,Action,Tactical Shooter,Red Barrels,3.68,75.0,19.5,4.87,75,Very Positive,Popular,Offre
-Bully: Scholarship Edition,2008,Action,Tactical Shooter,Unknown,4.13,72.0,9.99,3.49,65,Very Positive,Popular,Offre
-Shadow Warrior,1997,Action,Tactical Shooter,Devolver Digital,3.35,74.0,28.99,2.89,90,Very Positive,Moderate,Offre
-Gears 5,2019,Action,Action Adventure,The Coalition,3.91,82.0,29.99,29.99,0,Mostly Positive,Moderate,Free
-Resident Evil Revelations,2012,Action,Survival Horror,Capcom,3.75,77.0,19.99,4.99,75,Very Positive,Moderate,Offre
-Street Fighter V,2016,Action,Action Adventure,Capcom,3.48,89.0,19.99,9.99,50,Mostly Positive,Moderate,Offre
-Ricochet,2000,Action,Tactical Shooter,Valve Software,2.38,76.92,13.49,10.79,20,Mostly Positive,Niche,Offre
-Deponia: The Complete Journey,2014,Action,Action Adventure,Daedalic Entertainment,3.6,85.66,29.99,2.99,90,Very Positive,Moderate,Offre
-Overcooked! 2,2018,Action,Action Adventure,Team17 Digital,4.15,81.0,22.99,5.74,75,Very Positive,Popular,Offre
-The Evil Within 2,2017,Action,Survival Horror,Bethesda Softworks,4.14,80.0,29.99,5.99,80,Very Positive,Moderate,Offre
-Trove,2015,Action,Action Adventure,Trion Worlds,2.66,76.66,0.0,0.0,0,Mostly Positive,Moderate,Paid
-Deathmatch Classic,2001,Action,Tactical Shooter,Valve Software,2.74,82.16,4.99,0.99,80,Very Positive,Moderate,Offre
-Life is Strange: Before The Storm,2017,Action,Action Adventure,Square Enix,3.95,77.0,16.99,16.99,0,Very Positive,Popular,Free
-Red Faction: Armageddon,2011,Action,Action Adventure,Volition,3.04,74.0,19.99,1.99,90,Mostly Positive,Moderate,Offre
-Sunset Overdrive,2014,Action,Action Adventure,Insomniac Games,3.9,83.0,19.99,4.99,75,Very Positive,Moderate,Offre
-Satellite Reign,2015,Action,Action Stealth,5 Lives Studios,2.66,75.0,24.99,24.99,0,Mostly Positive,Moderate,Free
-Ghostrunner,2020,Action,Tactical Shooter,3D Realms,3.85,81.0,39.99,7.99,80,Very Positive,Moderate,Offre
-Star Wars Jedi Knight: Jedi Academy,2003,Action,Tactical Shooter,Aspyr Media,4.33,81.0,9.75,9.75,0,Overwhelmingly Positive,Moderate,Free
-Marvel's Spider-Man: Miles Morales,2020,Action,Action Stealth,Insomniac Games,4.25,93.34,49.99,19.99,60,Very Positive,Popular,Offre
-Gone Home,2013,Action,Tactical Shooter,The Fullbright Company,3.73,86.0,14.79,4.43,70,Mostly Positive,Moderate,Offre
-System Shock 2,1999,Action,Tactical Shooter,Irrational Games,4.14,84.0,28.99,15.94,45,Very Positive,Moderate,Offre
-Metro: Last Light,2013,Action,Action Adventure,Unknown,4.12,76.0,19.99,1.99,90,Very Positive,Popular,Offre
-Orcs Must Die! 2,2012,Action,Action Adventure,Robot Entertainment,3.96,83.0,12.49,3.12,75,Very Positive,Moderate,Offre
-Katana ZERO,2019,Action,Action Adventure,Askiisoft,4.39,83.0,14.79,8.87,40,Overwhelmingly Positive,Popular,Offre
-Shadowrun: Dragonfall: Director's Cut,2014,Action,Tactical Shooter,Harebrained Schemes,3.81,87.0,14.99,3.74,75,Very Positive,Moderate,Offre
-Awesomenauts,2012,Action,Action Adventure,Ronimo Games,3.06,94.12,3.99,1.39,65,Overwhelmingly Positive,Niche,Offre
-ARMA: Cold War Assault,2001,Action,Tactical Shooter,Bohemia Interactive,2.87,89.64,9.99,4.99,50,Very Positive,Moderate,Offre
-7 Days to Die,2013,Shooter,Survival Horror,Telltale Games,3.36,87.29,43.99,24.19,45,Very Positive,Popular,Offre
-Kerbal Space Program,2015,Action,Action Adventure,Squad,4.16,88.0,36.99,9.24,75,Overwhelmingly Positive,Popular,Offre
+Game_Name,Game_Year,Game_Genre,Game_Subgenre,Game_Studio,RAWG_Rating,Metacritics,Initial_Price,steam_rating_text,Popularity
+Vampire: The Masquerade – Bloodlines 2,2025,Action,Action Adventure,Hardsuit Labs,3.83,55.28,59.99,Mixed,Moderate
+Hollow Knight: Silksong,2025,Platformer,3D Platformer,Team Cherry,4.38,90.0,19.5,Very Positive,Popular
+Clair Obscur: Expedition 33,2025,RPG,Action RPG,Sundial Interactive,4.42,91.0,59.99,Overwhelmingly Positive,Popular
+Hades 2,2025,Action,Action Adventure,Supergiant Games,4.36,94.0,28.99,Overwhelmingly Positive,Popular
+Split Fiction,2025,Action,Action Adventure,Hazelight,4.39,96.89,49.99,Overwhelmingly Positive,Popular
+Kingdom Come: Deliverance 2,2025,Action,Action Adventure,Warhorse Studios,4.35,89.0,59.99,Very Positive,Popular
+Death Stranding 2: On The Beach,2025,Action,Action Adventure,Kojima Productions,4.35,95.13,79.99,Overwhelmingly Positive,Moderate
+Tiny Bunny,2025,Action,Action Adventure,RUzura Interactive,4.2,83.03,10.79,Very Positive,Moderate
+Dispatch,2025,Action,Action Adventure,AdHoc Studio,4.4,87.0,28.99,Overwhelmingly Positive,Popular
+Avowed,2025,RPG,Action RPG,Obsidian Entertainment,3.25,77.0,49.99,Mostly Positive,Moderate
+Doom: The Dark Ages,2025,Action,Action Adventure,id Software,4.31,88.51,49.99,Very Positive,Moderate
+Assassin's Creed Shadows,2025,Action,Action Adventure,Ubisoft,3.28,74.64,69.99,Mostly Positive,Moderate
+Mafia: The Old Country,2025,Action,Action Adventure,Hangar 13,3.81,73.06,49.99,Mostly Positive,Moderate
+The Alters,2025,Action,Action Adventure,11 Bit Studios,4.29,85.0,34.99,Very Positive,Moderate
+Slime Rancher 2,2025,Action,Action Adventure,Monomi Park,3.95,94.51,28.49,Overwhelmingly Positive,Moderate
+The Elder Scrolls 4: Oblivion Remastered,2025,Action,Action Adventure,Bethesda Game Studios,3.81,75.15,54.99,Mostly Positive,Popular
+The Outer Worlds 2,2025,Shooter,Tactical Shooter,Obsidian Entertainment,3.65,73.23,69.99,Mostly Positive,Moderate
+Silent Hill f,2025,Action,Action Adventure,NeoBards Entertainment,3.75,80.52,69.99,Very Positive,Moderate
+Necesse,2025,Action,Action Adventure,Mads Skovgaard,3.19,92.66,14.99,Very Positive,Moderate
+Escape from Tarkov,2025,Shooter,Tactical Shooter,Battle State games,3.97,49.56,49.99,Mixed,Popular
+Tainted Grail: The Fall of Avalon,2025,Action,Action Adventure,Awaken Realms Digital,3.95,80.0,43.99,Very Positive,Moderate
+ARC Raiders,2025,Action,Action Adventure,Embark Studios,3.87,81.72,39.99,Very Positive,Popular
+Escape the Backrooms,2025,Action,Action Adventure,Fancy Games,3.48,89.68,9.49,Very Positive,Popular
+Monster Hunter Wilds,2025,Action,Action Adventure,Capcom,4.16,49.7,39.99,Mixed,Popular
+Peekaboo,2025,Action,Action Adventure,Redaster Studio,2.53,78.85,2.99,Mostly Positive,Moderate
+The Wandering Village,2025,Action,Action Adventure,Stray Fawn Studio,3.77,92.02,29.99,Very Positive,Moderate
+Little Nightmares 3,2025,Platformer,3D Platformer,Supermassive Games,3.27,47.05,39.99,Mixed,Moderate
+Blue Prince,2025,Action,Action Adventure,Dogubomb,4.16,92.0,29.99,Very Positive,Moderate
+South of Midnight,2025,Action,Action Adventure,Compulsion Games,3.63,94.21,39.99,Overwhelmingly Positive,Moderate
+Battlefield 6,2025,Shooter,Tactical Shooter,Battlefield Studios,4.17,82.0,69.99,Mixed,Popular
+Cronos: The New Dawn,2025,Action,Action Adventure,Bloober Team,3.87,87.87,59.99,Very Positive,Moderate
+Hell is Us,2025,Action,Action Adventure,Rogue Factor,3.52,84.96,49.99,Very Positive,Moderate
+MetaMorph,2025,Action,Action Adventure,FireFly Studios,0.0,100.0,8.99,Overwhelmingly Positive,Niche
+Dying Light: The Beast,2025,Shooter,Tactical Shooter,Techland,3.9,86.27,59.99,Very Positive,Popular
+Rhythm Doctor,2025,Action,Action Adventure,7th Beat Games,4.3,89.0,19.5,Overwhelmingly Positive,Moderate
+The First Berserker: Khazan,2025,Action,Action Adventure,Neople,3.68,85.33,59.99,Very Positive,Moderate
+Voidtrain,2025,Action,Action Adventure,Nearga,3.32,82.0,29.99,Mostly Positive,Moderate
+Borderlands 4,2025,Action,Action Adventure,Gearbox Software,3.58,81.0,69.99,Mixed,Popular
+Atomfall,2025,Action,Action Adventure,Rebellion,3.6,77.45,49.99,Mostly Positive,Moderate
+Wuchang: Fallen Feathers,2025,Action,Action Adventure,Leenzee Games,3.59,77.0,49.99,Mixed,Popular
+Little Witch in the Woods,2025,Action,Action Adventure,SUNNY SIDE UP,3.42,89.07,19.5,Very Positive,Moderate
+Where Winds Meet,2025,Action,Action Adventure,Everstone Games,3.64,86.4,0.0,Very Positive,Popular
+Atomic Heart: Annihilation Instinct,2025,Shooter,Tactical Shooter,Unknown,3.61,70.19,9.99,Mostly Positive,Moderate
+Abiotic Factor,2025,Shooter,Tactical Shooter,Deep Field Games,4.15,95.76,33.99,Overwhelmingly Positive,Popular
+S.T.A.L.K.E.R.: Shadow of Chornobyl: Enhanced Edition,2025,Action,Action Adventure,GSC Game World,3.59,62.9,19.99,Mixed,Moderate
+Elden Ring Nightreign,2025,Action,Action Adventure,FromSoftware,3.87,81.72,39.99,Very Positive,Popular
+Lost Records: Bloom & Rage,2025,Action,Action Adventure,DONTNOD Entertainment,3.33,86.25,39.99,Very Positive,Moderate
+DRAGON BALL: Sparking! ZERO,2025,Action,Action Adventure,Spike Chunsoft,3.95,83.0,49.99,Very Positive,Popular
+The Rogue Prince of Persia,2025,Action,Action Adventure,Evil Empire,3.42,89.87,29.99,Very Positive,Moderate
+Ninja Gaiden 4,2025,Action,Action Adventure,Platinum Games,3.97,88.02,69.99,Very Positive,Moderate
+FragPunk,2025,Action,Action Adventure,Bad Guitar Studio,3.12,74.4,0.0,Mostly Positive,Moderate
+Lies of P: Overture,2025,Action,Action Adventure,Round8 Studio,4.27,86.14,29.99,Very Positive,Moderate
+Sword of the Sea,2025,Action,Action Adventure,Giant Squid,4.23,89.86,28.99,Very Positive,Moderate
+Ninja Gaiden 2 Black,2025,Action,Action Adventure,KOEI TECMO GAMES CO,3.59,81.0,49.99,Mostly Positive,Moderate
+Schedule I,2025,Action,Action Adventure,TVGS,3.79,97.77,19.5,Overwhelmingly Positive,Popular
+S.T.A.L.K.E.R.: Call of Prypiat: Enhanced Edition,2025,Action,Action Adventure,GSC Game World,3.38,63.54,19.99,Mixed,Moderate
+Dune: Awakening,2025,Action,Action Adventure,Funcom,3.0,71.56,49.99,Mostly Positive,Popular
+Like a Dragon: Pirate Yakuza in Hawaii,2025,Action,Action Adventure,Ryu ga Gotoku Studio,3.94,81.0,59.99,Very Positive,Moderate
+S.T.A.L.K.E.R.: Clear Sky: Enhanced Edition,2025,Action,Action Adventure,GSC Game World,3.27,56.86,19.99,Mixed,Moderate
+Marvel's Spider-Man 2 PC Port,2025,Action,Action Adventure,Insomniac Games,4.04,83.57,59.99,Very Positive,Moderate
+No I'm not a Human,2025,Action,Action Adventure,Trioskaz,4.1,93.4,14.79,Very Positive,Moderate
+Ball x Pit,2025,Action,Action Adventure,Kenny Sun,4.26,95.21,14.99,Overwhelmingly Positive,Moderate
+Absolum,2025,Action,Action Adventure,DotEmu,3.87,87.0,24.99,Very Positive,Moderate
+Megabonk,2025,Action,Action Adventure,vedinad,4.02,94.23,9.75,Overwhelmingly Positive,Popular
+Satisfactory,2024,Action,Action Adventure,Coffee Stain Studios,4.3,91.0,38.99,Overwhelmingly Positive,Popular
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024,Shooter,Tactical Shooter,GSC Game World,3.76,80.08,59.99,Very Positive,Popular
+V Rising,2024,Action,Action Adventure,Stunlock Studios,3.72,88.95,34.99,Very Positive,Popular
+Senua's Saga: Hellblade 2,2024,Action,Action Adventure,Ninja Theory,3.94,86.6,49.99,Very Positive,Moderate
+Black Myth: Wukong,2024,Action,Action Adventure,Game Science,4.29,96.48,59.99,Overwhelmingly Positive,Blockbuster
+Synergy,2024,Action,Action Adventure,Leikir Studio,2.04,75.61,24.99,Mostly Positive,Moderate
+Marvel Rivals,2024,Action,Action Adventure,NetEase Games,3.69,75.21,0.0,Mostly Positive,Popular
+Balatro,2024,Action,Action Adventure,LocalThunk,4.29,90.0,13.99,Overwhelmingly Positive,Popular
+Silent Hill 2,2024,Action,Action Adventure,Bloober Team,4.45,94.61,69.99,Overwhelmingly Positive,Popular
+HELLDIVERS 2,2024,Action,Action Adventure,Arrowhead Game Studios,4.24,75.69,39.99,Mostly Positive,Blockbuster
+Core Keeper,2024,Action,Action Adventure,Pugstorm,3.94,86.0,19.99,Very Positive,Popular
+Content Warning,2024,Action,Action Adventure,Philip,3.46,93.77,7.49,Very Positive,Popular
+Palworld,2024,Action,Action Adventure,Pocketpair,3.59,94.59,28.99,Overwhelmingly Positive,Popular
+Dragon's Dogma 2,2024,Action,Action Adventure,Capcom,3.81,88.0,39.99,Mixed,Popular
+Songs of Conquest,2024,Action,Action Adventure,Lavapotion,3.85,85.6,29.99,Very Positive,Moderate
+Indiana Jones and the Great Circle,2024,Shooter,Tactical Shooter,Machine Games,4.28,87.0,69.99,Very Positive,Moderate
+Sons of the Forest,2024,Action,Action Adventure,Endnight Games,3.63,88.5,28.99,Very Positive,Popular
+Symphonia,2024,Action,Action Adventure,ISART DIGITAL,2.05,89.49,19.99,Very Positive,Niche
+"Warhammer 40,000: Space Marine 2",2024,Action,Action Adventure,Saber Interactive,3.97,82.0,59.99,Very Positive,Popular
+Prince of Persia: The Lost Crown,2024,Platformer,3D Platformer,Unknown,3.99,85.0,29.99,Very Positive,Moderate
+Once Human,2024,Action,Action Adventure,Starry Studio,2.8,79.11,0.0,Very Positive,Popular
+Stellar Blade,2024,Action,Action Adventure,SHIFT UP,4.23,93.66,69.99,Very Positive,Popular
+Blade and Sorcery,2024,Action,Action Adventure,WarpFrog,3.98,96.49,29.99,Overwhelmingly Positive,Popular
+The First Descendant,2024,Action,Action Adventure,Nexon,3.0,57.4,0.0,Mixed,Popular
+Pacific Drive,2024,Sports,Sports Sim,Ironwood Studio,3.78,83.16,44.99,Very Positive,Moderate
+Final Fantasy 7 Rebirth,2024,Action,Action Adventure,Square Enix,4.33,74.45,49.99,Mostly Positive,Moderate
+Dark and Darker,2024,Action,Action Adventure,IRONMACE,3.02,61.87,0.0,Mixed,Popular
+Banishers: Ghosts of New Eden,2024,Action,Action Adventure,DON'T NOD,3.74,84.21,49.99,Very Positive,Moderate
+Buckshot Roulette,2024,Action,Action Adventure,Mike Klubnika,3.98,95.08,2.99,Overwhelmingly Positive,Popular
+Suicide Squad: Kill The Justice League,2024,Action,Action Adventure,Rocksteady Studios,2.24,61.15,69.99,Mixed,Moderate
+Indika,2024,Action,Action Adventure,Odd Meter,3.97,80.0,24.99,Very Positive,Moderate
+Metaphor: ReFantazio,2024,Action,Action Adventure,Atlus,4.27,92.0,69.99,Very Positive,Moderate
+Shadows of Doubt,2024,Action,Action Adventure,ColePowered Games,3.92,82.07,24.99,Very Positive,Moderate
+Frostpunk 2,2024,Action,Action Adventure,11 Bit Studios,4.08,85.0,44.99,Mostly Positive,Moderate
+The Last of Us Part 2 Remastered,2024,Action,Action Adventure,Naughty Dog,4.49,90.81,49.99,Very Positive,Popular
+Alone in the Dark,2024,Action,Action Adventure,Pieces Interactive,3.58,78.06,39.99,Mostly Positive,Moderate
+Elden Ring: Shadow of the Erdtree,2024,Action,Action Adventure,FromSoftware,4.46,92.0,39.99,Mostly Positive,Popular
+Animal Well,2024,Action,Action Adventure,Shared Memory,4.23,90.0,24.5,Overwhelmingly Positive,Moderate
+SLAPSHOT Rebound,2024,Sports,Sports Sim,Oddshot Games,3.64,83.08,0.0,Very Positive,Moderate
+Nine Sols,2024,Platformer,3D Platformer,RedCandleGames,4.3,94.42,28.99,Overwhelmingly Positive,Moderate
+Tekken 8,2024,Action,Action Adventure,Bandai Namco Entertainment,3.96,91.0,39.99,Mixed,Popular
+Star Wars Outlaws,2024,Action,Action Adventure,Ubisoft Toronto,3.27,71.59,69.99,Mostly Positive,Moderate
+Witchfire,2024,Shooter,Tactical Shooter,The Astronauts,3.57,91.37,39.99,Very Positive,Moderate
+The Universim,2024,Action,Action Adventure,Crytivo Games,3.54,79.42,27.99,Very Positive,Moderate
+Nobody Wants to Die,2024,Action,Action Adventure,Critical Hit Games,3.88,82.94,24.99,Very Positive,Moderate
+Manor Lords,2024,Action,Action Adventure,Slavic Magic,4.02,84.12,39.99,Very Positive,Popular
+Islands of Insight,2024,Action,Action Adventure,Lunarch Studios,2.93,71.84,29.99,Mostly Positive,Moderate
+Deep Rock Galactic: Survivor,2024,Platformer,3D Platformer,Funday Games,3.97,86.17,12.99,Very Positive,Moderate
+MiSide,2024,Action,Action Adventure,AIHASTO,4.11,97.73,14.79,Overwhelmingly Positive,Popular
+Shin Megami Tensei V: Vengeance,2024,Action,Action Adventure,Atlus,4.04,90.0,59.99,Very Positive,Moderate
+Banana,2024,Action,Action Adventure,aaladin66,1.54,81.81,0.0,Very Positive,Popular
+The Plucky Squire,2024,Action,Action Adventure,All Possible Futures,3.85,83.0,29.99,Very Positive,Moderate
+Supermarket Together,2024,Action,Action Adventure,DeadDevsTellNoLies,3.23,94.33,0.0,Overwhelmingly Positive,Popular
+The Thaumaturge,2024,Action,Action Adventure,Fool's Theory,3.85,82.97,34.99,Very Positive,Moderate
+Black Myth: Wu Kong,2024,Action,Action Adventure,Game Science,4.27,96.48,59.99,Overwhelmingly Positive,Blockbuster
+Still Wakes the Deep,2024,Action,Action Adventure,The Chinese Room,3.89,77.0,34.99,Very Positive,Moderate
+Dragon Age: The Veilguard,2024,RPG,Action RPG,BioWare,2.82,68.07,59.99,Mixed,Moderate
+The Outlast Trials,2024,Action,Action Adventure,Red Barrels,3.51,92.2,38.99,Very Positive,Popular
+Like a Dragon: Infinite Wealth,2024,Action,Action Adventure,Ryu ga Gotoku Studio,4.25,89.0,69.99,Very Positive,Moderate
+ANOMALOUS COFFEE MACHINE,2024,Action,Action Adventure,HoruBrain Interactive,4.09,87.02,9.75,Very Positive,Moderate
+Rise of the Ronin,2024,Action,Action Adventure,Team NINJA,3.27,73.0,49.99,Mixed,Moderate
+Baldur's Gate 3,2023,Action,Action Adventure,Larian Studios,4.43,96.0,59.99,Overwhelmingly Positive,Popular
+Hogwarts Legacy,2023,Action,Action Adventure,Avalanche Software,3.92,83.0,59.99,Very Positive,Popular
+Resident Evil 4,2023,Action,Action Adventure,Capcom,4.57,91.0,39.99,Overwhelmingly Positive,Popular
+Atomic Heart,2023,Shooter,Tactical Shooter,Mundfish,3.85,76.0,59.99,Very Positive,Popular
+Barotrauma,2023,Action,Action Adventure,FakeFish,3.77,81.0,34.99,Overwhelmingly Positive,Popular
+Starfield,2023,Action,Action Adventure,Bethesda Game Studios,3.25,88.0,49.99,Mixed,Popular
+Dead Space,2023,Action,Action Adventure,Motive Studios,4.33,87.0,59.99,Very Positive,Popular
+Hi-Fi Rush,2023,Action,Action Adventure,Tango Gameworks,4.3,90.0,29.99,Overwhelmingly Positive,Moderate
+The Finals,2023,Shooter,Tactical Shooter,Embark Studios,3.67,78.24,0.0,Mostly Positive,Popular
+Marvel's Spider-Man 2,2023,Action,Action Adventure,Insomniac Games,4.34,83.57,59.99,Very Positive,Moderate
+Star Wars Jedi: Survivor,2023,Action,Action Adventure,Respawn Entertainment,4.22,71.09,69.99,Mostly Positive,Popular
+Diablo 4,2023,Action,Action Adventure,Activision Blizzard,3.73,90.0,49.99,Mixed,Popular
+Lies Of P,2023,Action,Action Adventure,Round8 Studio,4.16,91.59,59.99,Very Positive,Popular
+Cyberpunk 2077: Phantom Liberty,2023,Shooter,Tactical Shooter,CD PROJEKT RED,4.69,89.94,29.99,Very Positive,Moderate
+Ready or Not,2023,Shooter,Tactical Shooter,VOID Interactive,4.0,78.96,49.99,Mostly Positive,Popular
+Dredge,2023,Action,Action Adventure,Black Salt Games,4.25,95.85,26.99,Overwhelmingly Positive,Popular
+System Shock,2023,Shooter,Tactical Shooter,Nightdive Studios,3.89,78.0,39.99,Very Positive,Moderate
+Black Survival: Eternal Return,2023,Action,Action Adventure,O'olBlue,2.57,76.82,0.0,Mostly Positive,Popular
+Dave the Diver,2023,Action,Action Adventure,MINTROCKET,4.25,90.0,19.99,Overwhelmingly Positive,Popular
+Lethal Company,2023,Action,Action Adventure,Zeekerss,4.23,96.95,9.75,Overwhelmingly Positive,Popular
+Dead Island 2,2023,Action,Action Adventure,Dambuster Studios,3.68,75.0,49.99,Mostly Positive,Moderate
+Final Fantasy XVI,2023,Action,Action Adventure,Square Enix,4.08,88.0,49.99,Mostly Positive,Moderate
+Assassin's Creed Mirage,2023,Action,Action Adventure,Ubisoft,3.38,76.19,49.99,Mostly Positive,Moderate
+We Were Here Expeditions: The FriendShip,2023,Action,Action Adventure,Total Mayhem Games,3.9,82.0,3.99,Very Positive,Moderate
+Forspoken,2023,Action,Action Adventure,Luminous Productions,2.23,64.0,79.99,Mixed,Moderate
+20 Minutes Till Dawn,2023,Action,Action Adventure,flanne,3.85,90.19,4.99,Very Positive,Moderate
+Sea of Stars,2023,RPG,Action RPG,Sabotage Studio,4.26,87.0,33.99,Very Positive,Moderate
+The Murder of Sonic the Hedgehog,2023,Platformer,3D Platformer,SEGA,3.43,96.96,0.0,Overwhelmingly Positive,Moderate
+Planet of Lana,2023,Action,Action Adventure,Wishfully,4.02,80.0,19.99,Very Positive,Moderate
+RoboCop: Rogue City,2023,Action,Action Adventure,Teyon,3.93,76.0,44.99,Very Positive,Moderate
+Cocoon,2023,Action,Action Adventure,Geometric Interactive,4.37,88.0,22.99,Overwhelmingly Positive,Moderate
+World of Horror,2023,RPG,Action RPG,panstasz,4.08,77.0,19.5,Very Positive,Moderate
+Ghostrunner 2,2023,Action,Action Adventure,One More Level,3.77,81.0,39.99,Very Positive,Moderate
+The Invincible,2023,Action,Action Adventure,Starward Industries,4.03,87.46,29.99,Very Positive,Moderate
+Wo Long: Fallen Dynasty,2023,Action,Action Adventure,Team NINJA,3.42,79.0,49.99,Mixed,Moderate
+Armored Core 6: Fires of Rubicon,2023,Action,Action Adventure,FromSoftware,4.1,86.0,59.99,Very Positive,Popular
+Have a Nice Death,2023,Platformer,3D Platformer,Magic Design Studios,3.64,81.0,24.99,Very Positive,Moderate
+Disney Dreamlight Valley,2023,Action,Action Adventure,Gameloft,3.44,92.15,39.99,Very Positive,Moderate
+Blasphemous 2,2023,Platformer,3D Platformer,The Game Kitchen,4.21,83.0,29.99,Very Positive,Moderate
+Jusant,2023,Action,Action Adventure,DONTNOD Entertainment,3.99,83.0,24.99,Very Positive,Moderate
+Against the Storm,2023,Action,Action Adventure,Eremite Games,4.27,91.0,29.99,Overwhelmingly Positive,Moderate
+Counter-Strike 2,2023,Shooter,Tactical Shooter,Valve Software,3.6,85.79,0.0,Very Positive,Blockbuster
+Wartales,2023,Action,Action Adventure,Shiro Games,3.79,85.29,34.99,Very Positive,Moderate
+The Outer Worlds: Spacer's Choice Edition,2023,Shooter,Tactical Shooter,Obsidian Entertainment,3.76,76.07,39.99,Mostly Positive,Moderate
+Stray Gods: The Roleplaying Musical,2023,Action,Action Adventure,Summerfall Studios,3.85,90.78,29.99,Very Positive,Moderate
+Mortal Kombat 1,2023,Action,Action Adventure,NetherRealm Studios,3.61,82.0,49.99,Mostly Positive,Moderate
+Everspace 2,2023,Action,Action Adventure,ROCKFISH Games,3.72,81.0,49.99,Very Positive,Moderate
+Street Fighter 6,2023,Action,Action Adventure,Capcom,4.03,92.0,39.99,Very Positive,Popular
+Oxenfree 2: Lost Signals,2023,Action,Action Adventure,Netflix,3.92,88.27,19.99,Very Positive,Moderate
+Viewfinder,2023,Action,Action Adventure,Sad Owl Studios,4.23,84.0,24.99,Overwhelmingly Positive,Moderate
+Dune: Spice Wars,2023,Action,Action Adventure,Shiro Games,3.56,79.1,34.99,Very Positive,Moderate
+KartRider: Drift,2023,Sports,Sports Sim,NEXON KOREA,2.25,76.0,,Mostly Positive,Moderate
+Amnesia: The Bunker,2023,Action,Action Adventure,Frictional Games,3.73,93.28,24.5,Very Positive,Moderate
+En Garde!,2023,Action,Action Adventure,Supinfogame Graduation Projects,3.94,90.26,19.99,Very Positive,Moderate
+Chants of Sennaar,2023,Action,Action Adventure,Rundisc,4.32,86.0,19.99,Overwhelmingly Positive,Moderate
+The Talos Principle 2,2023,Action,Action Adventure,Croteam,4.31,88.0,28.99,Overwhelmingly Positive,Moderate
+9 Years of Shadows,2023,Action,Action Adventure,Halberd Studios,3.63,74.0,18.49,Mostly Positive,Moderate
+The Last Spell,2023,Action,Action Adventure,CCCP,3.92,82.0,24.99,Very Positive,Moderate
+Remnant 2,2023,Action,Action Adventure,Gunfire Games,3.74,82.18,49.99,Very Positive,Popular
+Lords of the Fallen,2023,Action,Action Adventure,City Interactive,3.31,75.0,29.99,Mixed,Popular
+Farlight 84,2023,Action,Action Adventure,Farlight Games,2.35,75.96,0.0,Mostly Positive,Popular
+Avatar: Frontiers of Pandora,2023,Action,Action Adventure,Massive Entertainment,2.64,78.12,29.99,Mostly Positive,Moderate
+Bramble: The Mountain King,2023,Action,Action Adventure,Dimfrost,4.27,94.53,29.99,Overwhelmingly Positive,Moderate
+Dread Templar,2023,Shooter,Tactical Shooter,T19 Games,3.7,72.0,19.99,Very Positive,Moderate
+Elden Ring,2022,Action,Action Adventure,FromSoftware,4.38,94.0,59.99,Very Positive,Blockbuster
+Stray,2022,Action,Action Adventure,BlueTwelve,4.15,82.0,28.49,Overwhelmingly Positive,Popular
+Vampire Survivors,2022,Action,Action Adventure,poncle,4.19,86.0,4.99,Overwhelmingly Positive,Popular
+Uncharted: Legacy of Thieves Collection,2022,Action,Action Adventure,Naughty Dog,4.46,90.6,49.99,Very Positive,Moderate
+Lost Ark,2022,RPG,Action RPG,Smilegate Entertainment,3.17,81.0,0.0,Mostly Positive,Popular
+MultiVersus,2022,Action,Action Adventure,Player First Games,3.15,75.0,,Mostly Positive,Popular
+Dying Light 2 Stay Human,2022,Action,Action Adventure,Techland,3.64,77.0,59.99,Mostly Positive,Popular
+Raft,2022,Action,Action Adventure,Redbeet Interactive,3.89,92.97,20.49,Very Positive,Popular
+Aperture Desk Job,2022,Action,Action Adventure,Valve Software,3.8,94.91,0.0,Overwhelmingly Positive,Moderate
+Horizon Forbidden West,2022,Action,Action Adventure,Guerrilla Games,4.18,86.0,59.99,Very Positive,Moderate
+Teenage Mutant Ninja Turtles: Shredder's Revenge,2022,Action,Action Adventure,Tribute Games,4.08,84.0,24.99,Overwhelmingly Positive,Moderate
+God of War: Ragnarök,2022,Action,Action Adventure,SCE Santa Monica Studio,4.42,90.0,59.99,Very Positive,Moderate
+A Plague Tale: Requiem,2022,Action,Action Adventure,Asobo Studio,4.28,82.0,69.99,Very Positive,Moderate
+Tunic,2022,Action,Action Adventure,ISOMETRICORP Games,4.11,85.0,28.99,Very Positive,Moderate
+Cult of the Lamb,2022,Action,Action Adventure,Massive Monster,4.11,82.0,22.99,Overwhelmingly Positive,Popular
+Overwatch 2,2022,Shooter,Tactical Shooter,Activision Blizzard,3.14,78.0,0.0,Mostly Negative,Popular
+High on Life,2022,Shooter,Tactical Shooter,Squanch Games,3.82,89.0,36.49,Very Positive,Moderate
+Lego Star Wars: The Skywalker Saga,2022,Platformer,3D Platformer,TT Games,3.84,78.0,49.99,Very Positive,Moderate
+Ghostwire: Tokyo,2022,Action,Action Adventure,Tango Gameworks,3.54,77.0,59.99,Very Positive,Moderate
+The Stanley Parable: Ultra Deluxe,2022,Action,Action Adventure,Crows Crows Crows,4.37,90.0,21.99,Overwhelmingly Positive,Moderate
+Grounded,2022,Action,Action Adventure,Obsidian Entertainment,3.8,83.0,39.99,Very Positive,Popular
+Portal with RTX,2022,Action,Action Adventure,Lightspeed Studios™,3.61,60.74,0.0,Mixed,Moderate
+Mount & Blade 2: Bannerlord,2022,Action,Action Adventure,TaleWorlds Entertainment,4.21,77.0,49.99,Very Positive,Popular
+The Last of Us Part I,2022,Shooter,Tactical Shooter,Naughty Dog,4.67,84.74,59.99,Very Positive,Popular
+The Quarry,2022,Action,Action Adventure,Supermassive Games,3.85,82.01,59.99,Very Positive,Moderate
+Sifu,2022,Action,Action Adventure,Sloclap,4.07,81.0,39.99,Very Positive,Moderate
+Scorn,2022,Action,Action Adventure,Ebb Software,3.42,67.0,39.99,Mostly Positive,Moderate
+Yu-Gi-Oh! Master Duel,2022,Action,Action Adventure,Konami Digital Entertainment,3.53,71.18,0.0,Mostly Positive,Popular
+Resident Evil Re:Verse,2022,Shooter,Tactical Shooter,Capcom,1.5,34.2,,Mostly Negative,Moderate
+The Callisto Protocol,2022,Action,Action Adventure,Striking Distance Studios,3.54,69.0,58.99,Mixed,Moderate
+Metal: Hellsinger,2022,Shooter,Tactical Shooter,The Outsiders,3.96,79.0,29.99,Overwhelmingly Positive,Moderate
+PowerWash Simulator,2022,Action,Action Adventure,FuturLab,3.96,96.39,24.99,Overwhelmingly Positive,Popular
+Not For Broadcast,2022,Action,Action Adventure,NotGames,3.97,82.0,24.5,Very Positive,Moderate
+Call of Duty: Modern Warfare 2,2022,Shooter,Tactical Shooter,Raven Software,3.82,58.59,,Mixed,Popular
+Teardown,2022,Action,Action Adventure,Tuxedo Labs,4.16,80.0,29.99,Overwhelmingly Positive,Popular
+Neon White,2022,Shooter,Tactical Shooter,Ben Esposito,4.33,89.0,23.79,Overwhelmingly Positive,Moderate
+Potion Craft: Alchemist Simulator,2022,Action,Action Adventure,niceplay games,3.71,92.99,19.5,Very Positive,Moderate
+Dorfromantik,2022,Platformer,3D Platformer,Toukana Interactive,3.88,96.32,12.99,Overwhelmingly Positive,Moderate
+Marvel Snap,2022,Action,Action Adventure,Nuverse,3.91,72.93,0.0,Mostly Positive,Moderate
+Weird West,2022,Action,Action Adventure,WolfEye Studios,3.75,76.0,39.99,Mostly Positive,Moderate
+Trek to Yomi,2022,Platformer,3D Platformer,Flying Wild Hog,3.4,71.22,19.5,Mostly Positive,Moderate
+Tiny Tina's Wonderlands,2022,Shooter,Tactical Shooter,Gearbox Software,3.6,70.6,29.99,Mostly Positive,Moderate
+Knightfall: A Daring Journey,2022,Sports,Sports Sim,Landfall,1.96,89.28,0.0,Very Positive,Moderate
+Signalis,2022,Action,Action Adventure,rose-engine,4.35,82.0,19.99,Overwhelmingly Positive,Moderate
+Nobody Saves the World,2022,Action,Action Adventure,DrinkBox Studios,3.83,91.02,25.49,Very Positive,Moderate
+Sniper Elite 5,2022,Shooter,Tactical Shooter,Rebellion,3.83,79.0,49.99,Very Positive,Moderate
+Rogue Legacy 2,2022,Action,Action Adventure,Cellar Door Games,4.01,88.0,24.5,Very Positive,Moderate
+Midnight Fight Express,2022,Action,Action Adventure,Jacob Dzwinel,3.63,76.0,19.99,Very Positive,Moderate
+Gotham Knights,2022,Action,Action Adventure,Warner Bros. Interactive,2.61,66.0,59.99,Mixed,Moderate
+Brotato,2022,Action,Action Adventure,Blobfish,4.05,95.89,4.99,Overwhelmingly Positive,Popular
+"Warhammer 40,000: Darktide",2022,Sports,Sports Sim,Fatshark,3.7,74.0,39.99,Mostly Positive,Popular
+Need for Speed Unbound,2022,Sports,Sports Sim,Criterion Games,3.41,60.2,69.99,Mixed,Popular
+Forgive Me Father,2022,Shooter,Tactical Shooter,Byte Barrel,3.74,74.0,19.99,Very Positive,Moderate
+As Dusk Falls,2022,Action,Action Adventure,INT./NIGHT,4.03,77.0,29.99,Very Positive,Moderate
+Marvel's Midnight Suns,2022,Action,Action Adventure,Firaxis,3.97,81.59,79.99,Very Positive,Moderate
+Blue Fire: Void Maker,2022,Action,Action Adventure,ROBI Studios,0.0,74.51,0.0,Mostly Positive,Niche
+Pentiment,2022,Action,Action Adventure,Obsidian Entertainment,4.25,88.0,19.99,Overwhelmingly Positive,Moderate
+Prodeus,2022,Action,Action Adventure,Unknown,3.91,84.0,24.99,Very Positive,Moderate
+Undecember,2022,Action,Action Adventure,LINE Games,2.52,52.34,0.0,Mixed,Moderate
+OlliOlli World,2022,Platformer,3D Platformer,Roll7,3.73,87.0,19.99,Very Positive,Moderate
+Shatterline,2022,Action,Action Adventure,Frag Lab,3.33,72.51,9.75,Mostly Positive,Moderate
+Hardspace: Shipbreaker,2022,Action,Action Adventure,Blackbird Interactive,3.88,83.0,34.99,Very Positive,Moderate
+Tower of Fantasy,2022,Action,Action Adventure,Level Infinite,2.48,66.08,0.0,Mixed,Moderate
+Evil West,2022,Action,Action Adventure,Flying Wild Hog,3.6,74.0,49.99,Mostly Positive,Moderate
+Two Point Campus,2022,Action,Action Adventure,Two Point Studios,3.73,83.0,29.99,Very Positive,Moderate
+Shadow Warrior 3,2022,Shooter,Tactical Shooter,Flying Wild Hog,3.65,71.0,38.99,Mixed,Moderate
+Total War: WARHAMMER 3,2022,Action,Action Adventure,Creative Assembly,4.03,86.0,59.99,Mostly Positive,Popular
+Halo Infinite,2021,Shooter,Tactical Shooter,343 Industries,3.64,84.0,0.0,Mostly Positive,Popular
+It Takes Two,2021,Platformer,3D Platformer,Hazelight,4.45,89.0,39.99,Overwhelmingly Positive,Popular
+Resident Evil: Village,2021,Action,Action Adventure,Capcom,4.39,83.0,39.99,Overwhelmingly Positive,Popular
+Forza Horizon 5,2021,Sports,Sports Sim,Playground Games,4.28,89.2,59.99,Very Positive,Popular
+Marvel's Guardians of the Galaxy,2021,Shooter,Tactical Shooter,Eidos Montreal,4.29,78.0,59.99,Very Positive,Moderate
+Deathloop,2021,Action,Action Adventure,Arkane Studios,3.96,87.0,59.99,Mostly Positive,Moderate
+Mass Effect: Legendary Edition,2021,Shooter,Tactical Shooter,BioWare,4.57,86.0,59.99,Very Positive,Popular
+Inscryption,2021,Action,Action Adventure,Daniel Mullins Games,4.38,85.0,19.99,Overwhelmingly Positive,Popular
+The Ascent,2021,Action,Action Adventure,Neon Giant,3.33,73.0,29.99,Mostly Positive,Moderate
+Psychonauts 2,2021,Platformer,3D Platformer,Double Fine Productions,4.36,89.0,59.99,Overwhelmingly Positive,Moderate
+Back 4 Blood,2021,Shooter,Tactical Shooter,Turtle Rock Studios,3.23,77.0,59.99,Mixed,Popular
+Capcom Arcade Stadium,2021,Platformer,3D Platformer,Capcom,2.68,78.0,0.0,Mixed,Moderate
+Far Cry 6,2021,Shooter,Tactical Shooter,Ubisoft,3.35,75.0,59.99,Mostly Positive,Moderate
+Loop Hero,2021,Action,Action Adventure,Four Quarters,4.04,82.0,14.79,Very Positive,Moderate
+Little Nightmares 2,2021,Platformer,3D Platformer,Tarsier Studios,4.37,83.0,29.99,Very Positive,Popular
+Death's Door,2021,Action,Action Adventure,Acid Nerve,4.19,85.0,19.5,Very Positive,Moderate
+Kena: Bridge of Spirits,2021,Shooter,Tactical Shooter,Ember Lab,3.97,83.0,39.99,Very Positive,Moderate
+Hitman 3,2021,Shooter,Tactical Shooter,IO Interactive,4.25,87.0,29.99,Very Positive,Popular
+Outriders,2021,Shooter,Tactical Shooter,People Can Fly,3.38,73.0,19.99,Mixed,Popular
+Unpacking,2021,Action,Action Adventure,Witch Beam,4.04,83.0,19.99,Very Positive,Moderate
+Battlefield 2042,2021,Shooter,Tactical Shooter,Electronic Arts DICE,2.91,47.19,59.99,Mixed,Popular
+Twelve Minutes,2021,Action,Action Adventure,Netflix,3.54,76.0,23.79,Mostly Positive,Moderate
+Disco Elysium: Final Cut,2021,Action,Action Adventure,ZA/UM,4.66,97.0,37.99,Very Positive,Popular
+Ratchet & Clank: Rift Apart,2021,Action,Action Adventure,Insomniac Games,4.38,88.0,59.99,Very Positive,Moderate
+Subnautica: Below Zero,2021,Action,Action Adventure,Unknown Worlds Entertainment,4.0,80.0,29.99,Very Positive,Popular
+Vampire: The Masquerade: Bloodhunt,2021,Action,Action Adventure,Sharkmob,2.99,77.17,,Mostly Positive,Popular
+The Medium,2021,Action,Action Adventure,Bloober Team,3.53,74.0,49.99,Very Positive,Moderate
+Black Book,2021,Action,Action Adventure,Morteshka,4.07,75.0,24.99,Very Positive,Moderate
+NieR Replicant v1.22474487139...,2021,Action,Action Adventure,Toylogic,4.37,82.0,59.99,Very Positive,Moderate
+Death Stranding Director's Cut,2021,Action,Action Adventure,Kojima Productions,4.28,85.0,39.99,Very Positive,Popular
+Life is Strange: True Colors,2021,Action,Action Adventure,Deck Nine,3.79,88.78,59.99,Very Positive,Moderate
+Scarlet Nexus,2021,Action,Action Adventure,BANDAI NAMCO Entertainment America,3.62,78.0,89.99,Very Positive,Moderate
+Returnal,2021,Shooter,Tactical Shooter,Housemarque,4.15,86.0,59.99,Very Positive,Moderate
+Biomutant,2021,Action,Action Adventure,Experiment 101,2.76,66.0,39.99,Mixed,Moderate
+Narita Boy,2021,Action,Action Adventure,Studio Koba,3.33,74.0,31.49,Mostly Positive,Moderate
+Breathedge,2021,Action,Action Adventure,RedRuins Softworks,3.7,71.0,24.99,Very Positive,Moderate
+Tales of Arise,2021,Action,Action Adventure,Bandai Namco Entertainment,3.92,84.0,49.99,Very Positive,Moderate
+The Forgotten City,2021,Action,Action Adventure,Modern Storyteller,4.23,85.0,24.99,Overwhelmingly Positive,Moderate
+Totally Accurate Battle Simulator,2021,Action,Action Adventure,Landfall,3.75,97.83,18.99,Overwhelmingly Positive,Popular
+Pathfinder: Wrath of the Righteous,2021,RPG,Action RPG,Owlcat Games,4.25,83.0,19.99,Very Positive,Moderate
+Greak: Memories of Azur,2021,Platformer,3D Platformer,Navegante Entertainment,3.06,78.24,28.99,Mostly Positive,Moderate
+Yakuza 3 Remastered,2021,Action,Action Adventure,Ryu ga Gotoku Studio,3.65,77.0,,Very Positive,Moderate
+Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,2021,Shooter,Tactical Shooter,Gearbox Software,3.0,64.83,9.99,Mixed,Moderate
+New World,2021,Action,Action Adventure,Amazon Game Studios,3.09,70.0,,Mixed,Popular
+Monster Hunter Rise,2021,Action,Action Adventure,Capcom,4.17,86.0,39.99,Very Positive,Popular
+Curse of the Dead Gods,2021,Action,Action Adventure,Passtech Games,3.63,81.0,19.99,Very Positive,Moderate
+Dagon: by H. P. Lovecraft,2021,Action,Action Adventure,Bit Golem,3.42,95.01,0.0,Overwhelmingly Positive,Moderate
+Road 96,2021,Action,Action Adventure,Digixart,3.96,79.0,19.96,Very Positive,Moderate
+The Dark Pictures Anthology: House of Ashes,2021,Action,Action Adventure,Supermassive Games,3.9,73.0,29.99,Very Positive,Moderate
+Sable,2021,Action,Action Adventure,Shedworks,3.48,76.0,24.99,Very Positive,Moderate
+FIFA 22,2021,Sports,Sports Sim,Electronic Arts Vancouver,3.39,76.0,,Very Positive,Popular
+Turnip Boy Commits Tax Evasion,2021,Action,Action Adventure,Snoozy Kazoo,3.88,72.0,12.49,Overwhelmingly Positive,Moderate
+Goose Goose Duck,2021,Action,Action Adventure,Gaggle Studios,3.33,86.54,0.0,Very Positive,Popular
+Hot Wheels Unleashed,2021,Sports,Sports Sim,Milestone,3.42,74.0,29.99,Mostly Positive,Moderate
+Super Animal Royale,2021,Action,Action Adventure,Pixile,3.01,92.89,0.0,Very Positive,Moderate
+Rustler,2021,Action,Action Adventure,Jutsu Games,2.69,65.0,20.99,Mostly Positive,Moderate
+Diablo 2: Resurrected,2021,Action,Action Adventure,Vicarious Visions,4.1,80.0,39.99,Very Positive,Moderate
+Humankind,2021,Action,Action Adventure,Amplitude Studios,3.65,77.0,49.99,Mostly Positive,Moderate
+Age of Empires 4,2021,Action,Action Adventure,Relic Entertainment,3.88,81.0,39.99,Very Positive,Popular
+Tribes of Midgard,2021,Action,Action Adventure,Norsfell,3.15,72.0,19.99,Mostly Positive,Moderate
+Everhood,2021,Action,Action Adventure,Chris Nordgren,4.18,83.0,9.99,Overwhelmingly Positive,Moderate
+Chivalry 2,2021,Action,Action Adventure,Torn Banner Studios,3.77,82.0,38.99,Very Positive,Popular
+Bright Memory: Infinite,2021,Action,Action Adventure,FYQD-Studio,3.55,65.0,16.79,Very Positive,Moderate
+Nickelodeon All-Star Brawl,2021,Action,Action Adventure,Ludosity,2.86,70.34,49.99,Mostly Positive,Moderate
+Omno,2021,Action,Action Adventure,Jonas Manke,3.5,76.0,18.49,Very Positive,Moderate
+Grand Theft Auto: San Andreas – The Definitive Edition,2021,Action,Action Adventure,Rockstar Games,3.14,80.2,59.99,Very Positive,Moderate
+Call of Duty: Vanguard,2021,Shooter,Tactical Shooter,Raven Software,3.09,67.32,59.99,Mixed,Moderate
+Knockout City,2021,Action,Action Adventure,Velan studios,3.15,80.0,,Very Positive,Moderate
+Cyberpunk 2077,2020,Shooter,Tactical Shooter,CD PROJEKT RED,4.23,86.0,59.99,Very Positive,Popular
+Hades,2020,Action,Action Adventure,Supergiant Games,4.41,93.0,24.5,Overwhelmingly Positive,Popular
+Fall Guys: Ultimate Knockout,2020,Action,Action Adventure,Mediatonic,3.74,80.0,,Very Positive,Popular
+DOOM Eternal,2020,Shooter,Tactical Shooter,Bethesda Softworks,4.37,88.0,29.99,Very Positive,Popular
+The Last of Us Part 2,2020,Shooter,Tactical Shooter,Naughty Dog,4.41,93.0,49.99,Very Positive,Popular
+Ori and the Will of the Wisps,2020,Platformer,3D Platformer,Moon Studios,4.41,88.0,29.99,Overwhelmingly Positive,Popular
+Ghost of Tsushima,2020,Action,Action Adventure,Sucker Punch Productions,4.41,83.0,59.99,Very Positive,Popular
+Black Mesa,2020,Shooter,Tactical Shooter,Crowbar Collective,4.35,84.0,19.5,Overwhelmingly Positive,Popular
+Resident Evil 3,2020,Action,Action Adventure,Capcom,4.04,77.0,39.99,Very Positive,Popular
+Mafia: Definitive Edition,2020,Shooter,Tactical Shooter,Hangar 13,4.24,78.0,39.99,Very Positive,Popular
+Mafia 2: Definitive Edition,2020,Action,Action Adventure,Hangar 13,3.9,65.0,29.99,Mostly Positive,Moderate
+Final Fantasy 7,2020,Action,Action Adventure,Square Enix,4.37,87.0,39.99,Very Positive,Popular
+Deep Rock Galactic,2020,Action,Action Adventure,Ghost Ship Games,4.1,85.0,29.99,Overwhelmingly Positive,Popular
+Tell Me Why,2020,Action,Action Adventure,DONTNOD Entertainment,3.19,76.0,0.0,Very Positive,Moderate
+Assassin's Creed Valhalla,2020,Action,Action Adventure,Ubisoft Montreal,3.67,82.0,59.99,Mostly Positive,Moderate
+Ghostrunner,2020,Action,Action Adventure,3D Realms,3.85,81.0,29.99,Very Positive,Popular
+Marvel's Spider-Man: Miles Morales,2020,Action,Action Adventure,Insomniac Games,4.25,86.0,49.99,Very Positive,Popular
+Risk of Rain 2,2020,Shooter,Tactical Shooter,Hopoo Games,4.14,85.0,24.99,Very Positive,Popular
+Dota Underlords,2020,Action,Action Adventure,Valve Software,3.03,82.23,0.0,Very Positive,Popular
+Superhot: Mind Control Delete,2020,Action,Action Adventure,SUPERHOT Team,3.87,78.0,22.49,Very Positive,Moderate
+Factorio,2020,Action,Action Adventure,Wube Software,4.35,90.0,32.0,Overwhelmingly Positive,Popular
+Phasmophobia,2020,Action,Action Adventure,Kinetic Games,3.85,94.36,18.99,Overwhelmingly Positive,Popular
+Helltaker,2020,Action,Action Adventure,vanripper,3.97,97.67,0.0,Overwhelmingly Positive,Popular
+Half-Life: Alyx,2020,Shooter,Tactical Shooter,Valve Software,4.34,93.0,57.99,Overwhelmingly Positive,Popular
+Marvel's Avengers,2020,Action,Action Adventure,Crystal Dynamics,2.68,68.0,,Mixed,Moderate
+Crusader Kings 3,2020,Action,Action Adventure,Paradox Developement Studios,4.32,91.0,49.99,Very Positive,Popular
+Yakuza: Like a Dragon,2020,Action,Action Adventure,SEGA,4.35,83.0,19.99,Very Positive,Moderate
+Spiritfarer,2020,Action,Action Adventure,Thunder Lotus Games,4.12,84.0,30.49,Overwhelmingly Positive,Popular
+DiRT 5,2020,Sports,Sports Sim,Codemasters,3.25,72.0,54.99,Mixed,Moderate
+Wasteland 3,2020,Action,Action Adventure,InXile Entertainment,4.07,85.0,33.99,Very Positive,Moderate
+Streets of Rage 4,2020,Action,Action Adventure,Playdigious,3.8,84.0,24.99,Very Positive,Moderate
+Watch Dogs: Legion,2020,Shooter,Tactical Shooter,Ubisoft,3.12,72.0,59.99,Mixed,Moderate
+Mafia 3: Definitive Edition,2020,Action,Action Adventure,Hangar 13,3.16,57.51,29.99,Mixed,Popular
+Star Wars: Squadrons,2020,Action,Action Adventure,Electronic Arts,3.16,79.0,39.99,Mixed,Moderate
+Call of Duty: Black Ops Cold War,2020,Shooter,Tactical Shooter,Raven Software,3.81,76.0,59.99,Very Positive,Moderate
+Maneater,2020,Action,Action Adventure,Tripwire Interactive,3.43,70.0,33.99,Very Positive,Moderate
+Kentucky Route Zero,2020,Action,Action Adventure,Netflix,3.98,81.0,22.99,Very Positive,Moderate
+Resident Evil: Resistance,2020,Action,Action Adventure,Capcom,2.18,64.0,59.99,Mostly Negative,Moderate
+Immortals: Fenyx Rising,2020,Action,Action Adventure,Ubisoft,3.73,78.0,39.99,Mostly Positive,Moderate
+The Dark Pictures Anthology: Little Hope,2020,Action,Action Adventure,Supermassive Games,3.79,70.0,19.99,Mostly Positive,Moderate
+Hellpoint,2020,Action,Action Adventure,Cradle Games,2.74,64.0,33.99,Mostly Positive,Moderate
+Moving Out,2020,Action,Action Adventure,SMG Studio,3.66,79.0,22.99,Very Positive,Moderate
+Carrion,2020,Action,Action Adventure,Phobia Game Studio,3.86,75.0,19.5,Overwhelmingly Positive,Moderate
+Noita,2020,Action,Action Adventure,Nolla Games,4.02,76.0,18.99,Overwhelmingly Positive,Popular
+Amnesia: Rebirth,2020,Action,Action Adventure,Frictional Games,3.4,80.0,28.99,Mostly Positive,Moderate
+Desperados 3,2020,Action,Action Adventure,Mimimi Productions,4.33,86.0,39.99,Overwhelmingly Positive,Moderate
+XCOM: Chimera Squad,2020,Action,Action Adventure,Firaxis,3.49,77.0,9.99,Mostly Positive,Moderate
+SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated,2020,Platformer,3D Platformer,Purple Lamp Studios,3.71,68.0,29.99,Very Positive,Moderate
+Journey to the Savage Planet,2020,Action,Action Adventure,Typhoon studios,3.64,76.0,29.99,Very Positive,Moderate
+Microsoft Flight Simulator 2020,2020,Action,Action Adventure,Asobo Studio,4.13,91.0,69.99,Mostly Positive,Popular
+Tetris Effect: Connected,2020,Platformer,3D Platformer,Monstars,4.22,93.0,33.99,Overwhelmingly Positive,Moderate
+Call of the Sea,2020,Action,Action Adventure,Out of the Blue,3.71,78.0,19.99,Very Positive,Moderate
+Warhammer Underworlds: Online,2020,Action,Action Adventure,Steel Sky Productions,2.34,61.75,28.99,Mixed,Moderate
+Mortal Shell,2020,Action,Action Adventure,Cold Symmetry,3.22,75.0,24.99,Mixed,Moderate
+Monster Train,2020,Action,Action Adventure,Good Shepherd Entertainment,4.09,86.0,24.5,Overwhelmingly Positive,Moderate
+Tony Hawk's Pro Skater 1 + 2,2020,Platformer,3D Platformer,Vicarious Visions,4.29,88.0,44.99,Very Positive,Moderate
+Worms Rumble,2020,Shooter,Tactical Shooter,Team17 Digital,2.55,67.0,14.99,Mixed,Moderate
+Going Under,2020,Action,Action Adventure,Aggro Crab,3.7,78.0,19.99,Very Positive,Moderate
+Marvel's Spider-Man Remastered,2020,Action,Action Adventure,Insomniac Games,4.47,96.02,59.99,Overwhelmingly Positive,Popular
+Armor of Heroes,2020,Action,Action Adventure,SEGA,1.68,57.81,,Mixed,Niche
+Crash Bandicoot 4: It's About Time,2020,Platformer,3D Platformer,Beenox,3.95,84.0,39.99,Very Positive,Moderate
+Control Ultimate Edition,2020,Shooter,Tactical Shooter,Remedy Entertainment,4.31,85.0,39.99,Very Positive,Popular
+DOOM 64 (2020),2020,Shooter,Tactical Shooter,id Software,3.64,76.0,4.99,Very Positive,Moderate
+Apex Legends,2019,Shooter,Tactical Shooter,Respawn Entertainment,3.63,88.0,0.0,Mixed,Blockbuster
+Control,2019,Shooter,Tactical Shooter,505 Games,4.14,85.0,39.99,Very Positive,Popular
+Star Wars Jedi: Fallen Order,2019,Action,Action Adventure,Respawn Entertainment,4.13,81.0,39.99,Very Positive,Popular
+Death Stranding,2019,Action,Action Adventure,Kojima Productions,4.31,86.0,,Very Positive,Popular
+Sekiro: Shadows Die Twice,2019,Action,Action Adventure,FromSoftware,4.38,88.0,59.99,Overwhelmingly Positive,Popular
+Metro Exodus,2019,Shooter,Tactical Shooter,4A Games,4.17,85.0,29.99,Very Positive,Popular
+Disco Elysium,2019,Action,Action Adventure,ZA/UM,4.36,97.0,37.99,Very Positive,Popular
+A Plague Tale: Innocence,2019,Action,Action Adventure,Focus Home Interactive,4.14,81.0,69.99,Very Positive,Popular
+Devil May Cry 5,2019,Action,Action Adventure,Capcom,4.25,89.0,29.99,Overwhelmingly Positive,Popular
+Days Gone,2019,Action,Action Adventure,Bend Studio,3.98,74.0,39.99,Very Positive,Popular
+The Outer Worlds,2019,Shooter,Tactical Shooter,Obsidian Entertainment,3.85,82.0,,Very Positive,Moderate
+Borderlands 3,2019,Shooter,Tactical Shooter,2K,3.87,81.0,59.99,Very Positive,Popular
+Borderlands Game of the Year Enhanced,2019,Shooter,Tactical Shooter,Gearbox Software,3.8,78.0,29.99,Very Positive,Moderate
+Mortal Kombat 11,2019,Action,Action Adventure,NetherRealm Studios,3.97,82.0,49.99,Very Positive,Popular
+Resident Evil 2,2019,Action,Action Adventure,Capcom,4.51,89.0,39.99,Overwhelmingly Positive,Popular
+Minion Masters,2019,Action,Action Adventure,BetaDwarf,2.3,89.39,0.0,Very Positive,Popular
+Slay the Spire,2019,Action,Action Adventure,Humble Bundle,4.35,89.0,22.99,Overwhelmingly Positive,Popular
+Outer Wilds,2019,Action,Action Adventure,Mobius Digital,4.36,85.0,22.99,Overwhelmingly Positive,Popular
+Gothic Playable Teaser,2019,RPG,Action RPG,THQ Nordic,2.54,70.1,,Mostly Positive,Moderate
+Gears 5,2019,Shooter,Tactical Shooter,The Coalition,3.91,82.0,29.99,Mostly Positive,Moderate
+Katana ZERO,2019,Platformer,3D Platformer,Askiisoft,4.39,83.0,14.79,Overwhelmingly Positive,Popular
+Blasphemous,2019,Platformer,3D Platformer,The Game Kitchen,4.05,77.0,34.99,Very Positive,Popular
+Call of Duty: Modern Warfare (2019),2019,Shooter,Tactical Shooter,Raven Software,3.78,80.0,59.99,Very Positive,Moderate
+Need for Speed Heat,2019,Sports,Sports Sim,Ghost Games,3.27,72.0,69.99,Very Positive,Popular
+Remnant: From the Ashes,2019,Action,Action Adventure,Gunfire Games,3.61,78.0,39.99,Very Positive,Popular
+My Friend Pedro,2019,Shooter,Tactical Shooter,Devolver,3.87,81.0,19.5,Overwhelmingly Positive,Moderate
+DiRT Rally 2.0,2019,Sports,Sports Sim,Codemasters,3.58,84.0,19.99,Very Positive,Moderate
+The Dark Pictures Anthology: Man of Medan,2019,Action,Action Adventure,Supermassive Games,3.63,75.0,19.99,Mostly Positive,Moderate
+Bloodstained: Ritual of the Night,2019,Action,Action Adventure,505 Games,4.01,81.0,39.99,Very Positive,Moderate
+Goat of Duty,2019,Action,Action Adventure,34BigThings,2.25,85.09,9.99,Very Positive,Moderate
+Children of Morta,2019,Action,Action Adventure,Dead Mage,3.92,82.0,21.99,Very Positive,Moderate
+Tom Clancy's The Division 2,2019,Shooter,Tactical Shooter,Ubisoft,3.74,84.0,29.99,Mostly Positive,Moderate
+GreedFall,2019,Action,Action Adventure,Spiders,3.34,72.0,34.99,Mostly Positive,Moderate
+Splitgate,2019,Shooter,Tactical Shooter,1047 Games,3.41,91.39,0.0,Very Positive,Popular
+Astroneer,2019,Action,Action Adventure,System Era Softworks,3.77,73.0,29.99,Very Positive,Popular
+Code Vein,2019,Action,Action Adventure,BANDAI NAMCO Entertainment America,3.5,72.0,49.99,Very Positive,Popular
+Rage 2,2019,Sports,Sports Sim,id Software,3.24,73.0,39.99,Mixed,Moderate
+Untitled Goose Game,2019,Action,Action Adventure,House House,4.05,79.0,18.99,Overwhelmingly Positive,Moderate
+Superliminal,2019,Platformer,3D Platformer,Pillow Castle Games,4.16,77.0,18.99,Overwhelmingly Positive,Moderate
+Pathologic 2,2019,Action,Action Adventure,Ice-Pick Lodge,4.06,69.0,33.99,Very Positive,Moderate
+My Time At Portia,2019,RPG,Action RPG,Team17 Digital,3.52,73.0,29.99,Very Positive,Moderate
+Far Cry New Dawn,2019,Platformer,3D Platformer,Ubisoft,3.37,73.0,44.99,Mostly Positive,Moderate
+Beat Saber,2019,Action,Action Adventure,Hyperbolic Magnetism,4.35,93.0,19.99,Overwhelmingly Positive,Popular
+Assassin's Creed 3: Remastered,2019,Action,Action Adventure,Ubisoft Montreal,3.55,71.0,39.99,Mixed,Moderate
+Baba Is You,2019,Platformer,3D Platformer,Hempuli Oy,4.38,87.0,12.49,Overwhelmingly Positive,Moderate
+Darksiders Genesis,2019,Action,Action Adventure,Airship Syndicate,3.58,77.0,29.99,Very Positive,Moderate
+Wolfenstein: Youngblood,2019,Shooter,Tactical Shooter,Bethesda Softworks,2.68,69.0,19.99,Mixed,Moderate
+Trine 4: The Nightmare Prince,2019,Platformer,3D Platformer,Frozenbyte,3.93,81.0,29.99,Very Positive,Moderate
+Wargroove,2019,Action,Action Adventure,Chucklefish,3.6,82.0,16.99,Very Positive,Moderate
+Void Bastards,2019,Action,Action Adventure,Blue Manchu,3.72,81.0,29.99,Very Positive,Moderate
+Evoland Legendary Edition,2019,Action,Action Adventure,Shiro Games,3.47,66.0,19.99,Very Positive,Moderate
+Supraland,2019,Action,Action Adventure,Supra Games,3.98,85.0,19.99,Overwhelmingly Positive,Moderate
+Age of Empires 2: Definitive Edition,2019,Action,Action Adventure,Forgotten Empires,4.29,84.0,32.99,Overwhelmingly Positive,Popular
+MORDHAU,2019,Action,Action Adventure,Triternion,3.9,81.0,28.99,Very Positive,Popular
+NBA 2K20,2019,Action,Action Adventure,2K,3.06,74.0,,Mixed,Popular
+Showdown Bandit,2019,Action,Action Adventure,naveed321isthebest,1.8,57.06,,Mixed,Moderate
+ACE COMBAT 7: SKIES UNKNOWN,2019,Platformer,3D Platformer,BANDAI NAMCO Entertainment America,3.93,78.0,59.99,Very Positive,Popular
+The Surge 2,2019,Action,Action Adventure,Focus Home Interactive,3.56,76.0,29.99,Mostly Positive,Moderate
+Generation Zero (2019),2019,Shooter,Tactical Shooter,Avalanche Studios,2.69,49.0,24.99,Mostly Positive,Moderate
+Pikuniku,2019,Action,Action Adventure,Devolver Digital,3.93,74.0,12.79,Overwhelmingly Positive,Moderate
+A Short Hike,2019,Action,Action Adventure,adamgryu,4.35,82.0,6.59,Overwhelmingly Positive,Moderate
+The Beast Inside,2019,Action,Action Adventure,Illusion Ray Studio,3.47,74.0,24.5,Very Positive,Moderate
+We Were Here Together,2019,Action,Action Adventure,Total Mayhem Games,4.02,77.0,12.99,Very Positive,Moderate
+Outward Definitive Edition,2019,Action,Action Adventure,Nine Dots Studio,3.33,65.0,39.99,Mostly Positive,Moderate
+Indivisible,2019,Action,Action Adventure,Lab Zero Games,3.31,78.0,19.99,Mostly Positive,Moderate
+Red Dead Redemption 2,2018,Action,Action Adventure,Rockstar Games,4.59,93.0,59.99,Very Positive,Popular
+God of War (2018),2018,Action,Action Adventure,Santa Monica Studio,4.54,93.0,49.99,Overwhelmingly Positive,Popular
+Marvel's Spider-Man,2018,Action,Action Adventure,Insomniac Games,4.45,87.0,59.99,Overwhelmingly Positive,Popular
+Detroit: Become Human,2018,Action,Action Adventure,Quantic Dream,4.34,80.0,39.99,Overwhelmingly Positive,Popular
+Monster Hunter: World,2018,Action,Action Adventure,Capcom,4.01,88.0,29.99,Very Positive,Popular
+Warhammer: Vermintide 2,2018,Action,Action Adventure,Fatshark,3.61,82.0,27.99,Very Positive,Popular
+Far Cry 5,2018,Shooter,Tactical Shooter,Ubisoft,3.72,80.0,59.99,Very Positive,Popular
+Shadow of the Tomb Raider,2018,Action,Action Adventure,Eidos Montreal,3.92,77.0,39.99,Very Positive,Popular
+Assassin's Creed Odyssey,2018,Action,Action Adventure,Ubisoft,3.97,85.0,59.99,Very Positive,Popular
+Hitman 2,2018,Shooter,Tactical Shooter,IO Interactive,4.04,82.0,,Very Positive,Popular
+Among Us,2018,Action,Action Adventure,Innersloth,3.83,85.0,4.49,Very Positive,Popular
+Kingdom Come: Deliverance,2018,Action,Action Adventure,Deep Silver,4.05,76.0,29.99,Very Positive,Popular
+Dead Cells,2018,Platformer,3D Platformer,Plug In Digital,4.23,89.0,24.99,Overwhelmingly Positive,Popular
+Subnautica,2018,Action,Action Adventure,Unknown Worlds Entertainment,4.24,87.0,29.99,Overwhelmingly Positive,Popular
+The Forest,2018,Action,Action Adventure,Endnight Games,3.74,83.0,16.79,Overwhelmingly Positive,Popular
+Forza Horizon 4,2018,Sports,Sports Sim,Playground Games,4.37,90.0,,Very Positive,Popular
+Surviving Mars,2018,Action,Action Adventure,Haemimont Games,3.46,76.0,,Mostly Positive,Moderate
+Celeste,2018,Platformer,3D Platformer,Matt Makes Games,4.37,88.0,18.99,Overwhelmingly Positive,Popular
+Frostpunk,2018,Action,Action Adventure,11 Bit Studios,4.19,84.0,29.99,Very Positive,Popular
+A Way Out,2018,Action,Action Adventure,Electronic Arts,4.13,78.0,29.99,Very Positive,Popular
+Rust,2018,Shooter,Tactical Shooter,Facepunch Studios,3.37,69.0,39.99,Very Positive,Blockbuster
+Dark Souls: Remastered,2018,Action,Action Adventure,FromSoftware,4.48,84.0,39.99,Very Positive,Popular
+Sea of Thieves,2018,Action,Action Adventure,Rare,3.69,68.0,39.99,Very Positive,Popular
+Gwent: The Witcher Card Game,2018,Action,Action Adventure,CD PROJEKT RED,3.59,80.0,0.0,Very Positive,Moderate
+Gris,2018,Platformer,3D Platformer,Nomada Studio,4.2,84.0,14.79,Overwhelmingly Positive,Popular
+Vampyr,2018,Action,Action Adventure,DONTNOD Entertainment,3.49,72.0,39.99,Mostly Positive,Moderate
+Battlefield V,2018,Shooter,Tactical Shooter,Electronic Arts,3.52,77.0,49.99,Mostly Positive,Popular
+Life is Strange 2,2018,Action,Action Adventure,DONTNOD Entertainment,3.8,75.0,0.0,Very Positive,Moderate
+The Awesome Adventures of Captain Spirit,2018,Action,Action Adventure,DONTNOD Entertainment,3.61,79.0,0.0,Very Positive,Moderate
+Overcooked! 2,2018,Action,Action Adventure,Team17 Digital,4.15,81.0,22.99,Very Positive,Popular
+Spyro Reignited Trilogy,2018,Action,Action Adventure,Activision,4.13,80.0,39.99,Very Positive,Moderate
+Totally Accurate Battlegrounds,2018,Shooter,Tactical Shooter,Landfall,2.82,88.46,0.0,Very Positive,Popular
+Fallout 76,2018,Action,Action Adventure,Bethesda Game Studios,2.85,51.0,39.99,Mostly Positive,Popular
+Hellblade: Senua's Sacrifice VR Edition,2018,Action,Action Adventure,Ninja Theory,3.56,87.0,,Very Positive,Moderate
+Darksiders 3,2018,Action,Action Adventure,THQ Nordic,3.43,70.0,39.99,Mostly Positive,Moderate
+Moonlighter,2018,Action,Action Adventure,11 Bit Studios,3.75,74.0,19.99,Very Positive,Moderate
+Aim Lab,2018,Action,Action Adventure,Statespace,3.04,90.74,0.0,Very Positive,Popular
+Just Cause 4,2018,Action,Action Adventure,Square Enix,3.03,68.0,,Mixed,Moderate
+Aegis Defenders,2018,Action,Action Adventure,Humble Bundle,2.53,76.0,19.99,Mostly Positive,Moderate
+Red Faction Guerrilla Re-Mars-tered,2018,Shooter,Tactical Shooter,THQ Nordic,3.47,70.0,19.99,Very Positive,Moderate
+Headsnatchers,2018,Action,Action Adventure,IguanaBee,1.82,51.49,14.79,Mixed,Moderate
+Realm Royale,2018,Action,Action Adventure,Hi-Rez Studios,2.62,76.3,,Mostly Positive,Popular
+Into the Breach,2018,Action,Action Adventure,Subset Games,4.3,90.0,14.99,Overwhelmingly Positive,Moderate
+Unravel Two,2018,Platformer,3D Platformer,Electronic Arts,3.96,76.0,19.99,Mostly Positive,Moderate
+Northgard,2018,Action,Action Adventure,Plug In Digital,3.77,81.0,34.99,Very Positive,Popular
+Graveyard Keeper,2018,Action,Action Adventure,tinyBuild,3.72,69.0,19.5,Very Positive,Popular
+F1 2018,2018,Sports,Sports Sim,Codemasters,3.33,83.0,,Very Positive,Moderate
+Regions Of Ruin,2018,Action,Action Adventure,Vox Games,2.46,86.08,11.99,Very Positive,Moderate
+Ring of Elysium,2018,Shooter,Tactical Shooter,Tencent Games,2.94,74.55,,Mostly Positive,Popular
+Return Of The Obra Dinn,2018,Action,Action Adventure,Lucas Pope,4.33,89.0,19.5,Overwhelmingly Positive,Moderate
+Two Point Hospital,2018,RPG,Action RPG,Two Point Studios,3.74,83.0,29.99,Very Positive,Moderate
+Horizon Chase Turbo,2018,Sports,Sports Sim,Aquiris Game Studio,3.43,76.0,,Very Positive,Moderate
+Pathfinder: Kingmaker,2018,RPG,Action RPG,Owlcat Games,3.92,73.0,19.99,Mostly Positive,Moderate
+State of Decay 2,2018,Shooter,Tactical Shooter,Undead Labs,3.29,69.0,29.99,Very Positive,Popular
+DRAGON BALL FighterZ,2018,Action,Action Adventure,BANDAI NAMCO Entertainment America,4.09,85.0,59.99,Very Positive,Popular
+Jurassic World Evolution,2018,Action,Action Adventure,Frontier Developments,3.63,69.0,44.99,Very Positive,Popular
+Wizard of Legend,2018,Action,Action Adventure,Humble Bundle,3.54,79.0,15.99,Very Positive,Moderate
+Ni no Kuni 2: Revenant Kingdom,2018,Action,Action Adventure,BANDAI NAMCO Entertainment America,3.89,81.0,59.99,Very Positive,Moderate
+Wreckfest,2018,Sports,Sports Sim,Handy Games,3.68,81.0,29.99,Very Positive,Moderate
+Mutant Year Zero: Road to Eden,2018,Action,Action Adventure,The Bearded Ladies,3.73,78.0,34.99,Very Positive,Moderate
+Steel Rats,2018,Sports,Sports Sim,Tate Multimedia,2.63,66.0,9.99,Mixed,Moderate
+House Flipper,2018,Action,Action Adventure,Ultimate Games,3.84,67.0,24.5,Very Positive,Popular
+The Council,2018,Action,Action Adventure,Big Bad Wolf,3.61,67.0,0.0,Very Positive,Moderate
+Cuisine Royale,2018,Action,Action Adventure,Darkflow Software,2.59,78.72,0.0,Mostly Positive,Moderate
+Call of Cthulhu,2018,Action,Action Adventure,Cyanide Studio,3.53,66.0,19.99,Very Positive,Moderate
+Hunt: Showdown,2018,Shooter,Tactical Shooter,Crytek,3.87,81.0,29.99,Mostly Positive,Popular
+"Warhammer 40,000: Gladius: Relics of War",2018,Action,Action Adventure,Proxy Studios,2.78,71.0,40.86,Very Positive,Moderate
+Destiny 2,2017,Shooter,Tactical Shooter,Bungie,3.52,83.0,0.0,Mostly Positive,Popular
+Horizon Zero Dawn,2017,Action,Action Adventure,Guerrilla Games,4.27,89.0,,Very Positive,Popular
+Hollow Knight,2017,Platformer,3D Platformer,Team Cherry,4.4,87.0,14.79,Overwhelmingly Positive,Popular
+Little Nightmares,2017,Platformer,3D Platformer,BANDAI NAMCO Entertainment America,4.03,81.0,19.99,Overwhelmingly Positive,Popular
+PlayerUnknown's Battlegrounds,2017,Shooter,Tactical Shooter,Krafton,3.28,81.0,0.0,Mixed,Blockbuster
+Prey,2017,Shooter,Tactical Shooter,Arkane Studios,4.28,80.0,29.99,Very Positive,Popular
+Hellblade: Senua's Sacrifice,2017,Action,Action Adventure,Ninja Theory,4.22,83.0,29.99,Very Positive,Popular
+For Honor,2017,Action,Action Adventure,Ubisoft,3.3,76.0,29.99,Mixed,Popular
+NieR:Automata,2017,Action,Action Adventure,Platinum Games,4.37,84.0,39.99,Very Positive,Popular
+Resident Evil 7: Biohazard,2017,Shooter,Tactical Shooter,Capcom,4.33,83.0,19.99,Overwhelmingly Positive,Popular
+Middle-earth: Shadow of War,2017,Action,Action Adventure,Warner Bros. Interactive,3.86,82.0,39.99,Very Positive,Popular
+Cuphead,2017,Platformer,3D Platformer,Studio MDHR,4.37,88.0,19.99,Overwhelmingly Positive,Popular
+Assassin's Creed Origins,2017,Action,Action Adventure,Ubisoft,3.96,81.0,59.99,Very Positive,Popular
+Wolfenstein 2: The New Colossus,2017,Shooter,Tactical Shooter,Bethesda Softworks,4.09,86.0,,Very Positive,Moderate
+Divinity: Original Sin 2,2017,Action,Action Adventure,Larian Studios,4.38,93.0,44.99,Overwhelmingly Positive,Popular
+Quake Champions,2017,Shooter,Tactical Shooter,id Software,3.26,74.0,9.99,Mostly Positive,Moderate
+What Remains of Edith Finch,2017,Action,Action Adventure,Annapurna Interactive,4.38,89.0,18.49,Overwhelmingly Positive,Popular
+Call of Duty: WWII,2017,Shooter,Tactical Shooter,Sledgehammer Games,3.55,77.0,59.99,Mostly Positive,Moderate
+STAR WARS Battlefront 2,2017,Shooter,Tactical Shooter,Electronic Arts DICE,3.58,74.0,39.99,Very Positive,Popular
+Doki Doki Literature Club!,2017,Action,Action Adventure,Team Salvato,4.06,78.0,0.0,Overwhelmingly Positive,Popular
+Dear Esther: Landmark Edition,2017,Action,Action Adventure,The Chinese Room,3.31,74.57,9.99,Mostly Positive,Moderate
+Serious Sam Fusion 2017 (beta),2017,Action,Action Adventure,Croteam,3.05,92.74,14.99,Very Positive,Moderate
+VRChat,2017,Action,Action Adventure,VRChat,3.15,75.14,0.0,Mostly Positive,Popular
+Crash Bandicoot N. Sane Trilogy,2017,Platformer,3D Platformer,Activision,4.12,81.0,39.99,Very Positive,Moderate
+Sniper Elite 4,2017,Shooter,Tactical Shooter,Rebellion,3.59,78.0,59.99,Very Positive,Popular
+The LEGO NINJAGO Movie Video Game,2017,Action,Action Adventure,Warner Bros. Interactive,2.93,70.0,29.99,Very Positive,Moderate
+Injustice 2,2017,Action,Action Adventure,Warner Bros. Interactive,3.92,86.0,49.99,Very Positive,Moderate
+Outlast 2,2017,Action,Action Adventure,Red Barrels,3.68,75.0,19.5,Very Positive,Popular
+The Evil Within 2,2017,Shooter,Tactical Shooter,Bethesda Softworks,4.14,80.0,29.99,Very Positive,Moderate
+Life is Strange: Before The Storm,2017,Action,Action Adventure,Square Enix,3.95,77.0,16.99,Very Positive,Moderate
+Mass Effect: Andromeda,2017,Action,Action Adventure,BioWare,3.21,72.0,39.99,Mostly Positive,Moderate
+Dishonored: Death of the Outsider,2017,Action,Action Adventure,Bethesda Softworks,4.05,81.0,29.99,Very Positive,Moderate
+Tom Clancy's Ghost Recon Wildlands,2017,Shooter,Tactical Shooter,Ubisoft,3.57,72.0,49.99,Mostly Positive,Popular
+Ultimate Epic Battle Simulator,2017,Action,Action Adventure,Brilliant Game Studios,2.64,76.67,12.49,Mostly Positive,Moderate
+Need for Speed Payback,2017,Sports,Sports Sim,Ghost Games,3.2,62.0,29.99,Very Positive,Moderate
+The Surge,2017,Action,Action Adventure,Focus Home Interactive,3.19,72.0,14.99,Mostly Positive,Moderate
+TERA,2017,Action,Action Adventure,Bluehole,2.86,77.0,,Mostly Positive,Moderate
+RiME,2017,Action,Action Adventure,QLOC,3.66,78.0,34.99,Very Positive,Moderate
+Nioh,2017,Action,Action Adventure,Team NINJA,3.81,84.0,49.99,Mostly Positive,Moderate
+South Park: The Fractured But Whole,2017,Action,Action Adventure,Ubisoft San Francisco,4.04,80.0,29.99,Very Positive,Moderate
+SteamWorld Dig 2,2017,Platformer,3D Platformer,Image & Form,4.06,85.0,19.99,Overwhelmingly Positive,Moderate
+Deceit,2017,Action,Action Adventure,Automaton,2.94,79.05,,Very Positive,Popular
+Ruiner,2017,Shooter,Tactical Shooter,Devolver Digital,3.72,75.0,19.5,Very Positive,Moderate
+We Were Here,2017,Action,Action Adventure,Total Mayhem Games,3.8,63.0,0.0,Very Positive,Moderate
+Snake Pass,2017,Action,Action Adventure,Sumo Digital,3.23,71.0,19.99,Very Positive,Moderate
+Guns of Icarus Alliance,2017,Action,Action Adventure,Muse Games,2.41,76.29,3.99,Mostly Positive,Moderate
+Conan Exiles,2017,Action,Action Adventure,Funcom,2.85,67.0,39.99,Very Positive,Popular
+Crossout,2017,Sports,Sports Sim,Targem Games,2.81,68.0,0.0,Mostly Positive,Popular
+OKAMI HD,2017,Action,Action Adventure,Capcom,4.18,92.0,19.99,Very Positive,Moderate
+Yakuza Kiwami 2,2017,Action,Action Adventure,SEGA,4.36,82.0,,Overwhelmingly Positive,Moderate
+Bulletstorm: Full Clip Edition,2017,Action,Action Adventure,People Can Fly,3.93,76.0,36.99,Very Positive,Moderate
+A Hat in Time,2017,Platformer,3D Platformer,Humble Bundle,4.31,79.0,28.99,Overwhelmingly Positive,Popular
+Observеr,2017,Action,Action Adventure,Bloober Team,3.9,78.0,27.99,Mostly Positive,Moderate
+Full Throttle Remastered,2017,Action,Action Adventure,Double Fine Productions,3.96,77.0,14.99,Very Positive,Moderate
+Stick Fight: The Game,2017,Action,Action Adventure,Landfall,3.82,93.48,4.75,Very Positive,Popular
+Geneshift,2017,Action,Action Adventure,Nik Nak Studios,2.14,85.6,0.0,Very Positive,Moderate
+Pyre,2017,Action,Action Adventure,Supergiant Games,4.16,82.0,19.5,Very Positive,Moderate
+Bomber Crew,2017,Action,Action Adventure,Curve Digital,3.11,75.0,15.99,Very Positive,Moderate
+Oxygen Not Included,2017,Action,Action Adventure,Klei Entertainment,4.14,85.0,22.99,Overwhelmingly Positive,Popular
+Absolver,2017,Action,Action Adventure,Devolver Digital,2.91,75.0,28.99,Mostly Positive,Moderate
+Darkwood,2017,Action,Action Adventure,Crunching Koalas,3.81,80.0,19.99,Overwhelmingly Positive,Moderate
+DOOM (2016),2016,Shooter,Tactical Shooter,Bethesda Softworks,4.38,85.0,19.99,Overwhelmingly Positive,Popular
+Dark Souls 3,2016,Action,Action Adventure,BANDAI NAMCO Entertainment America,4.4,89.0,59.99,Overwhelmingly Positive,Popular
+Stardew Valley,2016,RPG,Action RPG,Chucklefish,4.39,89.0,13.99,Overwhelmingly Positive,Blockbuster
+BioShock Remastered,2016,Shooter,Tactical Shooter,Feral Interactive,4.24,80.0,19.99,Very Positive,Popular
+Hitman,2016,Shooter,Tactical Shooter,Feral Interactive,3.93,83.0,,Very Positive,Moderate
+Deus Ex: Mankind Divided,2016,Action,Action Adventure,Eidos Montreal,3.96,83.0,29.99,Mostly Positive,Moderate
+The Elder Scrolls V: Skyrim Special Edition,2016,Action,Action Adventure,Bethesda Game Studios,4.45,74.0,39.99,Very Positive,Popular
+Dishonored 2,2016,Action,Action Adventure,Bethesda Softworks,4.26,86.0,29.99,Very Positive,Popular
+Don't Starve Together,2016,Action,Action Adventure,Klei Entertainment,3.77,83.0,14.99,Overwhelmingly Positive,Popular
+BioShock 2 Remastered,2016,Action,Action Adventure,Digital Extremes,4.0,72.22,19.99,Mostly Positive,Moderate
+ARK: Survival Of The Fittest,2016,Action,Action Adventure,Instinct Games,2.6,66.12,,Mixed,Moderate
+Titanfall 2,2016,Shooter,Tactical Shooter,Respawn Entertainment,4.32,86.0,29.99,Overwhelmingly Positive,Popular
+Paladins,2016,Shooter,Tactical Shooter,Hi-Rez Studios,3.08,83.0,0.0,Very Positive,Popular
+INSIDE,2016,Action,Action Adventure,Playdead,4.38,87.0,22.99,Overwhelmingly Positive,Popular
+Firewatch,2016,Action,Action Adventure,Campo Santo,4.3,81.0,19.5,Very Positive,Popular
+No Man's Sky,2016,Action,Action Adventure,Hello Games,3.71,61.0,58.99,Very Positive,Popular
+Titan Quest Anniversary Edition,2016,Action,Action Adventure,THQ Nordic,3.78,90.25,19.99,Very Positive,Moderate
+Battlefield 1,2016,Shooter,Tactical Shooter,Electronic Arts,3.84,88.0,39.99,Very Positive,Popular
+XCOM 2,2016,Action,Action Adventure,Feral Interactive,4.11,88.0,19.99,Very Positive,Popular
+Ori and the Blind Forest: Definitive Edition,2016,Platformer,3D Platformer,Moon Studios,4.42,88.0,19.99,Overwhelmingly Positive,Popular
+Sid Meier's Civilization 6,2016,Action,Action Adventure,Aspyr Media,4.16,88.0,59.99,Very Positive,Popular
+Watch Dogs 2,2016,Action,Action Adventure,Ubisoft Montreal,3.84,79.0,59.99,Very Positive,Popular
+Darksiders Warmastered Edition,2016,Action,Action Adventure,Vigil Games,3.68,79.0,19.99,Very Positive,Moderate
+Darkest Dungeon,2016,Action,Action Adventure,Red Hook Studios,4.17,84.0,22.99,Very Positive,Popular
+Quantum Break,2016,Shooter,Tactical Shooter,Remedy Entertainment,3.9,66.0,36.99,Very Positive,Moderate
+Mafia 3,2016,Action,Action Adventure,Aspyr Media,3.14,62.0,29.99,Mixed,Popular
+SUPERHOT,2016,Shooter,Tactical Shooter,SUPERHOT Team,4.2,82.0,22.49,Very Positive,Moderate
+Wallpaper Engine,2016,Action,Action Adventure,Unknown,4.05,97.55,4.99,Overwhelmingly Positive,Popular
+The Witness,2016,Action,Action Adventure,NVIDIA Lightspeed Studios,4.01,87.0,36.99,Very Positive,Moderate
+Tom Clancy's The Division,2016,Shooter,Tactical Shooter,Ubisoft,3.7,80.0,29.99,Mostly Positive,Popular
+Dead by Daylight,2016,Action,Action Adventure,Behaviour Interactive,3.5,72.0,19.99,Mostly Positive,Popular
+Overcooked,2016,Platformer,3D Platformer,Team17 Digital,4.07,81.0,15.99,Very Positive,Moderate
+Human: Fall Flat,2016,Action,Action Adventure,505 Games,3.83,70.0,19.99,Overwhelmingly Positive,Popular
+FINAL FANTASY XV,2016,RPG,Action RPG,Square Enix,3.87,82.0,34.99,Very Positive,Popular
+Beholder,2016,Action,Action Adventure,Alawar Entertainment,3.8,75.0,13.79,Very Positive,Moderate
+Starbound,2016,Action,Action Adventure,Chucklefish,3.82,81.0,14.99,Very Positive,Popular
+Killing Floor 2,2016,Action,Action Adventure,Tripwire Interactive,3.53,75.0,27.99,Very Positive,Popular
+Enter the Gungeon,2016,Shooter,Tactical Shooter,Dodge Roll,4.07,84.0,14.79,Overwhelmingly Positive,Popular
+Drawful 2,2016,Action,Action Adventure,Jackbox Games,3.2,74.0,9.99,Mostly Positive,Moderate
+Orwell: Keeping an Eye On You,2016,Action,Action Adventure,Osmotic Studios,3.28,77.0,9.99,Very Positive,Moderate
+Stellaris,2016,Action,Action Adventure,Paradox Development Studio,4.11,78.0,49.99,Very Positive,Popular
+Oxenfree,2016,Action,Action Adventure,Night School Studio,3.91,80.0,9.75,Very Positive,Moderate
+ABZU,2016,Action,Action Adventure,Giant Squid,3.91,83.0,19.99,Very Positive,Moderate
+The Flame in the Flood,2016,Action,Action Adventure,The Molasses Flood,2.89,73.0,14.99,Mostly Positive,Moderate
+Heroes & Generals,2016,Shooter,Tactical Shooter,Reto-Moto,2.78,67.77,,Mixed,Popular
+Yakuza Kiwami,2016,Action,Action Adventure,Ryu ga Gotoku Studio,4.1,80.0,,Very Positive,Moderate
+Shadow Tactics: Blades of the Shogun,2016,Action,Action Adventure,Daedalic Entertainment,4.08,85.0,39.99,Overwhelmingly Positive,Moderate
+Call of Duty: Modern Warfare Remastered,2016,Shooter,Tactical Shooter,Raven Software,3.98,86.0,39.99,Mixed,Moderate
+Street Fighter V,2016,Action,Action Adventure,Capcom,3.8,89.0,19.99,Mixed,Moderate
+Battlerite,2016,Action,Action Adventure,Stunlock Studios,3.22,85.0,0.0,Very Positive,Popular
+Shadow Warrior 2,2016,Shooter,Tactical Shooter,Devolver Digital,3.52,78.0,28.99,Very Positive,Moderate
+H1Z1: King of the Kill,2016,Action,Action Adventure,Daybreak Games Company,2.39,70.0,0.0,Mixed,Popular
+Steep,2016,Action,Action Adventure,Ubisoft,3.48,72.0,29.99,Very Positive,Moderate
+Stories: The Path of Destinies,2016,Platformer,3D Platformer,Spearhead Games,3.8,74.0,14.79,Very Positive,Moderate
+Mirror's Edge Catalyst,2016,Platformer,3D Platformer,Electronic Arts,3.5,74.0,19.99,Mostly Positive,Moderate
+Furi,2016,Platformer,3D Platformer,The Game Bakers,3.93,76.0,19.99,Very Positive,Moderate
+Grim Dawn,2016,Action,Action Adventure,Crate Entertainment,3.96,83.0,25.99,Very Positive,Popular
+Unravel,2016,Action,Action Adventure,Electronic Arts,3.94,81.0,19.99,Very Positive,Moderate
+Far Cry Primal,2016,Shooter,Tactical Shooter,Ubisoft,3.58,74.0,29.99,Very Positive,Moderate
+SpeedRunners,2016,Sports,Sports Sim,tinyBuild,3.75,84.0,14.79,Very Positive,Moderate
+The Uncertain: Episode 1: The Last Quiet Day,2016,Action,Action Adventure,ComonGames,2.63,75.69,8.19,Mostly Positive,Moderate
+This is the Police,2016,Action,Action Adventure,THQ Nordic,3.89,66.0,14.99,Very Positive,Moderate
+The Lab,2016,Action,Action Adventure,Valve Software,3.01,94.83,0.0,Overwhelmingly Positive,Moderate
+Golf With Your Friends,2016,Sports,Sports Sim,Team17 Digital,3.83,69.0,14.99,Very Positive,Popular
+The Witcher 3: Wild Hunt,2015,Action,Action Adventure,CD PROJEKT RED,4.64,93.0,49.99,Overwhelmingly Positive,Popular
+Life is Strange,2015,Action,Action Adventure,DONTNOD Entertainment,4.12,83.0,0.0,Overwhelmingly Positive,Popular
+Rocket League,2015,Sports,Sports Sim,Psyonix,3.93,86.0,,Very Positive,Popular
+Rise of the Tomb Raider,2015,Action,Action Adventure,Feral Interactive,4.04,86.0,29.99,Overwhelmingly Positive,Popular
+Batman: Arkham Knight,2015,Action,Action Adventure,Rocksteady Studios,4.24,81.0,19.99,Very Positive,Popular
+Metal Gear Solid V: The Phantom Pain,2015,Shooter,Tactical Shooter,Kojima Productions,4.16,91.0,29.99,Very Positive,Popular
+Just Cause 3,2015,Shooter,Tactical Shooter,Square Enix,3.4,74.0,19.99,Very Positive,Popular
+Mortal Kombat 10,2015,Action,Action Adventure,Warner Bros. Interactive,3.86,84.0,19.99,Very Positive,Popular
+Mad Max,2015,Action,Action Adventure,Avalanche Studios,3.78,73.0,19.99,Very Positive,Popular
+ARK: Survival Evolved,2015,Action,Action Adventure,Instinct Games,3.08,70.0,14.79,Very Positive,Popular
+Undertale,2015,RPG,Action RPG,8-4,4.35,92.0,9.99,Overwhelmingly Positive,Popular
+Tom Clancy's Rainbow Six Siege,2015,Shooter,Tactical Shooter,Ubisoft,3.88,75.0,0.0,Very Positive,Blockbuster
+Ori and the Blind Forest,2015,Platformer,3D Platformer,Moon Studios,4.37,88.0,,Very Positive,Popular
+SOMA,2015,Action,Action Adventure,Frictional Games,4.17,84.0,28.99,Overwhelmingly Positive,Popular
+Call of Duty: Black Ops 3,2015,Shooter,Tactical Shooter,Raven Software,3.27,73.0,59.99,Very Positive,Popular
+Fallout Shelter,2015,RPG,Action RPG,Bethesda Softworks,3.42,63.0,0.0,Very Positive,Popular
+Dying Light: The Following: Enhanced Edition,2015,Action,Action Adventure,Techland,4.14,87.0,24.99,Overwhelmingly Positive,Popular
+DiRT Rally,2015,Sports,Sports Sim,Feral Interactive,3.68,86.0,,Very Positive,Moderate
+Yakuza 0,2015,Action,Action Adventure,SEGA,4.36,86.0,,Overwhelmingly Positive,Popular
+Hotline Miami 2: Wrong Number,2015,Shooter,Tactical Shooter,Devolver Digital,4.28,72.0,14.79,Overwhelmingly Positive,Popular
+Grim Fandango Remastered,2015,Action,Action Adventure,Double Fine Productions,4.0,84.0,14.99,Very Positive,Moderate
+Broforce,2015,Platformer,3D Platformer,Devolver Digital,4.02,83.0,14.79,Overwhelmingly Positive,Popular
+Kingdom: Classic,2015,Action,Action Adventure,Noio,3.4,74.0,0.0,Very Positive,Moderate
+Dark Souls 2: Scholar of the First Sin,2015,Action,Action Adventure,BANDAI NAMCO Entertainment America,4.14,79.0,39.99,Very Positive,Popular
+SMITE,2015,Action,Action Adventure,Hi-Rez Studios,3.05,83.0,0.0,Mostly Positive,Popular
+Assassin's Creed Syndicate,2015,Action,Action Adventure,Ubisoft Montreal,3.66,74.0,39.99,Very Positive,Moderate
+Until Dawn,2015,Action,Action Adventure,Supermassive Games,4.1,79.0,69.99,Very Positive,Moderate
+Titan Souls,2015,Action,Action Adventure,Devolver Digital,3.34,74.0,14.79,Mostly Positive,Moderate
+Wolfenstein: The Old Blood,2015,Shooter,Tactical Shooter,Bethesda Softworks,4.0,76.0,19.99,Very Positive,Moderate
+Divinity: Original Sin: Enhanced Edition,2015,RPG,Action RPG,Larian Studios,4.25,94.0,39.99,Very Positive,Moderate
+Darksiders 2 Deathinitive Edition,2015,Action,Action Adventure,THQ Nordic,3.79,75.0,29.99,Mostly Positive,Moderate
+Hacknet,2015,Action,Action Adventure,Team Fractal Alligator,3.19,82.0,9.75,Very Positive,Moderate
+Prison Architect,2015,Action,Action Adventure,Double Eleven,3.72,83.0,24.99,Very Positive,Popular
+Jotun: Valhalla Edition,2015,Action,Action Adventure,Thunder Lotus,3.06,79.0,15.49,Mostly Positive,Moderate
+Resident Evil Revelations 2,2015,Action,Action Adventure,Capcom,3.69,72.0,19.99,Mostly Positive,Moderate
+The Elder Scrolls Online: Tamriel Unlimited,2015,Action,Action Adventure,Bethesda Softworks,3.48,80.0,19.99,Very Positive,Popular
+Tales from the Borderlands: A Telltale Game Series,2015,Action,Action Adventure,Telltale Games,4.18,85.0,19.99,Overwhelmingly Positive,Moderate
+Dying Light,2015,Action,Action Adventure,Techland,4.09,87.0,24.99,Overwhelmingly Positive,Popular
+STAR WARS Battlefront,2015,Action,Action Adventure,Electronic Arts,3.29,76.0,19.99,Very Positive,Moderate
+Tabletop Simulator,2015,RPG,Action RPG,Berserk Games,4.06,95.95,19.5,Overwhelmingly Positive,Popular
+Pillars of Eternity,2015,RPG,Action RPG,Obsidian Entertainment,3.96,89.0,29.99,Very Positive,Moderate
+Magicka 2,2015,Action,Action Adventure,Paradox Interactive,3.69,69.0,14.99,Very Positive,Moderate
+Trove,2015,Action,Action Adventure,Trion Worlds,2.66,65.0,0.0,Very Positive,Popular
+Satellite Reign,2015,Action,Action Adventure,5 Lives Studios,2.66,75.0,24.99,Mostly Positive,Moderate
+Kerbal Space Program,2015,Action,Action Adventure,Squad,4.16,88.0,36.99,Overwhelmingly Positive,Popular
+Clicker Heroes,2015,Action,Action Adventure,Playsaurus,2.65,89.59,0.0,Very Positive,Popular
+Kholat,2015,Action,Action Adventure,IMGN.PRO,2.65,64.0,17.99,Mixed,Moderate
+TEKKEN 7,2015,Action,Action Adventure,BANDAI NAMCO Entertainment America,4.02,82.0,39.99,Very Positive,Popular
+Evolve Stage 2,2015,Action,Action Adventure,Turtle Rock Studios,2.57,77.0,,Mostly Positive,Moderate
+Saints Row: Gat Out of Hell,2015,Action,Action Adventure,Deep Silver,3.18,66.0,14.99,Mostly Positive,Moderate
+Warhammer: End Times: Vermintide,2015,Action,Action Adventure,Fatshark,3.47,79.0,28.99,Very Positive,Moderate
+F1 2015,2015,Sports,Sports Sim,Feral Interactive,2.7,61.0,,Mixed,Moderate
+Crypt of the NecroDancer,2015,Action,Action Adventure,Brace Yourself Games,3.99,87.0,14.79,Overwhelmingly Positive,Moderate
+Elite Dangerous,2015,Action,Action Adventure,Frontier Developments,3.94,80.0,19.99,Mostly Positive,Popular
+Plague Inc: Evolved,2015,Action,Action Adventure,Ndemic Creations,3.98,80.0,14.79,Overwhelmingly Positive,Popular
+Need for Speed,2015,Sports,Sports Sim,Ghost Games,3.38,66.0,29.99,Mostly Positive,Moderate
+Dirty Bomb,2015,Shooter,Tactical Shooter,Splash Damage®,2.72,63.0,0.0,Very Positive,Popular
+Dungeons 2,2015,Action,Action Adventure,Kalypso Media,2.84,70.0,19.99,Very Positive,Moderate
+The Red Solstice,2015,Action,Action Adventure,Ironward,2.28,74.0,9.99,Mostly Positive,Moderate
+AdVenture Capitalist,2015,Action,Action Adventure,Kongregate,2.8,87.56,0.0,Very Positive,Popular
+Besiege,2015,Action,Action Adventure,Spiderling Studios,3.8,95.12,14.79,Overwhelmingly Positive,Popular
+HELLDIVERS,2015,Action,Action Adventure,Arrowhead Game Studios,3.61,83.0,19.99,Very Positive,Moderate
+Her Story,2015,Action,Action Adventure,Sam Barlow,3.98,86.0,9.75,Very Positive,Moderate
+Middle-earth: Shadow of Mordor,2014,Action,Action Adventure,Feral Interactive,3.91,84.0,19.99,Very Positive,Popular
+Wolfenstein: The New Order,2014,Shooter,Tactical Shooter,Bethesda Softworks,4.18,81.0,19.99,Very Positive,Popular
+Metro: Last Light Redux,2014,Shooter,Tactical Shooter,Deep Silver,4.13,76.0,19.99,Very Positive,Popular
+Metro 2033 Redux,2014,Shooter,Tactical Shooter,Deep Silver,4.09,88.0,19.99,Very Positive,Popular
+Borderlands: The Pre-Sequel,2014,Shooter,Tactical Shooter,Aspyr Media,3.57,75.0,39.99,Mostly Positive,Moderate
+Metal Gear Solid V: Ground Zeroes,2014,Shooter,Tactical Shooter,Kojima Productions,3.91,80.0,19.99,Very Positive,Moderate
+Unturned,2014,Shooter,Tactical Shooter,505 Games,2.73,91.01,0.0,Very Positive,Popular
+Watch Dogs,2014,Action,Action Adventure,Ubisoft,3.6,77.0,19.99,Very Positive,Popular
+Brawlhalla,2014,Action,Action Adventure,Ubisoft,3.22,79.56,0.0,Very Positive,Popular
+Alien: Isolation,2014,Action,Action Adventure,Feral Interactive,4.21,81.0,39.99,Very Positive,Popular
+Transistor,2014,Action,Action Adventure,Supergiant Games,4.17,83.0,19.5,Very Positive,Moderate
+Far Cry 4,2014,Shooter,Tactical Shooter,Ubisoft,3.82,80.0,29.99,Very Positive,Popular
+Insurgency,2014,Shooter,Tactical Shooter,New World Interactive,3.42,74.0,12.49,Very Positive,Popular
+Black Desert Online,2014,Action,Action Adventure,Pearl Abyss,2.92,80.0,9.99,Mostly Positive,Popular
+Thief,2014,Action,Action Adventure,Feral Interactive,3.26,70.0,19.99,Mostly Positive,Moderate
+This War of Mine,2014,Action,Action Adventure,11 Bit Studios,4.07,83.0,18.99,Very Positive,Popular
+South Park: The Stick of Truth,2014,Action,Action Adventure,Obsidian Entertainment,4.22,84.0,29.99,Overwhelmingly Positive,Popular
+Assassin's Creed Unity,2014,Action,Action Adventure,Ubisoft,3.63,71.0,29.99,Mostly Positive,Popular
+Halo: The Master Chief Collection,2014,Action,Action Adventure,343 Industries,4.25,85.0,39.99,Very Positive,Popular
+Sleeping Dogs: Definitive Edition,2014,Action,Action Adventure,Feral Interactive,4.15,76.0,19.99,Overwhelmingly Positive,Popular
+Guacamelee! Super Turbo Championship Edition,2014,Platformer,3D Platformer,DrinkBox Studios,3.55,86.0,15.49,Very Positive,Moderate
+The Sims 4,2014,Action,Action Adventure,Electronic Arts,3.67,67.0,0.0,Very Positive,Popular
+Goat Simulator,2014,Action,Action Adventure,Double Eleven,3.18,62.0,9.99,Very Positive,Popular
+Dragon Age: Inquisition,2014,Action,Action Adventure,BioWare,3.79,85.0,39.99,Mostly Positive,Moderate
+A Story About My Uncle,2014,Action,Action Adventure,Gone North Games,3.15,73.0,14.99,Very Positive,Moderate
+Age of Wonders 3,2014,Action,Action Adventure,Triumph Studios,2.92,80.0,29.99,Mostly Positive,Moderate
+The Long Dark,2014,Action,Action Adventure,Hinterland Studio,3.91,76.0,16.99,Very Positive,Popular
+The Binding of Isaac: Rebirth,2014,Action,Action Adventure,Nicalis,4.31,86.0,14.99,Overwhelmingly Positive,Popular
+The Evil Within,2014,Shooter,Tactical Shooter,Bethesda Softworks,3.98,68.0,19.99,Very Positive,Moderate
+Murdered: Soul Suspect,2014,Action,Action Adventure,Square Enix,3.47,59.0,19.99,Very Positive,Moderate
+LEGO The Hobbit,2014,Action,Action Adventure,Feral Interactive,3.41,70.0,19.99,Very Positive,Moderate
+Lords of the Fallen (2014),2014,Action,Action Adventure,City Interactive,2.91,75.0,29.99,Mixed,Moderate
+Game of Thrones: A Telltale Games Series,2014,Action,Action Adventure,Telltale Games,3.23,66.0,,Mostly Positive,Moderate
+Child of Light,2014,RPG,Action RPG,Ubisoft,3.84,77.0,14.99,Very Positive,Moderate
+Broken Age,2014,Action,Action Adventure,Double Fine Productions,3.65,73.0,12.49,Very Positive,Moderate
+The Talos Principle,2014,Action,Action Adventure,Devolver Digital,4.16,85.0,28.99,Overwhelmingly Positive,Moderate
+Divinity: Original Sin,2014,Action,Action Adventure,Larian Studios,4.19,87.0,,Very Positive,Moderate
+Killer is Dead: Nightmare Edition,2014,Action,Action Adventure,Grasshopper Manufacture,3.22,74.4,19.99,Mostly Positive,Moderate
+Valiant Hearts: The Great War,2014,Action,Action Adventure,Ubisoft Montpellier,4.36,80.0,14.99,Overwhelmingly Positive,Moderate
+Deponia: The Complete Journey,2014,Action,Action Adventure,Daedalic Entertainment,3.6,84.18,29.99,Very Positive,Moderate
+Robocraft,2014,Action,Action Adventure,Freejam,2.57,73.11,,Mostly Positive,Popular
+Sunset Overdrive,2014,Shooter,Tactical Shooter,Insomniac Games,3.9,83.0,19.99,Very Positive,Moderate
+Shadowrun: Dragonfall: Director's Cut,2014,Action,Action Adventure,Harebrained Schemes,3.81,87.0,14.99,Very Positive,Moderate
+Never Alone,2014,Action,Action Adventure,Upper One Games,3.47,70.0,14.99,Very Positive,Moderate
+Styx: Master of Shadows,2014,Action,Action Adventure,Cyanide Studio,3.16,71.0,19.99,Very Positive,Moderate
+Sniper Elite 3,2014,Shooter,Tactical Shooter,505 Games,3.53,67.0,28.99,Very Positive,Moderate
+Fable Anniversary,2014,RPG,Action RPG,Lionhead Studios,4.07,68.0,31.99,Very Positive,Moderate
+The Banner Saga,2014,Action,Action Adventure,Versus Evil,4.09,80.0,24.99,Very Positive,Moderate
+The Vanishing of Ethan Carter,2014,Action,Action Adventure,The Astronauts,3.76,82.0,19.99,Very Positive,Moderate
+The Expendabros,2014,Platformer,3D Platformer,Free Lives,3.54,97.23,0.0,Overwhelmingly Positive,Moderate
+Tropico 5,2014,Action,Action Adventure,Haemimont Games,3.64,75.0,19.99,Mostly Positive,Moderate
+Loadout,2014,Action,Action Adventure,Edge of Reality,2.48,72.0,,Very Positive,Moderate
+Dungeon of the Endless,2014,Action,Action Adventure,Amplitude Studios,3.61,79.0,11.39,Very Positive,Moderate
+Endless Legend,2014,Action,Action Adventure,Amplitude Studios,3.64,82.0,28.49,Very Positive,Moderate
+Call of Duty: Advanced Warfare,2014,Shooter,Tactical Shooter,Raven Software,3.47,78.0,39.99,Mixed,Moderate
+Oddworld: New 'n' Tasty,2014,Platformer,3D Platformer,Oddworld Inhabitants,3.51,86.0,15.99,Very Positive,Moderate
+Trials Fusion,2014,Sports,Sports Sim,Ubisoft,3.53,80.0,19.99,Mixed,Moderate
+Assassin's Creed Rogue,2014,Action,Action Adventure,Ubisoft,3.72,74.0,19.99,Very Positive,Moderate
+Warface: Ice Breaker,2014,Action,Action Adventure,Crytek,2.42,62.0,,Mixed,Popular
+Stealth Inc 2: A Game of Clones,2014,Action,Action Adventure,NVIDIA Lightspeed Studios,2.84,79.0,14.99,Mostly Positive,Moderate
+Dungeon Defenders 2,2014,Action,Action Adventure,Trendy Entertainment,2.96,77.22,0.0,Mostly Positive,Moderate
+Hawken,2014,Shooter,Tactical Shooter,505 Games,2.84,73.0,,Very Positive,Moderate
+Grand Theft Auto V,2013,Action,Action Adventure,Rockstar North,4.47,92.0,44.99,Very Positive,Popular
+Tomb Raider,2013,Action,Action Adventure,Crystal Dynamics,4.06,86.0,19.99,Overwhelmingly Positive,Popular
+BioShock Infinite,2013,Shooter,Tactical Shooter,Aspyr Media,4.38,94.0,29.99,Very Positive,Popular
+PAYDAY 2,2013,Shooter,Tactical Shooter,505 Games,3.52,79.0,9.49,Very Positive,Popular
+Dota 2,2013,Action,Action Adventure,Valve Software,3.07,90.0,0.0,Very Positive,Blockbuster
+Warframe,2013,Shooter,Tactical Shooter,Digital Extremes,3.42,69.0,0.0,Very Positive,Popular
+Outlast,2013,Action,Action Adventure,Red Barrels,3.76,80.0,14.79,Overwhelmingly Positive,Popular
+Path of Exile,2013,Action,Action Adventure,Grinding Gear Games,3.65,86.0,0.0,Very Positive,Popular
+Company of Heroes 2,2013,Action,Action Adventure,Feral Interactive,3.1,80.0,18.49,Very Positive,Popular
+Injustice: Gods Among Us Ultimate Edition,2013,Platformer,3D Platformer,NetherRealm Studios,3.53,79.0,19.99,Very Positive,Moderate
+Assassin's Creed 4: Black Flag,2013,Action,Action Adventure,Ubisoft,4.16,85.0,39.99,Very Positive,Popular
+Brothers: A Tale of Two Sons,2013,Action,Action Adventure,Starbreeze Studios,4.18,90.0,14.99,Overwhelmingly Positive,Moderate
+Saints Row 4,2013,Action,Action Adventure,Volition,3.82,86.0,19.99,Very Positive,Popular
+Batman: Arkham Origins,2013,Action,Action Adventure,Warner Bros. Interactive,3.95,74.0,19.99,Very Positive,Popular
+War Thunder,2013,Shooter,Tactical Shooter,Gaijin Entertainment,3.19,81.0,0.0,Mostly Positive,Popular
+The Wolf Among Us,2013,Action,Action Adventure,Telltale Games,4.38,85.0,14.99,Overwhelmingly Positive,Moderate
+Deus Ex: Human Revolution: Director's Cut,2013,Action,Action Adventure,Feral Interactive,4.3,91.0,19.99,Very Positive,Moderate
+GRID 2,2013,Sports,Sports Sim,Feral Interactive,3.3,80.0,,Very Positive,Moderate
+The Stanley Parable,2013,Action,Action Adventure,Galactic Cafe,4.37,88.0,14.79,Very Positive,Moderate
+Amnesia: A Machine for Pigs,2013,Action,Action Adventure,The Chinese Room,3.23,72.0,19.5,Mostly Positive,Moderate
+Trine 2: Complete Story,2013,Platformer,3D Platformer,Frozenbyte,3.72,84.0,19.99,Overwhelmingly Positive,Moderate
+Viscera Cleanup Detail: Shadow Warrior,2013,Action,Action Adventure,Devolver Digital,2.59,80.42,,Very Positive,Moderate
+Call of Juarez: Gunslinger,2013,Shooter,Tactical Shooter,Ubisoft,3.81,79.0,12.49,Overwhelmingly Positive,Moderate
+"Papers, Please",2013,Action,Action Adventure,Lucas Pope,4.38,85.0,9.75,Overwhelmingly Positive,Popular
+Shadowrun Returns,2013,Action,Action Adventure,Harebrained Schemes,3.5,76.0,14.99,Very Positive,Moderate
+Don't Starve,2013,Action,Action Adventure,Klei Entertainment,3.85,79.0,8.19,Overwhelmingly Positive,Popular
+DmC: Devil May Cry,2013,Action,Action Adventure,Ninja Theory,4.02,85.0,29.99,Very Positive,Moderate
+The Bureau: XCOM Declassified,2013,Shooter,Tactical Shooter,2K,3.05,66.0,19.99,Mostly Positive,Moderate
+Rayman Legends,2013,Platformer,3D Platformer,Ubisoft,4.16,89.0,19.99,Very Positive,Moderate
+Beyond: Two Souls,2013,Action,Action Adventure,Quantic Dream,3.81,76.0,19.99,Very Positive,Moderate
+Battlefield 4,2013,Shooter,Tactical Shooter,Electronic Arts,3.95,81.0,39.99,Very Positive,Popular
+The Walking Dead: Season 2,2013,Action,Action Adventure,Telltale Games,4.06,80.0,14.79,Overwhelmingly Positive,Moderate
+Metal Gear Rising: Revengeance,2013,Action,Action Adventure,Platinum Games,4.25,83.0,19.99,Overwhelmingly Positive,Popular
+Ryse: Son of Rome,2013,Action,Action Adventure,Crytek,3.59,61.0,9.99,Very Positive,Moderate
+Sanctum 2,2013,Shooter,Tactical Shooter,Coffee Stain Studios,2.97,77.0,14.99,Very Positive,Moderate
+Neverwinter,2013,Action,Action Adventure,Cryptic Studios,2.92,74.0,0.0,Mostly Positive,Moderate
+Far Cry 3: Blood Dragon,2013,Shooter,Tactical Shooter,Ubisoft,4.0,81.0,14.99,Very Positive,Moderate
+BattleBlock Theater,2013,Action,Action Adventure,The Behemoth,3.84,85.0,14.99,Overwhelmingly Positive,Popular
+Remember Me,2013,Action,Action Adventure,Capcom U.S.A,3.67,65.0,29.99,Very Positive,Moderate
+Dragon's Dogma: Dark Arisen,2013,Action,Action Adventure,Capcom,3.91,81.0,29.99,Very Positive,Moderate
+Monaco: What's Yours Is Mine,2013,Action,Action Adventure,Pocketwatch Games,2.99,83.0,14.99,Very Positive,Moderate
+Rogue Legacy,2013,Platformer,3D Platformer,Abstraction Games,3.87,85.0,14.79,Very Positive,Moderate
+The Swapper,2013,Action,Action Adventure,Curve Digital,3.53,87.0,13.99,Overwhelmingly Positive,Moderate
+Gone Home,2013,Action,Action Adventure,The Fullbright Company,3.73,86.0,14.79,Mostly Positive,Moderate
+7 Days to Die,2013,Shooter,Tactical Shooter,Telltale Games,3.36,86.95,43.99,Very Positive,Popular
+Everlasting Summer,2013,Action,Action Adventure,Soviet Games,3.98,94.4,0.0,Overwhelmingly Positive,Popular
+Mortal Kombat Komplete Edition,2013,Platformer,3D Platformer,NetherRealm Studios,4.12,81.0,,Very Positive,Moderate
+Surgeon Simulator,2013,Action,Action Adventure,Bossa Studios,3.43,71.0,9.75,Very Positive,Moderate
+LEGO Marvel Super Heroes,2013,Action,Action Adventure,Feral Interactive,3.83,78.0,19.99,Overwhelmingly Positive,Moderate
+SteamWorld Dig,2013,Action,Action Adventure,Image & Form,3.83,76.0,9.99,Very Positive,Moderate
+Project Zomboid,2013,RPG,Action RPG,The Indie Stone,3.87,93.75,25.49,Very Positive,Popular
+No More Room in Hell,2013,Action,Action Adventure,No More Room in Hell Team,2.89,89.88,0.0,Very Positive,Popular
+Age of Empires 2 HD,2013,Action,Action Adventure,Hidden Path Entertainment,4.2,68.0,19.99,Overwhelmingly Positive,Popular
+Risk of Rain,2013,Platformer,3D Platformer,Hopoo Games,3.91,77.0,9.99,Very Positive,Moderate
+Shadow Warrior (2013),2013,Shooter,Tactical Shooter,Devolver Digital,3.64,74.0,28.99,Very Positive,Moderate
+Race The Sun,2013,Sports,Sports Sim,FlippFly,3.15,79.0,9.75,Very Positive,Moderate
+Call of Duty: Ghosts,2013,Shooter,Tactical Shooter,Raven Software,3.16,68.0,39.99,Mixed,Moderate
+The Incredible Adventures of Van Helsing,2013,Action,Action Adventure,Unknown,3.41,72.0,14.99,Very Positive,Moderate
+Need for Speed Rivals,2013,Sports,Sports Sim,Criterion Games,3.15,76.0,19.99,Mostly Positive,Moderate
+Dead Space 3,2013,Shooter,Tactical Shooter,Electronic Arts,3.65,78.0,19.99,Mostly Positive,Moderate
+Antichamber,2013,Platformer,3D Platformer,Alexander Bruce,4.08,82.0,18.99,Overwhelmingly Positive,Moderate
+How to Survive,2013,Action,Action Adventure,505 Games,3.02,60.0,14.99,Very Positive,Moderate
+Hero Siege,2013,Action,Action Adventure,Elias Viglione,3.33,67.14,7.79,Mixed,Moderate
+DayZ,2013,Action,Action Adventure,Bohemia Interactive,3.08,44.0,47.99,Mostly Positive,Popular
+Marvel Heroes,2013,Action,Action Adventure,Gazillion Entertainment,2.5,81.0,,Mostly Positive,Moderate
+Counter-Strike: Global Offensive,2012,Shooter,Tactical Shooter,Valve Software,3.57,81.0,0.0,Very Positive,Blockbuster
+Borderlands 2,2012,Shooter,Tactical Shooter,Aspyr Media,4.01,89.0,29.99,Very Positive,Popular
+The Witcher 2: Assassins of Kings Enhanced Edition,2012,RPG,Action RPG,CD PROJEKT RED,4.17,88.0,19.99,Very Positive,Popular
+The Walking Dead: Season 1,2012,Action,Action Adventure,Telltale Games,4.36,82.0,14.79,Overwhelmingly Positive,Popular
+Hotline Miami,2012,Shooter,Tactical Shooter,Devolver Digital,4.38,85.0,9.75,Overwhelmingly Positive,Popular
+Far Cry 3,2012,Shooter,Tactical Shooter,Ubisoft,4.26,88.0,19.99,Very Positive,Popular
+Spec Ops: The Line,2012,Shooter,Tactical Shooter,Yager,4.1,76.0,,Very Positive,Popular
+Dishonored,2012,Action,Action Adventure,Bethesda Softworks,4.38,91.0,9.99,Overwhelmingly Positive,Popular
+Hitman: Absolution,2012,Shooter,Tactical Shooter,IO Interactive,3.76,79.0,19.99,Very Positive,Popular
+Batman: Arkham City: Game of the Year Edition,2012,Action,Action Adventure,Feral Interactive,4.4,91.0,19.99,Overwhelmingly Positive,Popular
+Journey,2012,Action,Action Adventure,thatgamecompany,4.32,92.0,13.99,Overwhelmingly Positive,Moderate
+XCOM: Enemy Unknown,2012,Action,Action Adventure,Feral Interactive,4.2,89.0,14.99,Very Positive,Popular
+Max Payne 3,2012,Shooter,Tactical Shooter,Rockstar Games,4.26,87.0,19.99,Very Positive,Popular
+The Darkness 2,2012,Action,Action Adventure,2K,3.71,77.0,29.99,Very Positive,Moderate
+Crusader Kings 2,2012,Action,Action Adventure,Paradox Development Studio,3.61,82.0,0.0,Very Positive,Popular
+Assassin's Creed 3,2012,Action,Action Adventure,Ubisoft Montreal,3.75,80.0,,Mostly Positive,Moderate
+FEZ,2012,Action,Action Adventure,POLYTRON,4.01,91.0,9.99,Very Positive,Moderate
+Chivalry: Medieval Warfare,2012,Action,Action Adventure,Activision,3.41,79.0,22.99,Very Positive,Popular
+Torchlight 2,2012,Action,Action Adventure,Runic Games,3.83,88.0,18.99,Very Positive,Moderate
+Resident Evil 6,2012,Shooter,Tactical Shooter,Capcom,3.43,69.0,19.99,Mostly Positive,Popular
+Sniper Elite V2,2012,Shooter,Tactical Shooter,Rebellion,3.4,66.0,,Very Positive,Moderate
+Euro Truck Simulator 2,2012,Action,Action Adventure,SCS Software,4.13,79.0,19.99,Overwhelmingly Positive,Popular
+FTL: Faster Than Light,2012,Action,Action Adventure,Subset Games,4.25,84.0,9.99,Overwhelmingly Positive,Popular
+Sleeping Dogs,2012,Action,Action Adventure,United Front Games,4.14,80.0,,Overwhelmingly Positive,Moderate
+Alan Wake's American Nightmare,2012,Shooter,Tactical Shooter,Remedy Entertainment,3.41,73.0,8.79,Mostly Positive,Moderate
+Call of Duty: Black Ops 2,2012,Shooter,Tactical Shooter,Treyarch,3.96,74.0,39.99,Very Positive,Moderate
+LEGO The Lord of the Rings,2012,Action,Action Adventure,Warner Bros. Interactive,3.56,80.0,19.99,Very Positive,Moderate
+Dark Souls: Prepare To Die Edition,2012,Action,Action Adventure,FromSoftware,4.37,85.0,,Very Positive,Popular
+Guns of Icarus Online,2012,Action,Action Adventure,Muse Games,2.59,64.0,4.99,Very Positive,Moderate
+Endless Space: Collection,2012,Action,Action Adventure,Amplitude Studios,3.09,77.0,9.99,Very Positive,Moderate
+Mark of the Ninja,2012,Platformer,3D Platformer,Klei Entertainment,3.99,91.0,,Overwhelmingly Positive,Moderate
+PlanetSide 2,2012,Shooter,Tactical Shooter,Daybreak Games Company,2.97,84.0,0.0,Very Positive,Popular
+Spelunky,2012,Platformer,3D Platformer,Mossmouth,3.69,90.0,14.99,Very Positive,Moderate
+Deponia,2012,Action,Action Adventure,Daedalic Entertainment,3.85,74.0,9.99,Very Positive,Moderate
+Dust: An Elysian Tail,2012,Platformer,3D Platformer,Humble Hearts,3.63,84.0,13.99,Overwhelmingly Positive,Moderate
+Mass Effect 3,2012,Action,Action Adventure,BioWare,4.4,89.0,29.99,Mostly Positive,Moderate
+Binary Domain,2012,Shooter,Tactical Shooter,SEGA,3.56,68.0,14.99,Very Positive,Moderate
+Sins of a Solar Empire: Rebellion,2012,Action,Action Adventure,Stardock Entertainment,2.73,82.0,20.49,Very Positive,Moderate
+Resident Evil Revelations,2012,Action,Action Adventure,Capcom,3.75,77.0,19.99,Very Positive,Moderate
+Orcs Must Die! 2,2012,Action,Action Adventure,Robot Entertainment,3.71,83.0,12.49,Very Positive,Moderate
+Awesomenauts,2012,Platformer,3D Platformer,Ronimo Games,3.06,78.0,19.5,Very Positive,Moderate
+Deadlight,2012,Platformer,3D Platformer,Tequila Works,3.62,78.0,11.99,Mostly Positive,Moderate
+HELL YEAH! Wrath of the Dead Rabbit,2012,Platformer,3D Platformer,Arkedo Studio,2.45,64.0,12.99,Very Positive,Moderate
+Thomas Was Alone,2012,Action,Action Adventure,Curve Digital,3.74,77.0,7.99,Very Positive,Moderate
+Scribblenauts Unlimited,2012,Action,Action Adventure,Warner Bros. Interactive,3.62,75.0,19.99,Very Positive,Moderate
+Skullgirls,2012,Action,Action Adventure,Lab Zero Games,3.75,83.0,20.99,Very Positive,Moderate
+Game Dev Tycoon,2012,Action,Action Adventure,Greenheart Games,4.0,68.0,9.49,Overwhelmingly Positive,Moderate
+Risen 2: Dark Waters,2012,Action,Action Adventure,Deep Silver,3.42,69.0,9.99,Very Positive,Moderate
+Cry of Fear,2012,Action,Action Adventure,Team Psykskallar,3.59,88.67,0.0,Very Positive,Popular
+Doom 3: BFG Edition,2012,Shooter,Tactical Shooter,id Software,3.78,86.2,9.99,Very Positive,Moderate
+Cortex Command,2012,Action,Action Adventure,Data Realms,2.6,44.0,18.99,Mostly Positive,Moderate
+Divinity 2: Developer's Cut,2012,Action,Action Adventure,Larian Studios,3.58,77.0,19.99,Very Positive,Moderate
+Baldur's Gate: Enhanced Edition,2012,Action,Action Adventure,BioWare,4.09,78.0,19.5,Very Positive,Moderate
+Super Hexagon,2012,Platformer,3D Platformer,Terry Cavanagh,3.75,88.0,2.99,Overwhelmingly Positive,Moderate
+LEGO Batman 2 DC Super Heroes,2012,Action,Action Adventure,Traveller's Tales,3.68,81.0,19.99,Overwhelmingly Positive,Moderate
+Hard Reset Extended Edition,2012,Action,Action Adventure,Flying Wild Hog,3.19,73.0,14.99,Very Positive,Moderate
+Legend of Grimrock,2012,Action,Action Adventure,Almost Human Games,3.8,82.0,14.79,Very Positive,Moderate
+Little Inferno,2012,Action,Action Adventure,Tomorrow,3.84,68.0,14.79,Overwhelmingly Positive,Moderate
+Need for Speed: Most Wanted: A Criterion Game,2012,Sports,Sports Sim,Criterion Games,3.38,78.0,19.99,Mostly Positive,Moderate
+Shank 2,2012,Platformer,3D Platformer,Klei Entertainment,3.57,72.0,9.99,Very Positive,Moderate
+Prototype 2,2012,Action,Action Adventure,Activision,3.8,76.0,29.99,Mostly Positive,Moderate
+Natural Selection 2,2012,Action,Action Adventure,Unknown Worlds Entertainment,3.26,80.0,4.99,Very Positive,Moderate
+Dear Esther,2012,Action,Action Adventure,Sumo Digital,3.47,75.0,,Mostly Positive,Moderate
+Portal 2,2011,Shooter,Tactical Shooter,Valve Software,4.57,95.0,9.69,Overwhelmingly Positive,Popular
+The Elder Scrolls V: Skyrim,2011,Action,Action Adventure,Bethesda Game Studios,4.42,94.0,14.99,Overwhelmingly Positive,Popular
+Terraria,2011,Platformer,3D Platformer,Engine Software,4.08,83.0,9.75,Overwhelmingly Positive,Blockbuster
+Saints Row: The Third,2011,Action,Action Adventure,Volition,3.95,84.0,9.99,Overwhelmingly Positive,Popular
+L.A. Noire,2011,Action,Action Adventure,Team Bondi,4.16,83.0,19.99,Very Positive,Moderate
+Bastion,2011,Action,Action Adventure,Warner Bros. Interactive,4.15,86.0,14.79,Overwhelmingly Positive,Moderate
+Total War: SHOGUN 2,2011,Action,Action Adventure,Feral Interactive,3.63,90.0,,Very Positive,Popular
+Magicka,2011,Action,Action Adventure,Paradox Interactive,3.79,74.0,9.99,Very Positive,Moderate
+Dead Island,2011,Shooter,Tactical Shooter,Techland,3.48,74.0,19.99,Very Positive,Moderate
+The Binding of Isaac,2011,Action,Action Adventure,Edmund McMillen and Florian Himsl,3.91,84.0,4.99,Overwhelmingly Positive,Popular
+Dead Space 2,2011,Shooter,Tactical Shooter,Electronic Arts,4.38,87.0,19.99,Very Positive,Moderate
+Batman: Arkham City,2011,Action,Action Adventure,Rocksteady Studios,4.4,91.0,19.99,Overwhelmingly Positive,Popular
+Homefront,2011,Shooter,Tactical Shooter,Digital Extremes,2.96,70.0,19.99,Mixed,Moderate
+Call of Duty: Modern Warfare 3,2011,Shooter,Tactical Shooter,Aspyr Media,3.79,85.0,39.99,Very Positive,Moderate
+Deus Ex: Human Revolution,2011,Action,Action Adventure,Eidos Montreal,4.36,91.0,19.99,Very Positive,Moderate
+To the Moon,2011,Action,Action Adventure,X.D. Network,4.29,81.0,9.75,Overwhelmingly Positive,Popular
+"Warhammer 40,000: Space Marine",2011,Shooter,Tactical Shooter,Relic Entertainment,3.48,74.0,35.99,Very Positive,Moderate
+PAYDAY The Heist,2011,Shooter,Tactical Shooter,OVERKILL Software,3.35,76.0,9.49,Very Positive,Moderate
+Tropico 4,2011,Action,Action Adventure,Feral Interactive,3.51,78.0,14.99,Very Positive,Moderate
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011,Action,Action Adventure,Tripwire Interactive,3.26,76.0,19.99,Very Positive,Moderate
+Serious Sam 3: BFE,2011,Shooter,Tactical Shooter,Devolver Digital,3.46,72.0,28.99,Very Positive,Moderate
+F.E.A.R. 3,2011,Shooter,Tactical Shooter,Warner Bros. Interactive,3.35,74.0,19.99,Mostly Positive,Moderate
+Battlefield 3,2011,Shooter,Tactical Shooter,Electronic Arts DICE,4.08,89.0,39.99,Mostly Positive,Moderate
+Assassin's Creed Revelations,2011,Action,Action Adventure,Ubisoft,3.99,80.0,14.99,Very Positive,Moderate
+Crysis 2: Maximum Edition,2011,Action,Action Adventure,Crytek,3.7,85.33,29.99,Very Positive,Moderate
+Rage,2011,Shooter,Tactical Shooter,Aspyr Media,3.42,79.0,9.99,Mostly Positive,Moderate
+Red Faction: Armageddon,2011,Shooter,Tactical Shooter,Volition,3.04,74.0,19.99,Mostly Positive,Moderate
+Outland,2011,Platformer,3D Platformer,Ubisoft,2.9,79.0,,Very Positive,Moderate
+Galactic Civilizations 2: Ultimate Edition,2011,Action,Action Adventure,Stardock Entertainment,2.65,92.0,10.25,Mostly Positive,Moderate
+Renegade Ops,2011,Shooter,Tactical Shooter,SEGA,2.99,76.0,12.99,Very Positive,Moderate
+SpaceChem,2011,Action,Action Adventure,Zachtronics,3.08,84.0,7.15,Very Positive,Moderate
+Bulletstorm,2011,Shooter,Tactical Shooter,Epic Games,4.08,83.0,28.99,Mixed,Niche
+Rayman Origins,2011,Platformer,3D Platformer,Ubisoft,4.13,86.0,9.99,Overwhelmingly Positive,Moderate
+Orcs Must Die!,2011,Action,Action Adventure,Robot Entertainment,3.7,83.0,8.19,Overwhelmingly Positive,Moderate
+Anomaly: Warzone Earth,2011,Action,Action Adventure,11 Bit Studios,2.91,80.0,9.99,Very Positive,Moderate
+Lord of the Rings: War in the North,2011,Action,Action Adventure,Feral Interactive,3.35,66.0,,Very Positive,Moderate
+Alice: Madness Returns,2011,Action,Action Adventure,Electronic Arts,4.02,75.0,9.99,Very Positive,Moderate
+Duke Nukem Forever,2011,Shooter,Tactical Shooter,Gearbox Software,2.87,54.0,19.99,Mostly Positive,Moderate
+Dark Souls,2011,Action,Action Adventure,BANDAI NAMCO Entertainment America,4.34,84.0,39.99,Very Positive,Popular
+Dino D-Day,2011,Action,Action Adventure,800 North and Digital Ranch,2.42,53.0,9.99,Very Positive,Moderate
+Catherine,2011,Action,Action Adventure,Atlus,4.14,80.0,19.99,Very Positive,Moderate
+Dragon Age 2,2011,Action,Action Adventure,BioWare,3.85,82.0,29.99,Very Positive,Moderate
+Star Wars: The Old Republic,2011,RPG,Action RPG,BioWare,3.86,85.0,0.0,Very Positive,Popular
+Superbrothers: Sword & Sworcery,2011,Action,Action Adventure,Noodlecake Studios,3.49,83.0,5.99,Mostly Positive,Moderate
+Brink,2011,Shooter,Tactical Shooter,Bethesda Softworks,2.73,70.0,0.0,Mixed,Moderate
+"Warhammer 40,000: Dawn of War 2: Retribution",2011,Action,Action Adventure,Feral Interactive,3.82,80.0,,Very Positive,Moderate
+Sanctum,2011,Shooter,Tactical Shooter,Coffee Stain Studios,3.3,70.0,9.99,Very Positive,Moderate
+Crysis 2,2011,Shooter,Tactical Shooter,Electronic Arts,3.85,85.0,29.99,Very Positive,Moderate
+The Tiny Bang Story,2011,Action,Action Adventure,Colibri Games,3.18,63.0,4.99,Very Positive,Moderate
+APB Reloaded,2011,Shooter,Tactical Shooter,Deep Silver,2.31,63.37,0.0,Mixed,Moderate
+Stacking,2011,Action,Action Adventure,THQ Nordic,3.35,80.0,9.99,Very Positive,Moderate
+Frozen Synapse,2011,Action,Action Adventure,Mode 7,3.29,85.0,22.99,Very Positive,Moderate
+Puzzle Agent 2,2011,Action,Action Adventure,Telltale Games,3.35,63.0,4.59,Very Positive,Moderate
+Edna & Harvey: Harvey's New Eyes,2011,Action,Action Adventure,Daedalic Entertainment,3.32,75.0,19.99,Very Positive,Moderate
+Rocketbirds: Hardboiled Chicken,2011,Action,Action Adventure,Ratloop Asia Pte,3.11,74.0,4.99,Very Positive,Moderate
+Jamestown: Legend of the Lost Colony,2011,Platformer,3D Platformer,Final Form Games,3.29,81.0,8.19,Overwhelmingly Positive,Moderate
+Worms Ultimate Mayhem,2011,Action,Action Adventure,Team17 Digital,3.68,66.0,12.99,Very Positive,Moderate
+Treasure Adventure Game,2011,Action,Action Adventure,Robit Studios,1.97,87.27,0.0,Very Positive,Niche
+LEGO Harry Potter: Years 5-7,2011,Action,Action Adventure,Feral Interactive,3.71,80.0,19.99,Very Positive,Moderate
+Spiral Knights,2011,Action,Action Adventure,Grey Havens,2.88,64.0,0.0,Very Positive,Moderate
+Limbo,2010,Action,Action Adventure,Double Eleven,4.14,88.0,11.49,Very Positive,Popular
+Metro 2033,2010,Shooter,Tactical Shooter,4A Games,3.94,81.0,,Very Positive,Moderate
+BioShock 2,2010,Shooter,Tactical Shooter,Feral Interactive,4.07,88.0,19.99,Very Positive,Moderate
+Alan Wake,2010,Shooter,Tactical Shooter,Remedy Entertainment,4.09,83.0,12.99,Very Positive,Popular
+Amnesia: The Dark Descent,2010,Action,Action Adventure,Frictional Games,3.65,85.0,19.5,Overwhelmingly Positive,Moderate
+Fallout: New Vegas,2010,Shooter,Tactical Shooter,Obsidian Entertainment,4.43,84.0,9.99,Overwhelmingly Positive,Popular
+Sid Meier's Civilization V,2010,Action,Action Adventure,Aspyr Media,4.29,90.0,29.99,Overwhelmingly Positive,Popular
+Super Meat Boy,2010,Platformer,3D Platformer,NVIDIA Lightspeed Studios,3.98,87.0,13.99,Overwhelmingly Positive,Moderate
+Mass Effect 2,2010,Action,Action Adventure,BioWare,4.45,94.0,,Overwhelmingly Positive,Moderate
+Just Cause 2,2010,Shooter,Tactical Shooter,Square Enix,3.62,84.0,14.99,Very Positive,Moderate
+Batman: Arkham Asylum Game of the Year Edition,2010,Platformer,3D Platformer,Feral Interactive,4.39,91.0,19.99,Overwhelmingly Positive,Popular
+Mafia 2,2010,Shooter,Tactical Shooter,2K Czech,4.25,77.0,29.99,Very Positive,Popular
+Heavy Rain,2010,Action,Action Adventure,Quantic Dream,4.12,75.0,19.99,Very Positive,Moderate
+SEGA Mega Drive and Genesis Classics,2010,Action,Action Adventure,SEGA,2.99,76.0,,Very Positive,Moderate
+Darksiders,2010,Action,Action Adventure,THQ,3.76,83.0,,Very Positive,Moderate
+Red Dead Redemption,2010,Shooter,Tactical Shooter,Rockstar North,4.41,95.0,49.99,Very Positive,Moderate
+Call of Duty: Black Ops,2010,Shooter,Tactical Shooter,Raven Software,4.06,81.0,39.99,Very Positive,Moderate
+Assassin's Creed Brotherhood,2010,Action,Action Adventure,Ubisoft Montreal,4.28,88.0,14.99,Very Positive,Moderate
+Medal of Honor,2010,Shooter,Tactical Shooter,Electronic Arts DICE,3.28,72.0,19.99,Mostly Positive,Moderate
+Alien Swarm,2010,Shooter,Tactical Shooter,Valve Software,3.33,77.0,0.0,Overwhelmingly Positive,Moderate
+Battlefield: Bad Company 2,2010,Shooter,Tactical Shooter,Electronic Arts,4.13,87.0,,Very Positive,Moderate
+Mount & Blade: Warband,2010,Action,Action Adventure,TaleWorlds Entertainment,4.36,78.0,19.99,Overwhelmingly Positive,Popular
+VVVVVV,2010,Action,Action Adventure,Nicalis,3.77,81.0,4.99,Overwhelmingly Positive,Moderate
+Plants vs. Zombies GOTY Edition,2010,Action,Action Adventure,PopCap Games,4.33,87.0,4.99,Overwhelmingly Positive,Popular
+World of Tanks,2010,Shooter,Tactical Shooter,Wargaming Group,2.92,80.0,0.0,Very Positive,Popular
+Dead Rising 2,2010,Action,Action Adventure,Capcom U.S.A,3.54,78.0,19.99,Mostly Positive,Moderate
+Alpha Protocol,2010,Shooter,Tactical Shooter,Obsidian Entertainment,3.54,73.0,19.99,Very Positive,Moderate
+Need For Speed: Hot Pursuit,2010,Sports,Sports Sim,Electronic Arts,3.86,85.0,,Very Positive,Moderate
+STAR WARS: The Force Unleashed 2,2010,Action,Action Adventure,Aspyr Media,3.66,59.0,19.5,Mixed,Moderate
+Kane & Lynch 2: Dog Days,2010,Shooter,Tactical Shooter,Square Enix,3.25,66.0,9.99,Mixed,Moderate
+Serious Sam HD: The Second Encounter,2010,Shooter,Tactical Shooter,Croteam,3.89,76.0,19.99,Very Positive,Moderate
+Vanquish,2010,Shooter,Tactical Shooter,Platinum Games,4.01,78.0,19.99,Very Positive,Moderate
+ArmA 2: Operation Arrowhead,2010,Action,Action Adventure,Bohemia Interactive,3.27,73.0,14.99,Very Positive,Moderate
+Assassin's Creed 2 Deluxe Edition,2010,Action,Action Adventure,Ubisoft Montreal,4.33,86.0,9.99,Very Positive,Popular
+Gothic 2: Gold Edition,2010,Action,Action Adventure,Piranha Bytes,4.4,79.0,19.99,Very Positive,Moderate
+Dungeon Defenders,2010,Action,Action Adventure,Trendy Entertainment,3.32,81.0,14.79,Very Positive,Moderate
+Halo: Reach,2010,Shooter,Tactical Shooter,Bungie,4.29,91.0,9.99,Very Positive,Moderate
+Dragon Age: Origins: Ultimate Edition,2010,RPG,Action RPG,BioWare,4.44,91.0,29.99,Very Positive,Moderate
+Cave Story+,2010,Platformer,3D Platformer,Nicalis,3.95,83.0,14.99,Very Positive,Moderate
+Two Worlds 2,2010,RPG,Action RPG,Reality Pump,3.03,75.0,24.5,Mixed,Moderate
+Shank,2010,Platformer,3D Platformer,Klei Entertainment,3.66,67.0,9.99,Very Positive,Moderate
+Poker Night at the Inventory,2010,Sports,Sports Sim,Telltale Games,3.41,71.0,,Very Positive,Moderate
+LEGO Harry Potter: Years 1-4,2010,Platformer,3D Platformer,Feral Interactive,3.82,79.0,19.99,Very Positive,Moderate
+Costume Quest,2010,Action,Action Adventure,THQ Nordic,3.44,93.89,9.99,Very Positive,Moderate
+Aliens vs. Predator,2010,Shooter,Tactical Shooter,SEGA,3.57,68.0,14.99,Very Positive,Moderate
+STAR WARS Empire at War: Gold Pack,2010,Action,Action Adventure,Lucasfilm,3.78,97.73,19.5,Overwhelmingly Positive,Moderate
+BIT.TRIP RUNNER,2010,Platformer,3D Platformer,Choice Provisions,3.33,85.71,7.99,Very Positive,Moderate
+"Warhammer 40,000: Dawn of War 2 Chaos Rising",2010,Action,Action Adventure,Feral Interactive,3.95,84.0,,Very Positive,Moderate
+Back to the Future: The Game,2010,Action,Action Adventure,Telltale Games,3.44,74.0,,Very Positive,Moderate
+Puzzle Agent,2010,Action,Action Adventure,Telltale Games,3.19,70.0,4.59,Very Positive,Moderate
+Prince of Persia: The Forgotten Sands,2010,Action,Action Adventure,Ubisoft Montreal,3.63,75.0,9.99,Mostly Positive,Moderate
+Sniper: Ghost Warrior,2010,Shooter,Tactical Shooter,City Interactive,2.99,55.0,7.99,Mixed,Moderate
+Supreme Commander 2,2010,Action,Action Adventure,Gas Powered Games,3.3,77.0,12.99,Very Positive,Moderate
+Swords and Soldiers HD,2010,Action,Action Adventure,Ronimo Games,2.64,78.06,4.99,Mostly Positive,Moderate
+Sam & Max: The Devil's Playhouse: Episode 1: The Penal Zone,2010,Action,Action Adventure,Telltale Games,2.97,90.22,,Very Positive,Niche
+Beat Hazard,2010,Action,Action Adventure,Cold Beam Games,3.63,70.0,9.75,Overwhelmingly Positive,Moderate
+Sam & Max The Devil's Playhouse Episode 2 The Tomb of Sammun-Mak,2010,Action,Action Adventure,Telltale Games,2.87,86.81,,Very Positive,Niche
+Sam & Max: The Devil's Playhouse: Episode 3: They stole Max's brain!,2010,Action,Action Adventure,Telltale Games,2.93,90.48,,Very Positive,Niche
+Sam & Max The Devil's Playhouse Episode 4: Beyond Alley of Dolls,2010,Action,Action Adventure,Telltale Games,2.97,89.71,,Very Positive,Niche
+Worms Reloaded,2010,Action,Action Adventure,Team17 Digital,3.68,79.0,19.99,Very Positive,Moderate
+Sam & Max: The Devil's Playhouse: Episode 5: The City That Dares Not Sleep,2010,Action,Action Adventure,Telltale Games,2.97,91.0,,Very Positive,Niche
+Danganronpa: Trigger Happy Havoc,2010,Action,Action Adventure,Abstraction Games,4.28,82.0,19.99,Overwhelmingly Positive,Moderate
+SimCity 4 Deluxe Edition,2010,Action,Action Adventure,Aspyr Media,3.92,82.26,19.99,Very Positive,Moderate
+Monkey Island 2 Special Edition: LeChuck's Revenge,2010,Action,Action Adventure,LucasArts Entertainment,4.25,87.0,9.75,Overwhelmingly Positive,Moderate
+Left 4 Dead 2,2009,Shooter,Tactical Shooter,Valve Software,4.1,89.0,9.69,Overwhelmingly Positive,Blockbuster
+Borderlands,2009,Shooter,Tactical Shooter,2K,3.82,81.0,29.99,Very Positive,Moderate
+Brutal Legend,2009,Action,Action Adventure,Electronic Arts,3.65,80.0,14.99,Very Positive,Moderate
+Assassin's Creed 2,2009,Action,Action Adventure,Ubisoft Montreal,4.43,86.0,9.99,Very Positive,Popular
+Resident Evil 5,2009,Shooter,Tactical Shooter,Capcom,3.82,86.0,19.99,Very Positive,Popular
+Killing Floor,2009,Action,Action Adventure,Tripwire Interactive,3.45,72.0,19.99,Overwhelmingly Positive,Popular
+Dragon Age: Origins,2009,RPG,Action RPG,BioWare,4.39,91.0,,Very Positive,Moderate
+Bayonetta,2009,Action,Action Adventure,Platinum Games,4.3,90.0,19.99,Very Positive,Moderate
+Batman: Arkham Asylum,2009,Action,Action Adventure,Rocksteady Studios,4.4,91.0,19.99,Overwhelmingly Positive,Popular
+Trine Enchanted Edition,2009,Platformer,3D Platformer,Frozenbyte,3.83,80.0,14.99,Overwhelmingly Positive,Moderate
+F.E.A.R. 2: Project Origin,2009,Shooter,Tactical Shooter,Warner Bros. Interactive,3.86,79.0,14.99,Very Positive,Moderate
+Burnout Paradise: The Ultimate Box,2009,Sports,Sports Sim,Criterion Games,3.98,87.0,,Very Positive,Moderate
+Machinarium,2009,Action,Action Adventure,Amanita Design,4.18,85.0,19.99,Overwhelmingly Positive,Moderate
+S.T.A.L.K.E.R.: Call of Pripyat,2009,Shooter,Tactical Shooter,GSC Game World,4.27,80.0,19.99,Overwhelmingly Positive,Moderate
+Red Faction: Guerrilla,2009,Shooter,Tactical Shooter,THQ Nordic,3.68,82.0,,Very Positive,Moderate
+The Elder Scrolls 4: Oblivion Game of the Year Edition,2009,RPG,Action RPG,Bethesda Game Studios,4.32,94.0,14.99,Overwhelmingly Positive,Popular
+Torchlight,2009,Action,Action Adventure,Runic Games,3.71,83.0,14.99,Very Positive,Moderate
+Prototype,2009,Action,Action Adventure,Activision,3.81,79.0,19.99,Very Positive,Moderate
+FINAL FANTASY XIII,2009,RPG,Action RPG,Square Enix,3.47,77.0,12.99,Mostly Positive,Moderate
+Serious Sam HD: The First Encounter,2009,Shooter,Tactical Shooter,Croteam,3.91,68.0,14.99,Very Positive,Moderate
+Overlord 2,2009,Action,Action Adventure,Triumph Studios,3.8,79.0,8.99,Very Positive,Moderate
+Grand Theft Auto: Episodes from Liberty City,2009,Action,Action Adventure,Rockstar North,4.12,74.16,,Mostly Positive,Moderate
+ArmA 2,2009,Action,Action Adventure,Bohemia Interactive,3.19,77.0,9.99,Very Positive,Moderate
+Risen,2009,Action,Action Adventure,Piranha Bytes,3.82,77.0,14.99,Very Positive,Moderate
+Tropico 3,2009,Action,Action Adventure,Haemimont Games,3.36,79.0,9.99,Very Positive,Moderate
+"Warhammer 40,000: Dawn of War 2",2009,Action,Action Adventure,Feral Interactive,3.96,85.0,44.99,Very Positive,Moderate
+Company of Heroes: Tales of Valor,2009,Action,Action Adventure,Relic Entertainment,3.39,70.0,18.49,Very Positive,Moderate
+STAR WARS: The Force Unleashed Ultimate Sith Edition,2009,Action,Action Adventure,Aspyr Media,3.83,65.0,19.5,Mostly Positive,Moderate
+Command & Conquer: Red Alert 3: Uprising,2009,Action,Action Adventure,Electronic Arts Los Angeles,3.6,64.0,,Very Positive,Moderate
+Two Worlds Epic Edition,2009,RPG,Action RPG,Reality Pump,2.8,65.0,14.79,Mostly Positive,Moderate
+Mini Ninjas,2009,Action,Action Adventure,Feral Interactive,3.51,74.0,9.99,Very Positive,Moderate
+Flower,2009,Platformer,3D Platformer,Sony Interactive Entertainment,3.97,89.0,6.49,Very Positive,Moderate
+The Secret of Monkey Island: Special Edition,2009,Action,Action Adventure,Aspyr Media,4.18,86.0,9.75,Overwhelmingly Positive,Moderate
+The Sims 3,2009,Action,Action Adventure,Electronic Arts,4.03,86.0,19.99,Very Positive,Moderate
+Plants vs. Zombies,2009,Action,Action Adventure,PopCap Games,4.27,87.0,4.99,Overwhelmingly Positive,Popular
+Operation Flashpoint: Dragon Rising,2009,Shooter,Tactical Shooter,Codemasters,2.78,76.0,,Mostly Positive,Moderate
+Empire: Total War,2009,Action,Action Adventure,Feral Interactive,3.79,90.0,19.99,Very Positive,Moderate
+Sacred 2 Gold,2009,Action,Action Adventure,ASCARON Entertainment,3.28,76.22,,Mostly Positive,Moderate
+Broken Sword 1: Shadow of the Templars (The Director's Cut),2009,Action,Action Adventure,Revolution Software,4.01,93.23,,Very Positive,Moderate
+Crayon Physics Deluxe,2009,Action,Action Adventure,Kloonigames,3.51,79.0,17.99,Very Positive,Moderate
+Mount & Blade: With Fire & Sword,2009,Action,Action Adventure,TaleWorlds Entertainment,3.87,68.0,9.99,Very Positive,Moderate
+King's Bounty: Armored Princess,2009,Action,Action Adventure,Katauri Interactive,4.1,82.0,9.99,Very Positive,Moderate
+Zeno Clash,2009,Shooter,Tactical Shooter,ACE Team,3.59,77.0,9.99,Very Positive,Moderate
+Hammerfight,2009,Action,Action Adventure,Konstantin Koshutin,2.97,73.04,0.0,Mostly Positive,Moderate
+Call of Juarez: Bound in Blood,2009,Shooter,Tactical Shooter,Ubisoft,3.92,78.0,9.99,Very Positive,Moderate
+Osmos,2009,Platformer,3D Platformer,Hemisphere Games,3.71,80.0,8.19,Very Positive,Moderate
+And Yet It Moves,2009,Platformer,3D Platformer,Broken Rules,2.9,75.0,9.99,Mostly Positive,Moderate
+Cogs,2009,Platformer,3D Platformer,Lazy 8 Studios,2.74,73.0,4.99,Very Positive,Moderate
+Bionic Commando (2009),2009,Shooter,Tactical Shooter,Capcom,3.23,69.0,9.99,Mostly Positive,Moderate
+"Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack",2009,Action,Action Adventure,Size Five Games,2.22,84.0,3.99,Very Positive,Moderate
+Ticket to Ride,2009,Action,Action Adventure,Plug In Digital,3.56,91.0,13.99,Very Positive,Moderate
+Need for Speed: Shift,2009,Sports,Sports Sim,Electronic Arts,3.58,83.0,,Mostly Positive,Moderate
+Halo 3: ODST,2009,Shooter,Tactical Shooter,Bungie,4.04,83.0,4.99,Very Positive,Moderate
+Broken Sword 2: The Smoking Mirror (Remastered),2009,Action,Action Adventure,Revolution Software,4.02,90.84,4.99,Very Positive,Moderate
+Penumbra: Black Plague Gold Edition,2009,Action,Action Adventure,Frictional Games,3.9,78.0,9.75,Very Positive,Moderate
+STEINS;GATE,2009,Action,Action Adventure,MAGES,4.34,87.0,26.99,Overwhelmingly Positive,Moderate
+Shatter,2009,Action,Action Adventure,Kanawati,3.17,84.0,1.59,Very Positive,Moderate
+AI War: Fleet Command,2009,Action,Action Adventure,Arcen Games,2.56,80.0,9.75,Very Positive,Moderate
+MX vs. ATV Reflex,2009,Sports,Sports Sim,THQ Nordic,3.0,88.48,19.99,Very Positive,Moderate
+Gratuitous Space Battles,2009,Action,Action Adventure,Positech Games,2.57,72.0,14.79,Mostly Positive,Moderate
+Velvet Assassin,2009,Action,Action Adventure,Replay Studios,2.93,61.0,5.89,Mixed,Moderate
+Train Simulator,2009,Action,Action Adventure,Dovetail Games,3.23,71.74,29.99,Mostly Positive,Moderate
+Grand Theft Auto 4,2008,Action,Action Adventure,Rockstar North,4.26,90.0,19.99,Very Positive,Popular
+The Witcher: Enhanced Edition Director's Cut,2008,Action,Action Adventure,CD PROJEKT RED,4.06,86.0,7.99,Very Positive,Popular
+Mirror's Edge,2008,Action,Action Adventure,Electronic Arts DICE,4.07,81.0,19.99,Very Positive,Moderate
+Dead Space (2008),2008,Shooter,Tactical Shooter,Electronic Arts,4.39,87.0,19.99,Very Positive,Moderate
+Saints Row 2,2008,Shooter,Tactical Shooter,Volition,3.57,72.0,9.99,Mostly Positive,Moderate
+Castle Crashers,2008,Action,Action Adventure,The Behemoth,3.89,84.0,11.99,Overwhelmingly Positive,Popular
+Braid,2008,Action,Action Adventure,Hothead Games,4.16,90.0,14.99,Very Positive,Moderate
+GRID (2008),2008,Sports,Sports Sim,Codemasters,3.68,87.0,,Mostly Positive,Moderate
+Far Cry 2,2008,Shooter,Tactical Shooter,Ubisoft,3.46,85.0,9.99,Mostly Positive,Moderate
+Tomb Raider: Underworld,2008,Action,Action Adventure,Feral Interactive,3.7,80.0,8.99,Mostly Positive,Moderate
+S.T.A.L.K.E.R.: Clear Sky,2008,Shooter,Tactical Shooter,GSC Game World,3.88,75.0,19.99,Very Positive,Moderate
+Call of Duty: World at War,2008,Shooter,Tactical Shooter,Treyarch,3.97,83.0,19.99,Very Positive,Popular
+World of Goo,2008,Platformer,3D Platformer,2D BOY,4.03,90.0,12.49,Overwhelmingly Positive,Moderate
+Bully: Scholarship Edition,2008,Action,Action Adventure,Rockstar New England,4.13,72.0,9.99,Very Positive,Moderate
+Viking: Battle for Asgard,2008,Action,Action Adventure,Creative Assembly,2.51,66.0,14.99,Mixed,Moderate
+SPORE,2008,Action,Action Adventure,Maxis,4.15,84.0,19.99,Very Positive,Popular
+AudioSurf,2008,Action,Action Adventure,Dylan Fitterer,3.93,85.0,9.75,Overwhelmingly Positive,Moderate
+Valkyria Chronicles,2008,Action,Action Adventure,SEGA,4.07,85.0,19.99,Very Positive,Moderate
+LEGO Batman,2008,Action,Action Adventure,Traveller's Tales,3.77,80.0,19.99,Very Positive,Moderate
+Mount & Blade,2008,Action,Action Adventure,TaleWorlds Entertainment,3.91,72.0,9.99,Very Positive,Moderate
+Overlord: Raising Hell,2008,RPG,Action RPG,Triumph Studios,3.73,72.0,8.99,Very Positive,Moderate
+King's Bounty: The Legend,2008,Action,Action Adventure,Katauri Interactive,4.21,79.0,6.99,Very Positive,Moderate
+Assassin's Creed: Director's Cut Edition,2008,Action,Action Adventure,Ubisoft Montreal,3.92,79.0,9.99,Very Positive,Moderate
+Burnout Paradise,2008,Sports,Sports Sim,Electronic Arts,4.09,87.0,19.99,Mixed,Moderate
+Crysis Warhead,2008,Shooter,Tactical Shooter,Crytek,3.81,84.0,19.99,Very Positive,Moderate
+TrackMania Nations Forever,2008,Sports,Sports Sim,Nadeo,3.76,90.21,0.0,Very Positive,Moderate
+"Warhammer 40,000: Dawn of War: Soulstorm",2008,Action,Action Adventure,Relic Entertainment,4.04,94.84,,Overwhelmingly Positive,Moderate
+Sid Meier's Civilization 4: Colonization,2008,Action,Action Adventure,Aspyr Media,3.62,83.0,19.99,Very Positive,Moderate
+Devil May Cry 4,2008,Action,Action Adventure,Capcom,4.14,78.0,,Very Positive,Moderate
+The Last Remnant,2008,Action,Action Adventure,Square Enix,3.25,66.0,,Very Positive,Moderate
+Command & Conquer: Red Alert 3,2008,Action,Action Adventure,Electronic Arts,3.99,82.0,,Very Positive,Moderate
+Need For Speed Undercover,2008,Sports,Sports Sim,Electronic Arts Black Box,3.21,65.0,,Mostly Positive,Moderate
+Multiwinia,2008,Action,Action Adventure,Introversion Software,2.15,76.0,11.79,Very Positive,Moderate
+Bionic Commando: Rearmed,2008,Platformer,3D Platformer,Capcom,3.25,86.0,9.99,Mixed,Moderate
+Crash Time 2,2008,Sports,Sports Sim,RTL interactive,2.35,57.81,4.99,Mixed,Moderate
+Toki Tori,2008,Action,Action Adventure,Two Tribes,2.84,80.0,4.99,Very Positive,Moderate
+Alone in the Dark (2008),2008,Action,Action Adventure,Atari,3.36,67.0,9.99,Mixed,Moderate
+Rise of the Argonauts,2008,Action,Action Adventure,Liquid Entertainment,3.09,59.0,,Mostly Positive,Moderate
+Defense Grid: The Awakening,2008,Action,Action Adventure,Hidden Path Entertainment,3.35,81.0,7.99,Overwhelmingly Positive,Moderate
+Dark Sector,2008,Shooter,Tactical Shooter,Digital Extremes,3.25,66.0,9.99,Mostly Positive,Moderate
+Legendary,2008,Shooter,Tactical Shooter,Spark Unlimited,2.78,50.0,5.89,Mixed,Moderate
+The Void,2008,Action,Action Adventure,Ice-Pick Lodge,3.88,77.0,9.99,Very Positive,Moderate
+SEGA Bass Fishing,2008,Action,Action Adventure,SEGA,2.67,89.0,,Very Positive,Moderate
+Edna & Harvey: The Breakout,2008,Action,Action Adventure,Daedalic Entertainment,3.61,86.42,99.99,Very Positive,Moderate
+Silent Hill Homecoming,2008,Action,Action Adventure,Konami Digital Entertainment,3.23,64.0,19.99,Mixed,Moderate
+X3: Terran Conflict,2008,Action,Action Adventure,Egosoft,3.52,73.0,15.99,Very Positive,Moderate
+SPORE Creepy & Cute Parts Pack,2008,Action,Action Adventure,Maxis,3.61,53.0,19.99,Very Positive,Moderate
+Euro Truck Simulator,2008,Action,Action Adventure,SCS Software,3.59,84.03,4.99,Very Positive,Moderate
+PixelJunk Eden,2008,Action,Action Adventure,Sony Interactive Entertainment,2.97,81.0,9.99,Very Positive,Moderate
+Sam & Max: Episode 204: Chariots of the Dogs,2008,Action,Action Adventure,Telltale Games,3.02,85.0,,Very Positive,Niche
+Sam & Max: Episode 203: Night of the Raving Dead,2008,Action,Action Adventure,Telltale Games,2.95,79.0,,Very Positive,Niche
+Sam & Max: Episode 202: Moai Better Blues,2008,Action,Action Adventure,Telltale Games,2.94,80.0,,Very Positive,Niche
+NARUTO: Ultimate Ninja Storm,2008,Action,Action Adventure,CyberConnect2 Co.,3.77,76.81,19.99,Mostly Positive,Moderate
+Sniper Art of Victory,2008,Action,Action Adventure,CI Games,2.32,30.46,2.99,Mostly Negative,Moderate
+Portal,2007,Action,Action Adventure,Valve Software,4.48,90.0,9.69,Overwhelmingly Positive,Popular
+BioShock,2007,Shooter,Tactical Shooter,Digital Extremes,4.36,96.0,19.99,Very Positive,Moderate
+Team Fortress 2,2007,Shooter,Tactical Shooter,Valve Software,3.68,92.0,0.0,Very Positive,Blockbuster
+Half-Life 2: Episode Two,2007,Shooter,Tactical Shooter,Valve Software,4.46,90.0,,Overwhelmingly Positive,Moderate
+Mass Effect,2007,Action,Action Adventure,BioWare,4.39,89.0,29.99,Very Positive,Moderate
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2007,Shooter,Tactical Shooter,GSC Game World,4.27,82.0,19.99,Overwhelmingly Positive,Moderate
+Overlord,2007,Action,Action Adventure,Triumph Studios,3.82,81.0,4.99,Very Positive,Moderate
+Crysis,2007,Shooter,Tactical Shooter,Electronic Arts,4.01,91.0,29.99,Very Positive,Moderate
+Call of Duty 4: Modern Warfare,2007,Shooter,Tactical Shooter,Raven Software,4.39,92.0,19.99,Very Positive,Moderate
+Tomb Raider: Anniversary,2007,Action,Action Adventure,Feral Interactive,3.95,83.0,8.99,Very Positive,Moderate
+"Warhammer 40,000: Dawn of War: Game of the Year Edition",2007,Action,Action Adventure,Relic Entertainment,3.98,86.0,13.99,Overwhelmingly Positive,Moderate
+Company of Heroes: Opposing Fronts,2007,Action,Action Adventure,Relic Entertainment,3.44,87.0,18.49,Very Positive,Moderate
+LEGO Star Wars: The Complete Saga,2007,Action,Action Adventure,Feral Interactive,4.1,77.0,19.5,Overwhelmingly Positive,Moderate
+Kane and Lynch: Dead Men,2007,Shooter,Tactical Shooter,Square Enix,3.59,67.0,,Mixed,Moderate
+Halo 3,2007,Shooter,Tactical Shooter,Bungie,4.37,91.0,9.99,Very Positive,Moderate
+Unreal Tournament 3 Black,2007,Shooter,Tactical Shooter,Epic Games,3.79,83.0,,Very Positive,Moderate
+Penumbra Overture,2007,Action,Action Adventure,Frictional Games,3.73,73.0,9.75,Very Positive,Moderate
+The Lord of the Rings Online,2007,RPG,Action RPG,Standing Stone Games,3.17,86.0,0.0,Very Positive,Moderate
+Rome: Total War: Collection,2007,Action,Action Adventure,Creative Assembly,3.99,92.0,,Overwhelmingly Positive,Moderate
+RACE 07,2007,Sports,Sports Sim,SimBin,2.18,83.0,7.79,Very Positive,Moderate
+Supreme Commander,2007,Action,Action Adventure,Gas Powered Games,3.8,86.0,9.99,Very Positive,Moderate
+Supreme Commander: Forged Alliance,2007,Action,Action Adventure,Gas Powered Games,3.85,81.0,9.99,Overwhelmingly Positive,Moderate
+10-Blades,2007,Action,Action Adventure,Gaijin Entertainment,2.61,54.0,12.79,Mixed,Moderate
+Shadowgrounds Survivor,2007,Shooter,Tactical Shooter,Frozenbyte,2.75,79.0,9.99,Mixed,Moderate
+Painkiller: Black Edition,2007,Action,Action Adventure,People Can Fly,3.92,88.85,9.99,Very Positive,Moderate
+Eschalon: Book I,2007,RPG,Action RPG,Basilisk Games,2.42,75.0,0.0,Very Positive,Niche
+FlatOut: Ultimate Carnage,2007,Sports,Sports Sim,Bugbear Entertainment,3.98,79.0,39.99,Very Positive,Moderate
+LEGO Indiana Jones: The Original Adventures,2007,Platformer,3D Platformer,Traveller's Tales,3.87,78.0,19.5,Very Positive,Moderate
+Aquaria,2007,Action,Action Adventure,Finji,3.51,82.0,9.99,Very Positive,Moderate
+Painkiller Overdose,2007,Shooter,Tactical Shooter,Mindware Studios,3.28,65.0,4.99,Mostly Positive,Moderate
+Command & Conquer 3: Tiberium Wars,2007,Action,Action Adventure,Electronic Arts Los Angeles,4.06,85.0,,Very Positive,Moderate
+TimeShift,2007,Shooter,Tactical Shooter,Saber Interactive,3.73,71.0,14.99,Very Positive,Moderate
+Europa Universalis 3 Complete,2007,Action,Action Adventure,Paradox Development Studio,3.41,83.0,14.99,Mostly Positive,Moderate
+Battlestations: Midway,2007,Action,Action Adventure,Feral Interactive,2.72,76.0,6.99,Mostly Positive,Moderate
+Medal of Honor: Airborne,2007,Shooter,Tactical Shooter,Electronic Arts Los Angeles,3.7,78.0,,Very Positive,Moderate
+Jade Empire: Special Edition,2007,Action,Action Adventure,Aspyr Media,4.11,81.0,14.99,Mostly Positive,Moderate
+Heroes of Might & Magic V: Tribes of the East,2007,Action,Action Adventure,Nival Interactive,4.21,70.0,9.99,Very Positive,Moderate
+UFO: Afterlight,2007,Action,Action Adventure,Altar Games,2.42,71.0,5.99,Mixed,Niche
+Peggle Deluxe,2007,Platformer,3D Platformer,PopCap Games,3.95,97.62,4.99,Overwhelmingly Positive,Moderate
+Sam & Max: 102: Situation: Comedy,2007,Action,Action Adventure,Telltale Games,3.18,90.98,,Very Positive,Niche
+"Sam & Max: 103: The Mole, the Mob and the Meatball",2007,Action,Action Adventure,Telltale Games,3.11,87.04,,Very Positive,Niche
+Sam & Max: 105: Reality 2.0,2007,Action,Action Adventure,Telltale Games,3.18,92.86,,Very Positive,Niche
+Sam & Max: Episode 201: Ice Station Santa,2007,Action,Action Adventure,Telltale Games,2.96,82.0,,Very Positive,Niche
+Zombie Shooter,2007,Shooter,Tactical Shooter,Sigma Team,3.54,82.51,5.19,Very Positive,Moderate
+Peggle,2007,Platformer,3D Platformer,PopCap Games,3.92,88.0,4.99,Overwhelmingly Positive,Moderate
+The Witcher,2007,RPG,Action RPG,CD PROJEKT RED,4.18,86.0,7.99,Very Positive,Popular
+Platypus 2,2007,Platformer,3D Platformer,Idigicon,2.0,60.23,4.99,Mixed,Moderate
+Death to Spies,2007,Action,Action Adventure,Haggard Games,3.53,69.0,4.99,Mostly Positive,Moderate
+Half-Life 2: Episode One,2006,Shooter,Tactical Shooter,Valve Software,4.38,87.0,,Overwhelmingly Positive,Moderate
+Half-Life Deathmatch: Source,2006,Action,Action Adventure,Valve Software,3.21,75.58,9.69,Mostly Positive,Moderate
+Hitman: Blood Money,2006,Shooter,Tactical Shooter,Square Enix,4.31,82.0,9.75,Overwhelmingly Positive,Moderate
+Company of Heroes,2006,Action,Action Adventure,Feral Interactive,3.68,93.0,13.99,Overwhelmingly Positive,Moderate
+Tomb Raider: Legend,2006,Action,Action Adventure,Crystal Dynamics,3.91,82.0,6.99,Very Positive,Moderate
+Just Cause,2006,Shooter,Tactical Shooter,Avalanche Studios,3.3,75.0,6.99,Mixed,Moderate
+Titan Quest,2006,Action,Action Adventure,THQ Nordic,3.91,69.0,19.99,Very Positive,Moderate
+Dark Messiah of Might and Magic,2006,Action,Action Adventure,Arkane Studios,4.31,72.0,4.99,Very Positive,Moderate
+Gothic 3,2006,Action,Action Adventure,Piranha Bytes,3.71,63.0,19.99,Very Positive,Moderate
+The Elder Scrolls 4: Oblivion,2006,Action,Action Adventure,Bethesda Game Studios,4.34,94.0,4.99,Overwhelmingly Positive,Niche
+FlatOut 2,2006,Sports,Sports Sim,Bugbear Entertainment,4.33,76.0,39.99,Overwhelmingly Positive,Moderate
+The Ship: Murder Party,2006,Action,Action Adventure,Outerlight,2.99,76.0,9.99,Very Positive,Moderate
+The Ship: Single Player,2006,Action,Action Adventure,Outerlight,2.67,70.96,,Mostly Positive,Moderate
+"Warhammer 40,000: Dawn of War: Dark Crusade",2006,Action,Action Adventure,Relic Entertainment,4.2,87.0,,Overwhelmingly Positive,Moderate
+DEFCON,2006,Action,Action Adventure,Introversion Software,3.07,84.0,11.79,Very Positive,Moderate
+Dead Rising,2006,Action,Action Adventure,Capcom,3.69,82.0,9.99,Very Positive,Moderate
+Call of Juarez,2006,Shooter,Tactical Shooter,Techland,3.83,72.0,9.99,Very Positive,Moderate
+Tom Clancy's Rainbow Six Vegas,2006,Shooter,Tactical Shooter,Ubisoft,3.67,85.0,9.99,Very Positive,Moderate
+Heroes of Might and Magic V,2006,Action,Action Adventure,Nival Interactive,4.19,77.0,9.99,Very Positive,Moderate
+Lost Planet: Extreme Condition,2006,Shooter,Tactical Shooter,Capcom,3.69,66.0,14.99,Very Positive,Moderate
+Devil May Cry 3: Dante's Awakening Special Edition,2006,Action,Action Adventure,Capcom,4.41,66.0,,Mixed,Moderate
+Sid Meier's Railroads!,2006,Action,Action Adventure,Feral Interactive,3.16,77.0,9.99,Mostly Positive,Moderate
+Alien Shooter 2: Reloaded,2006,Action,Action Adventure,Sigma Team,3.67,91.75,5.19,Very Positive,Moderate
+Rome: Total War: Alexander,2006,Action,Action Adventure,Feral Interactive,3.39,79.0,,Mostly Positive,Moderate
+The Legend of Heroes: Trails in the Sky,2006,RPG,Action RPG,Nihon Falcom,4.26,85.0,15.99,Overwhelmingly Positive,Moderate
+Saints Row,2006,Shooter,Tactical Shooter,Volition,3.51,81.0,29.99,Mixed,Moderate
+Red Orchestra: Ostfront 41-45,2006,Action,Action Adventure,Tripwire Interactive,3.0,81.0,3.99,Very Positive,Moderate
+Marvel Ultimate Alliance,2006,Action,Action Adventure,Raven Software,3.92,81.0,,Mixed,Moderate
+Dreamfall: The Longest Journey,2006,Action,Action Adventure,Funcom,4.23,75.0,19.99,Very Positive,Moderate
+Ys Origin,2006,Action,Action Adventure,DotEmu,3.88,76.0,15.99,Very Positive,Moderate
+Sam & Max: 101: Culture Shock,2006,Action,Action Adventure,Telltale Games,3.28,89.94,,Very Positive,Niche
+FINAL FANTASY 3 (3D REMAKE),2006,RPG,Action RPG,Square Enix,3.77,68.0,12.99,Very Positive,Moderate
+Alpha Prime,2006,Action,Action Adventure,Black Element,2.51,59.0,4.99,Mixed,Moderate
+The Blackwell Legacy,2006,Action,Action Adventure,Wadjet Eye Games,3.77,80.0,4.49,Very Positive,Moderate
+Heroes of Might & Magic V: Hammers of Fate,2006,Action,Action Adventure,Nival Interactive,4.11,66.0,9.99,Very Positive,Niche
+Marc Ecko's Getting Up: Contents Under Pressure,2006,Action,Action Adventure,General Arcade,4.12,69.0,14.79,Very Positive,Moderate
+Disciples 2: Gallean's Return,2006,Action,Action Adventure,Strategy First,4.48,84.0,5.89,Very Positive,Moderate
+Dwarf Fortress,2006,Action,Action Adventure,Bay 12 Games,4.31,93.0,30.49,Overwhelmingly Positive,Moderate
+IL-2 Sturmovik: 1946,2006,Action,Action Adventure,1C: Maddox Games,3.34,86.0,9.99,Very Positive,Moderate
+Disciples 2: Rise of the Elves,2006,Action,Action Adventure,Strategy First,4.48,80.0,5.89,Very Positive,Moderate
+flOw,2006,Sports,Sports Sim,Sony Interactive Entertainment,3.57,71.0,0.0,Mixed,Niche
+Rayman Raving Rabbids,2006,Action,Action Adventure,Ubisoft,3.66,58.0,4.99,Very Positive,Moderate
+Runaway 2: The Dream of the Turtle,2006,Action,Action Adventure,Pendulo Studios,3.93,56.3,4.99,Mixed,Niche
+Hard Truck: Apocalypse,2006,Sports,Sports Sim,CDV Software,3.89,45.0,7.99,Very Positive,Moderate
+SiN Episodes: Emergence,2006,Shooter,Tactical Shooter,Ritual Entertainment,3.6,75.0,8.19,Very Positive,Moderate
+Planet Alcatraz,2006,RPG,Action RPG,1C Company,3.83,81.17,3.99,Very Positive,Moderate
+Desperados 2: Cooper's Revenge,2006,Action,Action Adventure,Spellbound Entertainment,3.17,66.0,9.99,Mixed,Niche
+Secret Files: Tunguska,2006,Action,Action Adventure,Animation Arts,3.55,68.0,9.99,Very Positive,Niche
+Jets'n'Guns Gold,2006,Shooter,Tactical Shooter,Rake in Grass,3.96,86.74,7.79,Very Positive,Moderate
+Dream Pinball 3D,2006,Platformer,3D Platformer,Runesoft,1.55,61.0,9.75,Mixed,Moderate
+Broken Sword 4: The Angel of Death,2006,Action,Action Adventure,Sumo Digital,3.34,42.01,4.99,Mixed,Niche
+Half-Life 2: Lost Coast,2005,Action,Action Adventure,Valve Software,3.46,89.38,,Very Positive,Moderate
+Psychonauts,2005,Platformer,3D Platformer,Double Fine Productions,4.05,87.0,9.99,Overwhelmingly Positive,Moderate
+Resident Evil 4 (2005),2005,Shooter,Tactical Shooter,Capcom,4.4,79.0,19.99,Overwhelmingly Positive,Popular
+F.E.A.R.,2005,Shooter,Tactical Shooter,Monolith Productions,4.27,88.0,9.99,Very Positive,Moderate
+Star Wars: Battlefront 2 (2005),2005,Shooter,Tactical Shooter,Electronic Arts,4.21,78.0,9.75,Overwhelmingly Positive,Popular
+Day of Defeat: Source,2005,Action,Action Adventure,Valve Software,3.2,80.0,9.69,Very Positive,Moderate
+Star Wars: Republic Commando,2005,Shooter,Tactical Shooter,LucasArts Entertainment,4.19,78.0,9.75,Overwhelmingly Positive,Moderate
+Need For Speed: Most Wanted,2005,Sports,Sports Sim,Electronic Arts Canada,4.45,78.0,19.99,Mostly Positive,Moderate
+Serious Sam 2,2005,Action,Action Adventure,Croteam,3.55,74.0,9.75,Very Positive,Moderate
+Condemned: Criminal Origins,2005,Action,Action Adventure,Monolith Productions,3.83,78.0,,Very Positive,Moderate
+Fable: The Lost Chapters,2005,Action,Action Adventure,Lionhead Studios,4.44,83.0,8.99,Very Positive,Moderate
+Sid Meier's Civilization 4,2005,Action,Action Adventure,Firaxis,4.11,94.0,19.99,Very Positive,Moderate
+Prince of Persia: The Two Thrones,2005,Action,Action Adventure,Ubisoft,4.12,85.0,9.99,Very Positive,Moderate
+Call of Duty 2,2005,Shooter,Tactical Shooter,Infinity Ward,4.22,86.0,19.99,Very Positive,Moderate
+KAO the Kangaroo: Round 2,2005,Sports,Sports Sim,Tate Multimedia,2.67,93.12,1.99,Very Positive,Moderate
+"Warhammer 40,000: Dawn of War – Winter Assault",2005,Action,Action Adventure,Relic Entertainment,3.94,85.0,,Very Positive,Moderate
+Tom Clancy's Splinter Cell Chaos Theory,2005,Action,Action Adventure,Ubisoft,4.38,92.0,9.99,Very Positive,Moderate
+Shadowgrounds,2005,Shooter,Tactical Shooter,Frozenbyte,2.81,74.0,4.99,Very Positive,Moderate
+Dungeon Siege 2,2005,Action,Action Adventure,Gas Powered Games,3.81,80.0,6.99,Mostly Positive,Moderate
+Darwinia,2005,Action,Action Adventure,Introversion Software,2.73,84.0,11.79,Very Positive,Moderate
+Sniper Elite,2005,Action,Action Adventure,Rebellion,3.36,76.0,7.99,Mostly Positive,Moderate
+Quake 4,2005,Shooter,Tactical Shooter,Aspyr Media,3.71,81.0,14.99,Very Positive,Moderate
+Samorost 2,2005,Action,Action Adventure,Amanita Design,3.88,87.23,4.99,Very Positive,Moderate
+Oddworld: Stranger's Wrath,2005,Action,Action Adventure,Oddworld Inhabitants,3.62,87.32,9.99,Very Positive,Moderate
+Call of Cthulhu: Dark Corners of the Earth,2005,Shooter,Tactical Shooter,Headfirst Productions,4.09,76.0,4.99,Mixed,Moderate
+Sacred Gold,2005,Action,Action Adventure,ASCARON Entertainment,4.18,74.0,9.99,Very Positive,Moderate
+Stubbs the Zombie in Rebel Without a Pulse,2005,Shooter,Tactical Shooter,Aspyr Media,3.8,72.0,19.5,Very Positive,Moderate
+Still Life,2005,Action,Action Adventure,Microids,3.75,75.0,7.99,Very Positive,Moderate
+Destroy All Humans!,2005,Action,Action Adventure,THQ Nordic,3.73,70.0,29.99,Very Positive,Moderate
+X3: Reunion,2005,Action,Action Adventure,Egosoft,3.31,71.0,9.99,Mostly Positive,Moderate
+Project: Snowblind,2005,Action,Action Adventure,Crystal Dynamics,2.71,76.0,5.99,Mostly Positive,Moderate
+Ultratron,2005,Platformer,3D Platformer,Curve Digital,3.06,87.77,9.75,Very Positive,Moderate
+GUN,2005,Action,Action Adventure,Neversoft,4.02,76.0,14.99,Very Positive,Moderate
+Earth 2160,2005,Action,Action Adventure,Reality Pump,3.15,73.0,9.75,Mostly Positive,Moderate
+SpellForce: Platinum Edition,2005,Action,Action Adventure,JoWooD,3.75,74.0,9.99,Very Positive,Moderate
+Freedom Force vs. the Third Reich,2005,Action,Action Adventure,2K Australia,3.27,86.0,4.99,Very Positive,Niche
+Ys: The Oath in Felghana,2005,Action,Action Adventure,XSEED Games,4.12,73.0,11.99,Very Positive,Moderate
+killer7,2005,Action,Action Adventure,Engine Software,4.29,78.0,19.99,Very Positive,Moderate
+Star Wolves,2005,Action,Action Adventure,X-Bow Software,4.03,83.97,3.99,Very Positive,Niche
+Cold Fear,2005,Action,Action Adventure,GOG,3.84,66.0,,Very Positive,Moderate
+Brothers in Arms: Road to Hill 30,2005,Action,Action Adventure,Gearbox Software,3.84,87.0,4.99,Very Positive,Moderate
+Sudeki,2005,Action,Action Adventure,Climax Studios,3.9,72.0,5.99,Very Positive,Moderate
+RIP,2005,Platformer,3D Platformer,White Elephant,2.31,63.64,14.25,Mixed,Niche
+Brothers in Arms: Earned in Blood,2005,Action,Action Adventure,Gearbox Software,3.79,84.0,4.99,Very Positive,Moderate
+GT Legends,2005,Sports,Sports Sim,SimBin Studios,3.19,84.0,7.79,Very Positive,Niche
+Fate (2005),2005,Action,Action Adventure,WildTangent,3.74,80.0,6.59,Overwhelmingly Positive,Moderate
+Geneforge 3,2005,Action,Action Adventure,Spiderweb Software,2.29,84.75,19.5,Very Positive,Niche
+Cossacks 2: Napoleonic Wars,2005,Action,Action Adventure,GSC Game World,3.87,73.0,4.99,Mixed,Moderate
+Geometry Wars Evolved,2005,Action,Action Adventure,Bizarre Creations,4.02,76.0,3.99,Very Positive,Moderate
+UFO: Aftershock,2005,Action,Action Adventure,Altar Interactive,3.5,75.29,3.99,Mostly Positive,Niche
+Blitzkrieg Anthology,2005,Action,Action Adventure,Nival Interactive,4.08,90.22,4.99,Very Positive,Moderate
+Advent Rising,2005,Action,Action Adventure,GlyphX Games,3.82,70.0,9.99,Mostly Positive,Moderate
+Half-Life 2,2004,Shooter,Tactical Shooter,Valve Software,4.47,96.0,9.69,Overwhelmingly Positive,Popular
+Grand Theft Auto: San Andreas,2004,Action,Action Adventure,Rockstar North,4.5,93.0,,Very Positive,Popular
+Half-Life 2: Deathmatch,2004,Action,Action Adventure,Valve Software,3.29,90.7,,Very Positive,Moderate
+Garry's Mod,2004,Action,Action Adventure,Facepunch Studios,3.81,96.88,9.99,Overwhelmingly Positive,Blockbuster
+Counter-Strike: Source,2004,Shooter,Tactical Shooter,Valve Software,3.75,88.0,9.69,Overwhelmingly Positive,Popular
+Counter-Strike: Condition Zero,2004,Action,Action Adventure,Valve Software,3.14,65.0,9.69,Very Positive,Moderate
+Syberia 2,2004,Action,Action Adventure,Microids,3.89,80.0,12.99,Very Positive,Moderate
+Half-Life: Source,2004,Action,Action Adventure,Valve Software,3.71,68.62,9.69,Mixed,Moderate
+Counter-Strike: Condition Zero Deleted Scenes,2004,Shooter,Tactical Shooter,Valve Software,2.88,65.0,9.69,Very Positive,Moderate
+Star Wars: Knights of the Old Republic 2 – The Sith Lords,2004,Action,Action Adventure,Aspyr Media,4.35,85.0,9.75,Very Positive,Moderate
+Doom 3,2004,Shooter,Tactical Shooter,id Software,3.9,87.0,,Very Positive,Moderate
+Far Cry,2004,Shooter,Tactical Shooter,Ubisoft,3.9,89.0,9.99,Very Positive,Moderate
+Vampire: The Masquerade: Bloodlines,2004,Action,Action Adventure,Troika Games,4.36,80.0,19.99,Overwhelmingly Positive,Moderate
+Prince of Persia: Warrior Within,2004,Action,Action Adventure,Ubisoft,4.4,83.0,9.99,Very Positive,Moderate
+Hitman: Contracts,2004,Shooter,Tactical Shooter,Square Enix,3.93,77.0,8.99,Very Positive,Moderate
+Thief 3: Deadly Shadows,2004,Action,Action Adventure,Ion Storm,3.78,85.0,8.99,Very Positive,Moderate
+Beyond Divinity,2004,Action,Action Adventure,Larian Studios,3.2,73.0,4.99,Mixed,Moderate
+FlatOut,2004,Sports,Sports Sim,Bugbear Entertainment,4.03,72.0,6.99,Very Positive,Moderate
+Sid Meier's Pirates!,2004,Action,Action Adventure,Feral Interactive,3.96,88.0,9.99,Overwhelmingly Positive,Moderate
+Space Hack,2004,Action,Action Adventure,Meridian4,1.73,63.0,4.99,Mixed,Moderate
+Evil Genius,2004,Action,Action Adventure,Elixir Studios,3.79,75.0,9.99,Very Positive,Moderate
+The Bard's Tale,2004,Action,Action Adventure,InXile Entertainment,3.51,70.0,16.79,Mostly Positive,Moderate
+Street Racing Syndicate,2004,Sports,Sports Sim,Eutechnyx,3.8,84.5,2.99,Very Positive,Moderate
+Unreal Tournament 2004: Editor's Choice Edition,2004,Action,Action Adventure,Epic Games,4.3,93.0,,Overwhelmingly Positive,Moderate
+Gish,2004,Action,Action Adventure,Cryptic Sea,3.39,80.0,8.19,Mixed,Niche
+Neighbours from Hell Compilation,2004,Action,Action Adventure,JoWooD,3.93,69.0,,Overwhelmingly Positive,Moderate
+Yume Nikki,2004,Action,Action Adventure,kikiyama,3.83,94.25,0.0,Overwhelmingly Positive,Moderate
+Star Wars: Battlefront (2004),2004,Shooter,Tactical Shooter,Electronic Arts DICE,4.14,76.0,9.75,Overwhelmingly Positive,Moderate
+CS2D,2004,Action,Action Adventure,Unreal Software,3.24,90.26,0.0,Very Positive,Moderate
+World War 2: Panzer Claws,2004,Action,Action Adventure,Unknown,1.91,61.0,6.89,Mostly Positive,Moderate
+Call of Duty: United Offensive,2004,Shooter,Tactical Shooter,Gray Matter Interactive,4.07,87.0,19.99,Very Positive,Moderate
+BloodRayne 2,2004,Shooter,Tactical Shooter,Sony Interactive Entertainment,3.73,67.0,,Mostly Positive,Niche
+OpenTTD,2004,Action,Action Adventure,ZodTTD,3.67,94.57,,Overwhelmingly Positive,Moderate
+Halo 2,2004,Shooter,Tactical Shooter,Bungie,4.39,84.0,9.99,Very Positive,Moderate
+Guilty Gear X2 #Reload,2004,Action,Action Adventure,Arc System Works,4.1,86.57,8.99,Very Positive,Moderate
+Marine Sharpshooter 2: Jungle Warfare,2004,Action,Action Adventure,Jarhead Games,1.88,52.0,2.99,Mostly Negative,Moderate
+Silent Storm Gold Edition,2004,Action,Action Adventure,Nival Interactive,4.3,83.0,9.99,Very Positive,Moderate
+Obscure,2004,Action,Action Adventure,Hydravision Entertainment,3.83,63.0,6.99,Overwhelmingly Positive,Moderate
+The I of the Dragon,2004,RPG,Action RPG,Primal,2.34,71.1,7.79,Mostly Positive,Moderate
+Sherlock Holmes: The Silver Earring,2004,Action,Action Adventure,Frogwares,3.21,68.0,9.99,Mixed,Moderate
+Crusader Kings Complete,2004,Action,Action Adventure,Paradox Development Studio,2.88,73.0,9.99,Mixed,Niche
+Uncharted Waters Online,2004,Action,Action Adventure,Koei Tecmo,1.75,68.45,0.0,Mixed,Niche
+Perimeter,2004,Action,Action Adventure,K-D Lab,3.73,77.0,3.99,Very Positive,Niche
+Zuma Deluxe,2004,Platformer,3D Platformer,PopCap Games,3.94,78.0,4.99,Overwhelmingly Positive,Moderate
+Return to Mysterious Island,2004,Action,Action Adventure,Kheops Studio,3.83,83.33,7.99,Very Positive,Niche
+Aura: Fate of the Ages,2004,Action,Action Adventure,Streko-Graphics,2.68,63.0,4.99,Mixed,Niche
+Full Spectrum Warrior,2004,Action,Action Adventure,Pandemic Studios,3.0,80.0,6.99,Mostly Positive,Niche
+Star Wars: Knights of the Old Republic,2003,Action,Action Adventure,Aspyr Media,4.35,88.0,9.75,Very Positive,Moderate
+POSTAL 2,2003,Shooter,Tactical Shooter,Running With Scissors,3.91,59.0,9.75,Overwhelmingly Positive,Popular
+Max Payne 2: The Fall of Max Payne,2003,Shooter,Tactical Shooter,Remedy Entertainment,4.42,86.0,14.99,Overwhelmingly Positive,Moderate
+Day of Defeat,2003,Action,Action Adventure,Valve Software,2.83,79.0,4.89,Very Positive,Moderate

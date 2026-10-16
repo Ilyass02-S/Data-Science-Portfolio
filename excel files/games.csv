@@ -1,501 +1,1501 @@
 GameID,Game_Name,Game_Year,Game_Genre,Game_Subgenre,Game_Studio
-201,Grand Theft Auto V,2013,Action,Tactical Shooter,Rockstar North
-202,The Witcher 3: Wild Hunt,2015,Action,Action RPG,CD PROJEKT RED
-203,Portal 2,2011,Shooter,Tactical Shooter,Valve Software
-204,Counter-Strike: Global Offensive,2012,Shooter,Tactical Shooter,Valve Software
-205,Portal,2007,Action,Tactical Shooter,Valve Software
-206,Tomb Raider,2013,Action,Action Stealth,Crystal Dynamics
-207,Left 4 Dead 2,2009,Action,Tactical Shooter,Valve Software
-208,Red Dead Redemption 2,2018,Action,Tactical Shooter,Rockstar Games
-209,The Elder Scrolls V: Skyrim,2011,Action,Tactical Shooter,Bethesda Game Studios
-210,Half-Life 2,2004,Action,Tactical Shooter,Valve Software
-211,BioShock Infinite,2013,Action,Tactical Shooter,Aspyr Media
-212,Borderlands 2,2012,Action,Action RPG,Aspyr Media
-213,Life is Strange,2015,Action,Action Adventure,DONTNOD Entertainment
-214,BioShock,2007,Action,Tactical Shooter,Digital Extremes
-215,God of War (2018),2018,Action,Action RPG,Santa Monica Studio
-216,Destiny 2,2017,Action,Tactical Shooter,Bungie
-217,Fallout 4,2015,Action,Tactical Shooter,Bethesda Game Studios
-218,Limbo,2010,Action,Action Adventure,Double Eleven
-219,PAYDAY 2,2013,Action,Tactical Shooter,505 Games
-220,DOOM (2016),2016,Action,Tactical Shooter,Bethesda Softworks
-221,Cyberpunk 2077,2020,Action,Tactical Shooter,CD PROJEKT RED
-222,Team Fortress 2,2007,Action,Tactical Shooter,Valve Software
-223,Terraria,2011,Action,Action Adventure,Engine Software
-224,Grand Theft Auto 4,2008,Action,Action Adventure,Rockstar North
-225,Dota 2,2013,Action,Action RPG,Valve Software
-226,Warframe,2013,Action,Action Adventure,Unknown
-227,Rocket League,2015,Sports,Sports Sim,Psyonix
-228,Horizon Zero Dawn,2017,Action,Action Stealth,Guerrilla Games
-229,Metro 2033,2010,Action,Tactical Shooter,4A Games
-230,Rise of the Tomb Raider,2015,Action,Action Stealth,Feral Interactive
-231,Batman: Arkham Knight,2015,Action,Action Stealth,Rocksteady Studios
-232,Grand Theft Auto: San Andreas,2004,Action,Action Adventure,Rockstar North
-233,Metal Gear Solid V: The Phantom Pain,2015,Action,Action Stealth,Kojima Productions
-234,The Witcher 2: Assassins of Kings Enhanced Edition,2012,RPG,Action RPG,CD PROJEKT RED
-235,Apex Legends,2019,Action,Tactical Shooter,Respawn Entertainment
-236,Hollow Knight,2017,Action,Metroidvania,Team Cherry
-237,The Witcher: Enhanced Edition Director's Cut,2008,Action,Action RPG,CD PROJEKT RED
-238,Middle-earth: Shadow of Mordor,2014,Action,Action Stealth,Feral Interactive
-239,The Walking Dead: Season 1,2012,Action,Action Adventure,Telltale Games
-240,Little Nightmares,2017,Action,Action Stealth,BANDAI NAMCO Entertainment America
-241,Half-Life 2: Lost Coast,2005,Action,Tactical Shooter,Valve Software
-242,BioShock 2,2010,Action,Tactical Shooter,Feral Interactive
-243,Half-Life,1998,Action,Tactical Shooter,Valve Software
-244,Half-Life 2: Episode One,2006,Action,Tactical Shooter,Valve Software
-245,Half-Life 2: Episode Two,2007,Action,Tactical Shooter,Valve Software
-246,Dark Souls 3,2016,Action,Action RPG,BANDAI NAMCO Entertainment America
-247,Half-Life 2: Deathmatch,2004,Action,Tactical Shooter,Valve Software
-248,Stardew Valley,2016,RPG,Action RPG,Chucklefish
-249,Mirror's Edge,2008,Action,Tactical Shooter,Unknown
-250,Hotline Miami,2012,Action,Action Adventure,Devolver Digital
-251,BioShock Remastered,2016,Shooter,Tactical Shooter,Feral Interactive
-252,Hitman,2016,Action,Action Stealth,Feral Interactive
-253,Outlast,2013,Action,Tactical Shooter,Red Barrels
-254,Far Cry 3,2012,Action,Tactical Shooter,Ubisoft
-255,Deus Ex: Mankind Divided,2016,Action,Tactical Shooter,Eidos Montreal
-256,PlayerUnknown's Battlegrounds,2017,Action,Tactical Shooter,Krafton
-257,Path of Exile,2013,Action,Action RPG,Grinding Gear Games
-258,Marvel's Spider-Man,2018,Action,Action Adventure,Insomniac Games
-259,Alan Wake,2010,Action,Survival Horror,Remedy Entertainment
-260,Detroit: Become Human,2018,Action,Action Adventure,Quantic Dream
-261,Wolfenstein: The New Order,2014,Action,Tactical Shooter,Bethesda Softworks
-262,Garry's Mod,2004,Action,Tactical Shooter,Facepunch Studios
-263,Amnesia: The Dark Descent,2010,Action,Tactical Shooter,Frictional Games
-264,Spec Ops: The Line,2012,Action,Action Adventure,Yager
-265,Half-Life Deathmatch: Source,2006,Action,Tactical Shooter,Valve Software
-266,Saints Row: The Third,2011,Action,Action Adventure,Volition
-267,Fallout: New Vegas,2010,Action,Tactical Shooter,Obsidian Entertainment
-268,Prey,2017,Action,Tactical Shooter,Unknown
-269,Borderlands,2009,Action,Tactical Shooter,2K
-270,The Elder Scrolls V: Skyrim Special Edition,2016,Action,Tactical Shooter,Bethesda Game Studios
-271,Dishonored 2,2016,Action,Tactical Shooter,Bethesda Softworks
-272,Dishonored,2012,Action,Tactical Shooter,Bethesda Softworks
-273,Don't Starve Together,2016,Action,Survival Horror,Klei Entertainment
-274,Grand Theft Auto: Vice City,2002,Action,Action Adventure,Rockstar North
-275,Hellblade: Senua's Sacrifice,2017,Action,Action Adventure,Ninja Theory
-276,Company of Heroes 2,2013,Action,Tactical Shooter,Feral Interactive
-277,Injustice: Gods Among Us Ultimate Edition,2013,Action,Action Adventure,NetherRealm Studios
-278,Assassin's Creed 4: Black Flag,2013,Action,Action Stealth,Ubisoft
-279,Hitman: Absolution,2012,Action,Action Stealth,IO Interactive
-280,Sid Meier's Civilization V,2010,Action,Tactical Shooter,Aspyr Media
-281,Control,2019,Action,Metroidvania,505 Games
-282,L.A. Noire,2011,Action,Action Adventure,Team Bondi
-283,Super Meat Boy,2010,Platformer,3D Platformer,NVIDIA Lightspeed Studios
-284,Star Wars Jedi: Fallen Order,2019,Action,Metroidvania,Respawn Entertainment
-285,For Honor,2017,Action,Action Adventure,Ubisoft
-286,Uncharted 4: A Thief's End,2016,Action,Action Adventure,Naughty Dog
-287,Dead Space (2008),2008,Action,Survival Horror,Electronic Arts
-288,Counter-Strike: Source,2004,Shooter,Tactical Shooter,Valve Software
-289,Mass Effect 2,2010,Action,Action RPG,BioWare
-290,Death Stranding,2019,Action,Action Stealth,Kojima Productions
-291,Just Cause 3,2015,Action,Action Adventure,Square Enix
-292,Metro: Last Light Redux,2014,Action,Tactical Shooter,Deep Silver
-293,Metro 2033 Redux,2014,Action,Tactical Shooter,Deep Silver
-294,Counter-Strike,2000,Action,Tactical Shooter,Valve Software
-295,Borderlands: The Pre-Sequel,2014,Action,Tactical Shooter,Aspyr Media
-296,Left 4 Dead,2008,Action,Tactical Shooter,Valve Software
-297,Hades,2020,Action,Action RPG,Supergiant Games
-298,BioShock 2 Remastered,2016,Action,Tactical Shooter,Digital Extremes
-299,Metal Gear Solid V: Ground Zeroes,2014,Action,Action Stealth,Kojima Productions
-300,NieR:Automata,2017,Action,Action Adventure,Platinum Games
-301,Minecraft,2009,Action,Action Adventure,4J Studios
-302,Mortal Kombat 10,2015,Action,Action Adventure,Warner Bros. Interactive
-303,Mass Effect,2007,Action,Action RPG,BioWare
-304,The Last Of Us Remastered,2014,Action,Action Stealth,Naughty Dog
-305,Just Cause 2,2010,Action,Action Adventure,Square Enix
-306,Fall Guys: Ultimate Knockout,2020,Action,Action Adventure,Mediatonic
-307,ARK: Survival Of The Fittest,2016,Action,Tactical Shooter,Instinct Games
-308,Monster Hunter: World,2018,Action,Action RPG,Capcom
-309,Mad Max,2015,Action,Tactical Shooter,Avalanche Studios
-310,Resident Evil 7: Biohazard,2017,Action,Tactical Shooter,Capcom
-311,Middle-earth: Shadow of War,2017,Action,Action Stealth,Warner Bros. Interactive
-312,Bastion,2011,Action,Action RPG,Warner Bros. Interactive
-313,Titanfall 2,2016,Action,Tactical Shooter,Respawn Entertainment
-314,Batman: Arkham City: Game of the Year Edition,2012,Action,Action Stealth,Feral Interactive
-315,Paladins,2016,Action,Tactical Shooter,Hi-Rez Studios
-316,ARK: Survival Evolved,2015,Action,Tactical Shooter,Instinct Games
-317,Bloodborne,2015,Action,Action Adventure,FromSoftware
-318,Cities: Skylines,2015,Action,Action Adventure,Unknown
-319,Journey,2012,Action,Tactical Shooter,thatgamecompany
-320,Undertale,2015,RPG,Action RPG,8-4
-321,Batman: Arkham Asylum Game of the Year Edition,2010,Action,Action Stealth,Feral Interactive
-322,Unturned,2014,Action,Tactical Shooter,505 Games
-323,Warhammer: Vermintide 2,2018,Action,Action Adventure,Fatshark
-324,Far Cry 5,2018,Action,Tactical Shooter,Ubisoft
-325,XCOM: Enemy Unknown,2012,Action,Tactical Shooter,Feral Interactive
-326,Fallout,1997,RPG,Tactical Shooter,Black Isle Studios
-327,Mafia 2,2010,Action,Action Adventure,2K Czech
-328,Brothers: A Tale of Two Sons,2013,Action,Action Adventure,Starbreeze Studios
-329,Watch Dogs,2014,Action,Action Stealth,Ubisoft
-330,Heavy Rain,2010,Action,Action Adventure,Quantic Dream
-331,Sekiro: Shadows Die Twice,2019,Action,Action Stealth,FromSoftware
-332,Shadow of the Tomb Raider,2018,Action,Action Stealth,Eidos Montreal
-333,INSIDE,2016,Action,Action Stealth,Playdead
-334,Metro Exodus,2019,Action,Tactical Shooter,4A Games
-335,Brutal Legend,2009,Action,Action RPG,Electronic Arts
-336,SEGA Mega Drive and Genesis Classics,2010,Action,Action Adventure,SEGA
-337,Psychonauts,2005,Action,Action Adventure,Double Fine Productions
-338,Max Payne 3,2012,Action,Action Adventure,Rockstar Games
-339,Brawlhalla,2014,Action,Action Adventure,Unknown
-340,Firewatch,2016,Action,Action Adventure,Campo Santo
-341,Assassin's Creed Odyssey,2018,Action,Action Stealth,Ubisoft
-342,Assassin's Creed 2,2009,Action,Action Adventure,Ubisoft Montreal
-343,No Man's Sky,2016,Action,Tactical Shooter,Hello Games
-344,Saints Row 4,2013,Action,Action Adventure,Volition
-345,Tom Clancy's Rainbow Six Siege,2015,Action,Tactical Shooter,Ubisoft
-346,Alien: Isolation,2014,Action,Tactical Shooter,Feral Interactive
-347,Elden Ring,2022,Action,Action RPG,FromSoftware
-348,Disco Elysium,2019,Action,Action Adventure,ZA/UM
-349,Cuphead,2017,Action,Action Adventure,Studio MDHR
-350,The Darkness 2,2012,Action,Tactical Shooter,2K
-351,Hitman 2,2018,Action,Action Stealth,IO Interactive
-352,Batman: Arkham Origins,2013,Action,Action Stealth,Warner Bros. Interactive
-353,War Thunder,2013,Action,Action Adventure,Gaijin Entertainment
-354,Darksiders,2010,Action,Action RPG,THQ
-355,Assassin's Creed Origins,2017,Action,Action Adventure,Ubisoft
-356,DOOM Eternal,2020,Action,Tactical Shooter,Bethesda Softworks
-357,Titan Quest Anniversary Edition,2016,Action,Action RPG,THQ Nordic
-358,Among Us,2018,Action,Action Adventure,Innersloth
-359,Halo Infinite,2021,Action,Tactical Shooter,343 Industries
-360,Crusader Kings 2,2012,Action,Action Adventure,Paradox Development Studio
-361,The Wolf Among Us,2013,Action,Action Adventure,Telltale Games
-362,Transistor,2014,Action,Action RPG,Supergiant Games
-363,Battlefield 1,2016,Action,Tactical Shooter,Electronic Arts
-364,Deus Ex: Human Revolution: Director's Cut,2013,Action,Tactical Shooter,Feral Interactive
-365,Far Cry 4,2014,Shooter,Tactical Shooter,Unknown
-366,Layers of Fear,2016,Action,Tactical Shooter,Bloober Team
-367,Resident Evil 5,2009,Action,Survival Horror,Capcom
-368,GRID 2,2013,Sports,Tactical Shooter,Feral Interactive
-369,XCOM 2,2016,RPG,Tactical Shooter,Feral Interactive
-370,Ori and the Blind Forest: Definitive Edition,2016,Action,Metroidvania,Moon Studios
-371,The Stanley Parable,2013,Action,Tactical Shooter,Galactic Cafe
-372,Counter-Strike: Condition Zero,2004,Action,Tactical Shooter,Valve Software
-373,Call of Duty: Modern Warfare 2,2009,Shooter,Tactical Shooter,Infinity Ward
-374,Insurgency,2014,Action,Tactical Shooter,New World Interactive
-375,Saints Row 2,2008,Action,Action Adventure,Volition
-376,Black Desert Online,2014,Action,Action Adventure,Pearl Abyss
-377,Kingdom Come: Deliverance,2018,Action,Tactical Shooter,Deep Silver
-378,Assassin's Creed 3,2012,Action,Action Stealth,Ubisoft Montreal
-379,Red Dead Redemption,2010,Action,Action Adventure,Rockstar North
-380,The Last of Us Part 2,2020,Action,Action Stealth,Naughty Dog
-381,Sid Meier's Civilization 6,2016,Action,Tactical Shooter,Aspyr Media
-382,Ori and the Blind Forest,2015,Action,Metroidvania,Moon Studios
-383,Amnesia: A Machine for Pigs,2013,Action,Tactical Shooter,The Chinese Room
-384,Total War: SHOGUN 2,2011,Action,Tactical Shooter,Feral Interactive
-385,Trine 2: Complete Story,2013,Action,Action Adventure,Frozenbyte
-386,SOMA,2015,Action,Tactical Shooter,Frictional Games
-387,Viscera Cleanup Detail: Shadow Warrior,2013,Action,Tactical Shooter,Unknown
-388,Watch Dogs 2,2016,Action,Action Stealth,Ubisoft Montreal
-389,Thief,2014,Action,Tactical Shooter,Feral Interactive
-390,The Last Of Us,2013,Action,Action Adventure,Naughty Dog
-391,This War of Mine,2014,Action,Action Stealth,11 Bit Studios
-392,Call of Juarez: Gunslinger,2013,Action,Tactical Shooter,Ubisoft
-393,Grand Theft Auto 3,2001,Action,Action Adventure,Unknown
-394,Dead Cells,2018,Action,Metroidvania,Plug In Digital
-395,Wolfenstein 2: The New Colossus,2017,Action,Tactical Shooter,Bethesda Softworks
-396,"Papers, Please",2013,Platformer,3D Platformer,Lucas Pope
-397,Call of Duty: Black Ops 3,2015,Action,Tactical Shooter,Raven Software
-398,Killing Floor,2009,Action,Tactical Shooter,Tripwire Interactive
-399,Divinity: Original Sin 2,2017,RPG,Action RPG,Larian Studios
-400,Shadowrun Returns,2013,RPG,Tactical Shooter,Harebrained Schemes
-401,Darksiders Warmastered Edition,2016,Action,Metroidvania,Vigil Games
-402,Magicka,2011,Action,Action RPG,Paradox Interactive
-403,Lara Croft and the Temple of Osiris,2014,Action,Action Adventure,Square Enix
-404,Quake Champions,2017,Action,Tactical Shooter,id Software
-405,A Plague Tale: Innocence,2019,Action,Action Stealth,Focus Home Interactive
-406,Subnautica,2018,Action,Tactical Shooter,Unknown Worlds Entertainment
-407,Dead Island,2011,Action,Action Adventure,Techland
-408,South Park: The Stick of Truth,2014,Action,Action Adventure,Obsidian Entertainment
-409,Fallout Shelter,2015,RPG,Action RPG,Bethesda Softworks
-410,Resident Evil 4 (2005),2005,Action,Survival Horror,Capcom
-411,Assassin's Creed Unity,2014,Action,Action Stealth,Ubisoft
-412,Darkest Dungeon,2016,RPG,Action RPG,Red Hook Studios
-413,FEZ,2012,Action,Metroidvania,POLYTRON
-414,Star Wars: Knights of the Old Republic,2003,Action,Action Adventure,Aspyr Media
-415,Half-Life: Blue Shift,2001,Action,Tactical Shooter,Gearbox Software
-416,Half-Life: Opposing Force,1999,Action,Tactical Shooter,Gearbox Software
-417,Dying Light: The Following: Enhanced Edition,2015,Action,Tactical Shooter,Techland
-418,Castle Crashers,2008,Action,Action RPG,The Behemoth
-419,DiRT Rally,2015,Sports,Tactical Shooter,Unknown
-420,Call of Duty: Black Ops,2010,Action,Tactical Shooter,Raven Software
-421,Dragon Age: Origins,2009,RPG,Tactical Shooter,BioWare
-422,Don't Starve,2013,Action,Survival Horror,Klei Entertainment
-423,Halo: The Master Chief Collection,2014,Action,Tactical Shooter,343 Industries
-424,The Binding of Isaac,2011,Action,Action Adventure,Edmund McMillen and Florian Himsl
-425,Chivalry: Medieval Warfare,2012,Action,Tactical Shooter,Activision
-426,DmC: Devil May Cry,2013,Action,Action Adventure,Ninja Theory
-427,Syberia,2002,Action,Action Adventure,Microids
-428,Quantum Break,2016,Action,Action Adventure,Remedy Entertainment
-429,Dead Space 2,2011,Action,Survival Horror,Electronic Arts
-430,Batman: Arkham City,2011,Action,Action Adventure,Rocksteady Studios
-431,Sleeping Dogs: Definitive Edition,2014,Action,Action Adventure,Feral Interactive
-432,Fallout 3,2008,Shooter,Tactical Shooter,Bethesda Game Studios
-433,Devil May Cry 5,2019,Action,Action Adventure,Capcom
-434,The Bureau: XCOM Declassified,2013,Action,Tactical Shooter,2K
-435,Rayman Legends,2013,Platformer,3D Platformer,Ubisoft
-436,Beyond: Two Souls,2013,Action,Action Adventure,Quantic Dream
-437,Yakuza 0,2015,Action,Action Adventure,SEGA
-438,Days Gone,2019,Action,Action Stealth,Bend Studio
-439,Guacamelee! Super Turbo Championship Edition,2014,Action,Metroidvania,DrinkBox Studios
-440,Mafia 3,2016,Action,Action Stealth,Aspyr Media
-441,Battlefield 4,2013,Shooter,Tactical Shooter,Electronic Arts
-442,SUPERHOT,2016,Action,Tactical Shooter,SUPERHOT Team
-443,What Remains of Edith Finch,2017,Action,Tactical Shooter,Annapurna Interactive
-444,The Sims 4,2014,Action,Action Adventure,Electronic Arts
-445,Torchlight 2,2012,Action,Action RPG,Runic Games
-446,Wallpaper Engine,2016,Action,Action Adventure,Unknown
-447,Goat Simulator,2014,Action,Action Adventure,Double Eleven
-448,Uncharted 3: Drake's Deception,2011,Action,Action Adventure,Naughty Dog
-449,Call of Duty: WWII,2017,Action,Tactical Shooter,Sledgehammer Games
-450,Ori and the Will of the Wisps,2020,Action,Metroidvania,Moon Studios
-451,Hotline Miami 2: Wrong Number,2015,Action,Action Adventure,Devolver Digital
-452,Resident Evil 6,2012,Action,Survival Horror,Capcom
-453,Homefront,2011,Shooter,Tactical Shooter,Digital Extremes
-454,Sniper Elite V2,2012,Action,Action Stealth,Rebellion
-455,The Legend of Zelda: Breath of the Wild,2017,Action,Action Adventure,Nintendo
-456,Resident Evil 2 (1998),1998,Action,Survival Horror,Capcom
-457,Grim Fandango Remastered,2015,Action,Action Adventure,Double Fine Productions
-458,Dragon Age: Inquisition,2014,Action,Action RPG,BioWare
-459,The Outer Worlds,2019,Action,Tactical Shooter,Obsidian Entertainment
-460,The Witness,2016,Action,Tactical Shooter,NVIDIA Lightspeed Studios
-461,Euro Truck Simulator 2,2012,Action,Tactical Shooter,SCS Software
-462,Call of Duty: Modern Warfare 3,2011,Action,Tactical Shooter,Aspyr Media
-463,Broforce,2015,Action,Action Adventure,Devolver Digital
-464,The Forest,2018,Action,Tactical Shooter,Endnight Games
-465,FTL: Faster Than Light,2012,Action,Action Adventure,Subset Games
-466,POSTAL 2,2003,Action,Tactical Shooter,Running With Scissors
-467,Forza Horizon 4,2018,Sports,Tactical Shooter,Playground Games
-468,Kingdom: Classic,2015,Action,Action Adventure,Noio
-469,The Walking Dead: Season 2,2013,Action,Action Adventure,Telltale Games
-470,Surviving Mars,2018,Action,Action Adventure,Haemimont Games
-471,Borderlands 3,2019,Action,Tactical Shooter,2K
-472,Dark Souls 2: Scholar of the First Sin,2015,Action,Action RPG,BANDAI NAMCO Entertainment America
-473,Deus Ex: Human Revolution,2011,Action,Action Stealth,Eidos Montreal
-474,Syberia 2,2004,Action,Action Adventure,Microids
-475,Sleeping Dogs,2012,Action,Action Adventure,United Front Games
-476,Celeste,2018,Platformer,3D Platformer,Unknown
-477,Bayonetta,2009,Action,Action Adventure,Unknown
-478,Alan Wake's American Nightmare,2012,Action,Survival Horror,Remedy Entertainment
-479,To the Moon,2011,Action,Action Adventure,X.D. Network
-480,Call of Duty: Black Ops 2,2012,Action,Tactical Shooter,Treyarch
-481,A Story About My Uncle,2014,Action,Tactical Shooter,Gone North Games
-482,Frostpunk,2018,Action,Action Adventure,11 Bit Studios
-483,SMITE,2015,Action,Action Adventure,Hi-Rez Studios
-484,Tom Clancy's The Division,2016,Action,Tactical Shooter,Ubisoft
-485,Borderlands Game of the Year Enhanced,2019,Action,Tactical Shooter,Gearbox Software
-486,Ghost of Tsushima,2020,Action,Action Adventure,Sucker Punch Productions
-487,Batman: Arkham Asylum,2009,Action,Action Stealth,Rocksteady Studios
-488,Team Fortress Classic,1999,Action,Tactical Shooter,Valve Software
-489,Black Mesa,2020,Action,Tactical Shooter,Crowbar Collective
-490,Metal Gear Rising: Revengeance,2013,Action,Action Stealth,Platinum Games
-491,"Warhammer 40,000: Space Marine",2011,Action,Action Adventure,Relic Entertainment
-492,PAYDAY The Heist,2011,Action,Tactical Shooter,OVERKILL Software
-493,Assassin's Creed Syndicate,2015,Action,Action Stealth,Ubisoft Montreal
-494,Ratchet & Clank,2016,Action,Action Adventure,Insomniac Games
-495,Dead by Daylight,2016,Action,Tactical Shooter,Behaviour Interactive
-496,inFAMOUS Second Son,2014,Action,Action Adventure,Sucker Punch Productions
-497,Age of Wonders 3,2014,RPG,Tactical Shooter,Triumph Studios
-498,Mafia: The City of Lost Heaven,2002,Action,Action Adventure,Illusion Softworks
-499,LEGO The Lord of the Rings,2012,Action,Action Adventure,Warner Bros. Interactive
-500,Half-Life: Source,2004,Action,Tactical Shooter,Valve Software
-501,Overcooked,2016,Action,Action Adventure,Team17 Digital
-502,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007,Action,Tactical Shooter,GSC Game World
-503,A Way Out,2018,Action,Action Stealth,Unknown
-504,Rust,2018,Action,Tactical Shooter,Facepunch Studios
-505,STAR WARS Battlefront 2,2017,Action,Tactical Shooter,Electronic Arts DICE
-506,Human: Fall Flat,2016,Action,Action Adventure,505 Games
-507,Max Payne,2001,Action,Action Adventure,Remedy Entertainment
-508,Deus Ex: Game of the Year Edition,2000,Action,Tactical Shooter,Ion Storm
-509,Until Dawn,2015,Action,Action Adventure,Supermassive Games
-510,Doki Doki Literature Club!,2017,Action,Action Adventure,Team Salvato
-511,Hitman: Blood Money,2006,Action,Tactical Shooter,Square Enix
-512,The Long Dark,2014,Action,Tactical Shooter,Hinterland Studio
-513,Dark Souls: Prepare To Die Edition,2012,Action,Action RPG,FromSoftware
-514,FINAL FANTASY XV,2016,RPG,Action RPG,Square Enix
-515,Company of Heroes,2006,Action,Tactical Shooter,Feral Interactive
-516,The Binding of Isaac: Rebirth,2014,Action,Action Adventure,Nicalis
-517,Oddworld: Abe's Oddysee,1997,Action,Action Adventure,Sony Interactive Entertainment
-518,Stray,2022,Action,Action Stealth,BlueTwelve
-519,Tropico 4,2011,Action,Action Adventure,Feral Interactive
-520,Mortal Kombat 11,2019,Action,Action Adventure,NetherRealm Studios
-521,Counter-Strike: Condition Zero Deleted Scenes,2004,Shooter,Tactical Shooter,Valve Software
-522,Titan Souls,2015,Action,Action Adventure,Devolver Digital
-523,Wolfenstein: The Old Blood,2015,Action,Tactical Shooter,Bethesda Softworks
-524,Divinity: Original Sin: Enhanced Edition,2015,RPG,Action RPG,Unknown
-525,Dark Souls: Remastered,2018,Action,Action RPG,FromSoftware
-526,Ryse: Son of Rome,2013,Action,Action Adventure,Crytek
-527,It Takes Two,2021,Action,Action RPG,Hazelight
-528,Darksiders 2 Deathinitive Edition,2015,Action,Action RPG,THQ Nordic
-529,The Evil Within,2014,Action,Action Stealth,Bethesda Softworks
-530,Fallout 2,1998,RPG,Action RPG,Black Isle Studios
-531,Star Wars: Knights of the Old Republic 2 – The Sith Lords,2004,Action,Action Adventure,Unknown
-532,Hacknet,2015,Action,Action Adventure,Team Fractal Alligator
-533,Beholder,2016,Action,Action Stealth,Alawar Entertainment
-534,Guns of Icarus Online,2012,Action,Tactical Shooter,Muse Games
-535,Sea of Thieves,2018,Action,Tactical Shooter,Rare
-536,Dear Esther: Landmark Edition,2017,Action,Tactical Shooter,The Chinese Room
-537,Prison Architect,2015,Action,Action Adventure,Double Eleven
-538,Resident Evil 2,2019,Action,Survival Horror,Capcom
-539,Sid Meier's Civilization 3 Complete,2001,Action,Action Adventure,Firaxis
-540,Assassin's Creed,2007,Action,Action Stealth,Ubisoft
-541,Fallout 3: Game of the Year Edition,2009,Action,Tactical Shooter,Bethesda Game Studios
-542,Minion Masters,2019,Action,Action Adventure,BetaDwarf
-543,Murdered: Soul Suspect,2014,Action,Action Stealth,Square Enix
-544,Jotun: Valhalla Edition,2015,Action,Action Adventure,Thunder Lotus
-545,LEGO The Hobbit,2014,Action,Action Adventure,Feral Interactive
-546,Assassin's Creed Brotherhood,2010,Action,Action Stealth,Ubisoft Montreal
-547,F.E.A.R.,2005,Action,Tactical Shooter,Monolith Productions
-548,Starbound,2016,Action,Action Adventure,Chucklefish
-549,Braid,2008,Action,Action Adventure,Hothead Games
-550,Resident Evil,1996,Action,Action Adventure,Capcom
-551,Killing Floor 2,2016,Action,Tactical Shooter,Tripwire Interactive
-552,Trine Enchanted Edition,2009,Action,Action Adventure,Unknown
-553,Sanctum 2,2013,Action,Tactical Shooter,Coffee Stain Studios
-554,Serious Sam Fusion 2017 (beta),2017,Action,Tactical Shooter,Croteam
-555,Enter the Gungeon,2016,Action,Action Adventure,Dodge Roll
-556,GRID (2008),2008,Sports,Sports Sim,Codemasters
-557,Resident Evil Revelations 2,2015,Action,Action RPG,Capcom
-558,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011,Action,Tactical Shooter,Unknown
-559,Neverwinter,2013,Action,Action RPG,Cryptic Studios
-560,Far Cry 3: Blood Dragon,2013,Shooter,Tactical Shooter,Ubisoft
-561,Resident Evil 3,2020,Action,Survival Horror,Capcom
-562,Mafia: Definitive Edition,2020,Action,Action Adventure,Hangar 13
-563,Fortnite Battle Royale,2017,Action,Action Adventure,Epic Games
-564,The Elder Scrolls Online: Tamriel Unlimited,2015,Action,Tactical Shooter,Bethesda Softworks
-565,Lords of the Fallen (2014),2014,Action,Tactical Shooter,City Interactive
-566,Serious Sam 3: BFE,2011,Action,Tactical Shooter,Devolver Digital
-567,Darksiders 2,2012,Action,Action Adventure,THQ Nordic
-568,Endless Space: Collection,2012,Action,Action Adventure,Amplitude Studios
-569,Mafia 2: Definitive Edition,2020,Action,Action Adventure,Hangar 13
-570,Jet Set Radio,2000,Action,Action Adventure,SEGA
-571,Mark of the Ninja,2012,Action,Action Stealth,Klei Entertainment
-572,Slay the Spire,2019,RPG,Action RPG,Humble Bundle
-573,BattleBlock Theater,2013,Action,Action Adventure,The Behemoth
-574,Drawful 2,2016,Action,Action Adventure,Jackbox Games
-575,Game of Thrones: A Telltale Games Series,2014,Action,Action Adventure,Telltale Games
-576,Final Fantasy 7,2020,Action,Action Adventure,Square Enix
-577,Orwell: Keeping an Eye On You,2016,Action,Action Adventure,Osmotic Studios
-578,Deep Rock Galactic,2020,Action,Action Adventure,Ghost Ship Games
-579,Vampire Survivors,2022,Action,Action RPG,poncle
-580,Remember Me,2013,Action,Tactical Shooter,Capcom U.S.A
-581,Dragon's Dogma: Dark Arisen,2013,Action,Action RPG,Capcom
-582,Far Cry 2,2008,Action,Tactical Shooter,Ubisoft
-583,Resident Evil: Village,2021,Action,Tactical Shooter,Capcom
-584,Stellaris,2016,Action,Action Adventure,Unknown
-585,ABZU,2016,Action,Action Adventure,Giant Squid
-586,Oxenfree,2016,Action,Action Adventure,Night School Studio
-587,Child of Light,2014,RPG,Metroidvania,Ubisoft
-588,Tales from the Borderlands: A Telltale Game Series,2015,Action,Action Adventure,Telltale Games
-589,Broken Age,2014,Action,Action Adventure,Double Fine Productions
-590,F.E.A.R. 3,2011,Action,Tactical Shooter,Warner Bros. Interactive
-591,VRChat,2017,Action,Action Adventure,VRChat
-592,The Playroom,2013,Action,Action Adventure,SCE Japan Studio
-593,F.E.A.R. 2: Project Origin,2009,Action,Tactical Shooter,Warner Bros. Interactive
-594,PlanetSide 2,2012,Action,Tactical Shooter,Daybreak Games Company
-595,Destiny,2014,Action,Tactical Shooter,Bungie
-596,Dying Light,2015,Action,Action Adventure,Techland
-597,Gwent: The Witcher Card Game,2018,RPG,Action RPG,CD PROJEKT RED
-598,Sonic Mania,2017,Action,Action Adventure,SEGA
-599,The Elder Scrolls 3: Morrowind,2002,Action,Tactical Shooter,Bethesda Game Studios
-600,Monaco: What's Yours Is Mine,2013,Action,Action Stealth,Pocketwatch Games
-601,Lara Croft and the Guardian of Light,2010,Action,Action Adventure,Square Enix
-602,The Talos Principle,2014,Action,Tactical Shooter,Devolver Digital
-603,Battlefield 3,2011,Action,Tactical Shooter,Electronic Arts DICE
-604,Gris,2018,Action,Action Adventure,Nomada Studio
-605,Vampyr,2018,Action,Action Adventure,DONTNOD Entertainment
-606,Outer Wilds,2019,Action,Action Adventure,Mobius Digital
-607,The Flame in the Flood,2016,Action,Action Adventure,The Molasses Flood
-608,Battlefield V,2018,Action,Tactical Shooter,Electronic Arts
-609,Valheim,2026,Action,Action Adventure,Dvoid
-610,STAR WARS Battlefront,2015,Action,Tactical Shooter,Unknown
-611,Uncharted: Legacy of Thieves Collection,2022,Action,Action Stealth,Naughty Dog
-612,Divinity: Original Sin,2014,RPG,Action RPG,Larian Studios
-613,Tomb Raider: Underworld,2008,Action,Action Adventure,Feral Interactive
-614,Spelunky,2012,Platformer,3D Platformer,Mossmouth
-615,Assassin's Creed Revelations,2011,Action,Action Stealth,Ubisoft
-616,Max Payne 2: The Fall of Max Payne,2003,Action,Action Adventure,Remedy Entertainment
-617,Deponia,2012,Action,Action Adventure,Daedalic Entertainment
-618,Heroes & Generals,2016,Action,Tactical Shooter,Reto-Moto
-619,Rogue Legacy,2013,Action,Metroidvania,Abstraction Games
-620,Overlord,2007,Action,Action RPG,Triumph Studios
-621,Killer is Dead: Nightmare Edition,2014,Action,Action Adventure,Grasshopper Manufacture
-622,Crysis 2: Maximum Edition,2011,Action,Tactical Shooter,Crytek
-623,Star Wars: Battlefront 2 (2005),2005,Action,Tactical Shooter,Electronic Arts
-624,Crash Bandicoot N. Sane Trilogy,2017,Action,Action Adventure,Activision
-625,Tabletop Simulator,2015,RPG,Action RPG,Berserk Games
-626,Gothic Playable Teaser,2019,RPG,Action RPG,THQ Nordic
-627,Burnout Paradise: The Ultimate Box,2009,Sports,Sports Sim,Criterion Games
-628,Dust: An Elysian Tail,2012,Action,Action RPG,Humble Hearts
-629,DiRT Showdown,2012,Sports,Sports Sim,Codemasters
-630,Persona 5,2016,Action,Action Adventure,Atlus
-631,Sniper Elite 4,2017,Action,Action Stealth,Rebellion
-632,Baldur's Gate 3,2023,Action,Action Adventure,Larian Studios
-633,Life is Strange 2,2018,Action,Action Adventure,DONTNOD Entertainment
-634,Machinarium,2009,Action,Action Adventure,Amanita Design
-635,Day of Defeat: Source,2005,Action,Tactical Shooter,Valve Software
-636,Medal of Honor,2010,Shooter,Tactical Shooter,Electronic Arts DICE
-637,Valiant Hearts: The Great War,2014,Action,Action Adventure,Ubisoft Montpellier
-638,Crysis,2007,Action,Tactical Shooter,Electronic Arts
-639,Forza Horizon 5,2021,Sports,Tactical Shooter,Playground Games
-640,Yakuza Kiwami,2016,Action,Action Adventure,Ryu ga Gotoku Studio
-641,S.T.A.L.K.E.R.: Call of Pripyat,2009,Shooter,Tactical Shooter,GSC Game World
-642,Marvel's Guardians of the Galaxy,2021,Action,Action Adventure,Eidos Montreal
-643,Pillars of Eternity,2015,RPG,Action RPG,Unknown
-644,The LEGO NINJAGO Movie Video Game,2017,Action,Action Adventure,Warner Bros. Interactive
-645,Red Faction: Guerrilla,2009,Action,Action Adventure,THQ Nordic
-646,Mass Effect 3,2012,Action,Action Adventure,BioWare
-647,S.T.A.L.K.E.R.: Clear Sky,2008,Shooter,Tactical Shooter,GSC Game World
-648,The Swapper,2013,Action,Metroidvania,Curve Digital
-649,The Elder Scrolls 4: Oblivion Game of the Year Edition,2009,RPG,Tactical Shooter,Bethesda Game Studios
-650,Binary Domain,2012,Action,Action Adventure,SEGA
-651,Hitman 2: Silent Assassin,2002,Action,Tactical Shooter,Square Enix
-652,Shadow Tactics: Blades of the Shogun,2016,Action,Action Stealth,Daedalic Entertainment
-653,Call of Duty: World at War,2008,Shooter,Tactical Shooter,Treyarch
-654,Call of Duty: Modern Warfare Remastered,2016,Action,Tactical Shooter,Raven Software
-655,Rage,2011,Action,Tactical Shooter,Aspyr Media
-656,The Awesome Adventures of Captain Spirit,2018,Action,Action Adventure,DONTNOD Entertainment
-657,Injustice 2,2017,Action,Action Adventure,Warner Bros. Interactive
-658,Sins of a Solar Empire: Rebellion,2012,Action,Action Adventure,Stardock Entertainment
-659,World of Goo,2008,Action,Action Adventure,2D BOY
-660,Shadow of the Colossus (2011),2011,Action,Action Adventure,Sony Interactive Entertainment
-661,Day of Defeat,2003,Action,Tactical Shooter,Valve Software
-662,Magicka 2,2015,Action,Action Adventure,Paradox Interactive
-663,Call of Duty 4: Modern Warfare,2007,Action,Tactical Shooter,Raven Software
-664,Deathloop,2021,Action,Tactical Shooter,Arkane Studios
-665,Tell Me Why,2020,Action,Action Adventure,DONTNOD Entertainment
-666,Assassin's Creed Valhalla,2020,Action,Action Stealth,Unknown
-667,Outlast 2,2017,Action,Tactical Shooter,Red Barrels
-668,Bully: Scholarship Edition,2008,Action,Tactical Shooter,Unknown
-669,Tomb Raider: Legend,2006,Action,Action Adventure,Crystal Dynamics
-670,Shadow Warrior,1997,Action,Tactical Shooter,Devolver Digital
-671,Gears 5,2019,Action,Action Adventure,The Coalition
-672,Resident Evil Revelations,2012,Action,Survival Horror,Capcom
-673,Street Fighter V,2016,Action,Action Adventure,Capcom
-674,Ricochet,2000,Action,Tactical Shooter,Valve Software
-675,Deponia: The Complete Journey,2014,Action,Action Adventure,Daedalic Entertainment
-676,Overcooked! 2,2018,Action,Action Adventure,Team17 Digital
-677,Robocraft,2014,Action,Action Adventure,Freejam
-678,The Evil Within 2,2017,Action,Survival Horror,Bethesda Softworks
-679,Trove,2015,Action,Action Adventure,Trion Worlds
-680,Deathmatch Classic,2001,Action,Tactical Shooter,Valve Software
-681,Life is Strange: Before The Storm,2017,Action,Action Adventure,Square Enix
-682,Red Faction: Armageddon,2011,Action,Action Adventure,Volition
-683,Sunset Overdrive,2014,Action,Action Adventure,Insomniac Games
-684,Satellite Reign,2015,Action,Action Stealth,5 Lives Studios
-685,Ghostrunner,2020,Action,Tactical Shooter,3D Realms
-686,Tomb Raider: Anniversary,2007,Action,Action Adventure,Feral Interactive
-687,Torchlight,2009,Action,Action RPG,Runic Games
-688,Star Wars Jedi Knight: Jedi Academy,2003,Action,Tactical Shooter,Aspyr Media
-689,Marvel's Spider-Man: Miles Morales,2020,Action,Action Stealth,Insomniac Games
-690,Gone Home,2013,Action,Tactical Shooter,The Fullbright Company
-691,System Shock 2,1999,Action,Tactical Shooter,Irrational Games
-692,Final Fantasy 7 (1997),1997,Action,Action Adventure,Unknown
-693,Metro: Last Light,2013,Action,Action Adventure,Unknown
-694,Orcs Must Die! 2,2012,Action,Action Adventure,Robot Entertainment
-695,Katana ZERO,2019,Action,Action Adventure,Askiisoft
-696,Shadowrun: Dragonfall: Director's Cut,2014,Action,Tactical Shooter,Harebrained Schemes
-697,Awesomenauts,2012,Action,Action Adventure,Ronimo Games
-698,ARMA: Cold War Assault,2001,Action,Tactical Shooter,Bohemia Interactive
-699,7 Days to Die,2013,Shooter,Survival Horror,Telltale Games
-700,Kerbal Space Program,2015,Action,Action Adventure,Squad
+1,Vampire: The Masquerade – Bloodlines 2,2025,Action,Action Adventure,Hardsuit Labs
+2,Hollow Knight: Silksong,2025,Platformer,3D Platformer,Team Cherry
+3,Clair Obscur: Expedition 33,2025,RPG,Action RPG,Sundial Interactive
+4,Hades 2,2025,Action,Action Adventure,Supergiant Games
+5,Split Fiction,2025,Action,Action Adventure,Hazelight
+6,Kingdom Come: Deliverance 2,2025,Action,Action Adventure,Warhorse Studios
+7,Death Stranding 2: On The Beach,2025,Action,Action Adventure,Kojima Productions
+8,Tiny Bunny,2025,Action,Action Adventure,RUzura Interactive
+9,The Wolf Among Us 2,2025,Action,Action Adventure,Telltale Games
+10,Dispatch,2025,Action,Action Adventure,AdHoc Studio
+11,Avowed,2025,RPG,Action RPG,Obsidian Entertainment
+12,Doom: The Dark Ages,2025,Action,Action Adventure,id Software
+13,Assassin's Creed Shadows,2025,Action,Action Adventure,Ubisoft
+14,Mafia: The Old Country,2025,Action,Action Adventure,Hangar 13
+15,The Alters,2025,Action,Action Adventure,11 Bit Studios
+16,Slime Rancher 2,2025,Action,Action Adventure,Monomi Park
+17,Ghost of Yotei,2025,Action,Action Adventure,Sucker Punch Productions
+18,The Elder Scrolls 4: Oblivion Remastered,2025,Action,Action Adventure,Bethesda Game Studios
+19,The Outer Worlds 2,2025,Shooter,Tactical Shooter,Obsidian Entertainment
+20,Silent Hill f,2025,Action,Action Adventure,NeoBards Entertainment
+21,Necesse,2025,Action,Action Adventure,Mads Skovgaard
+22,Metal Gear Solid Delta: Snake Eater,2025,Action,Action Adventure,Virtuos Games
+23,Escape from Tarkov,2025,Shooter,Tactical Shooter,Battle State games
+24,Tainted Grail: The Fall of Avalon,2025,Action,Action Adventure,Awaken Realms Digital
+25,ARC Raiders,2025,Action,Action Adventure,Embark Studios
+26,Escape the Backrooms,2025,Action,Action Adventure,Fancy Games
+27,Star Citizen,2025,Shooter,Tactical Shooter,Behaviour Interactive
+28,Monster Hunter Wilds,2025,Action,Action Adventure,Capcom
+29,Peekaboo,2025,Action,Action Adventure,Redaster Studio
+30,The Wandering Village,2025,Action,Action Adventure,Stray Fawn Studio
+31,Little Nightmares 3,2025,Platformer,3D Platformer,Supermassive Games
+32,Blue Prince,2025,Action,Action Adventure,Dogubomb
+33,South of Midnight,2025,Action,Action Adventure,Compulsion Games
+34,Battlefield 6,2025,Shooter,Tactical Shooter,Battlefield Studios
+35,Cronos: The New Dawn,2025,Action,Action Adventure,Bloober Team
+36,Hell is Us,2025,Action,Action Adventure,Rogue Factor
+37,MetaMorph,2025,Action,Action Adventure,FireFly Studios
+38,Dying Light: The Beast,2025,Shooter,Tactical Shooter,Techland
+39,Rhythm Doctor,2025,Action,Action Adventure,7th Beat Games
+40,The First Berserker: Khazan,2025,Action,Action Adventure,Neople
+41,Voidtrain,2025,Action,Action Adventure,Nearga
+42,Borderlands 4,2025,Action,Action Adventure,Gearbox Software
+43,Atomfall,2025,Action,Action Adventure,Rebellion
+44,Wuchang: Fallen Feathers,2025,Action,Action Adventure,Leenzee Games
+45,Little Witch in the Woods,2025,Action,Action Adventure,SUNNY SIDE UP
+46,Where Winds Meet,2025,Action,Action Adventure,Everstone Games
+47,Atomic Heart: Annihilation Instinct,2025,Shooter,Tactical Shooter,Unknown
+48,Abiotic Factor,2025,Shooter,Tactical Shooter,Deep Field Games
+49,S.T.A.L.K.E.R.: Shadow of Chornobyl: Enhanced Edition,2025,Action,Action Adventure,GSC Game World
+50,Elden Ring Nightreign,2025,Action,Action Adventure,FromSoftware
+51,Lost Records: Bloom & Rage,2025,Action,Action Adventure,DONTNOD Entertainment
+52,DRAGON BALL: Sparking! ZERO,2025,Action,Action Adventure,Spike Chunsoft
+53,The Rogue Prince of Persia,2025,Action,Action Adventure,Evil Empire
+54,Ninja Gaiden 4,2025,Action,Action Adventure,Platinum Games
+55,FragPunk,2025,Action,Action Adventure,Bad Guitar Studio
+56,Lies of P: Overture,2025,Action,Action Adventure,Round8 Studio
+57,Sword of the Sea,2025,Action,Action Adventure,Giant Squid
+58,Ninja Gaiden 2 Black,2025,Action,Action Adventure,KOEI TECMO GAMES CO
+59,Schedule I,2025,Action,Action Adventure,TVGS
+60,S.T.A.L.K.E.R.: Call of Prypiat: Enhanced Edition,2025,Action,Action Adventure,GSC Game World
+61,Dune: Awakening,2025,Action,Action Adventure,Funcom
+62,Like a Dragon: Pirate Yakuza in Hawaii,2025,Action,Action Adventure,Ryu ga Gotoku Studio
+63,S.T.A.L.K.E.R.: Clear Sky: Enhanced Edition,2025,Action,Action Adventure,GSC Game World
+64,Marvel's Spider-Man 2 PC Port,2025,Action,Action Adventure,Insomniac Games
+65,No I'm not a Human,2025,Action,Action Adventure,Trioskaz
+66,Ball x Pit,2025,Action,Action Adventure,Kenny Sun
+67,Absolum,2025,Action,Action Adventure,DotEmu
+68,Megabonk,2025,Action,Action Adventure,vedinad
+69,Satisfactory,2024,Action,Action Adventure,Coffee Stain Studios
+70,S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024,Shooter,Tactical Shooter,GSC Game World
+71,V Rising,2024,Action,Action Adventure,Stunlock Studios
+72,Senua's Saga: Hellblade 2,2024,Action,Action Adventure,Ninja Theory
+73,Black Myth: Wukong,2024,Action,Action Adventure,Game Science
+74,Synergy,2024,Action,Action Adventure,Leikir Studio
+75,Marvel Rivals,2024,Action,Action Adventure,NetEase Games
+76,Balatro,2024,Action,Action Adventure,LocalThunk
+77,Silent Hill 2,2024,Action,Action Adventure,Bloober Team
+78,HELLDIVERS 2,2024,Action,Action Adventure,Arrowhead Game Studios
+79,Core Keeper,2024,Action,Action Adventure,Pugstorm
+80,Content Warning,2024,Action,Action Adventure,Philip
+81,Palworld,2024,Action,Action Adventure,Pocketpair
+82,Dragon's Dogma 2,2024,Action,Action Adventure,Capcom
+83,Songs of Conquest,2024,Action,Action Adventure,Lavapotion
+84,Indiana Jones and the Great Circle,2024,Shooter,Tactical Shooter,Machine Games
+85,Sons of the Forest,2024,Action,Action Adventure,Endnight Games
+86,Symphonia,2024,Action,Action Adventure,ISART DIGITAL
+87,"Warhammer 40,000: Space Marine 2",2024,Action,Action Adventure,Saber Interactive
+88,Prince of Persia: The Lost Crown,2024,Platformer,3D Platformer,Unknown
+89,Once Human,2024,Action,Action Adventure,Starry Studio
+90,Last Epoch,2024,Action,Action Adventure,Eleventh Hour Games
+91,Stellar Blade,2024,Action,Action Adventure,SHIFT UP
+92,Blade and Sorcery,2024,Action,Action Adventure,WarpFrog
+93,The First Descendant,2024,Action,Action Adventure,Nexon
+94,Pacific Drive,2024,Sports,Sports Sim,Ironwood Studio
+95,Final Fantasy 7 Rebirth,2024,Action,Action Adventure,Square Enix
+96,Dark and Darker,2024,Action,Action Adventure,IRONMACE
+97,Persona 3 Reload,2024,Action,Action Adventure,Atlus
+98,Portal: Revolution,2024,Action,Action Adventure,Unknown
+99,Banishers: Ghosts of New Eden,2024,Action,Action Adventure,DON'T NOD
+100,Buckshot Roulette,2024,Action,Action Adventure,Mike Klubnika
+101,Suicide Squad: Kill The Justice League,2024,Action,Action Adventure,Rocksteady Studios
+102,Indika,2024,Action,Action Adventure,Odd Meter
+103,Metaphor: ReFantazio,2024,Action,Action Adventure,Atlus
+104,Shadows of Doubt,2024,Action,Action Adventure,ColePowered Games
+105,Frostpunk 2,2024,Action,Action Adventure,11 Bit Studios
+106,The Last of Us Part 2 Remastered,2024,Action,Action Adventure,Naughty Dog
+107,Alone in the Dark,2024,Action,Action Adventure,Pieces Interactive
+108,Elden Ring: Shadow of the Erdtree,2024,Action,Action Adventure,FromSoftware
+109,Animal Well,2024,Action,Action Adventure,Shared Memory
+110,SLAPSHOT Rebound,2024,Sports,Sports Sim,Oddshot Games
+111,Nine Sols,2024,Platformer,3D Platformer,RedCandleGames
+112,Tekken 8,2024,Action,Action Adventure,Bandai Namco Entertainment
+113,Star Wars Outlaws,2024,Action,Action Adventure,Ubisoft Toronto
+114,Witchfire,2024,Shooter,Tactical Shooter,The Astronauts
+115,Tomb Raider I•2•3 Remastered,2024,Action,Action Adventure,Aspyr Media
+116,Astro Bot,2024,Platformer,3D Platformer,ASOBI
+117,The Universim,2024,Action,Action Adventure,Crytivo Games
+118,Nobody Wants to Die,2024,Action,Action Adventure,Critical Hit Games
+119,Manor Lords,2024,Action,Action Adventure,Slavic Magic
+120,Islands of Insight,2024,Action,Action Adventure,Lunarch Studios
+121,Deep Rock Galactic: Survivor,2024,Platformer,3D Platformer,Funday Games
+122,MiSide,2024,Action,Action Adventure,AIHASTO
+123,Shin Megami Tensei V: Vengeance,2024,Action,Action Adventure,Atlus
+124,Call of Duty: Black Ops 6,2024,Shooter,Tactical Shooter,Raven Software
+125,Banana,2024,Action,Action Adventure,aaladin66
+126,The Plucky Squire,2024,Action,Action Adventure,All Possible Futures
+127,Supermarket Together,2024,Action,Action Adventure,DeadDevsTellNoLies
+128,The Thaumaturge,2024,Action,Action Adventure,Fool's Theory
+129,Black Myth: Wu Kong,2024,Action,Action Adventure,Game Science
+130,Still Wakes the Deep,2024,Action,Action Adventure,The Chinese Room
+131,Dragon Age: The Veilguard,2024,RPG,Action RPG,BioWare
+132,The Outlast Trials,2024,Action,Action Adventure,Red Barrels
+133,Like a Dragon: Infinite Wealth,2024,Action,Action Adventure,Ryu ga Gotoku Studio
+134,ANOMALOUS COFFEE MACHINE,2024,Action,Action Adventure,HoruBrain Interactive
+135,Skull & Bones,2024,Action,Action Adventure,Ubisoft Singapore
+136,Rise of the Ronin,2024,Action,Action Adventure,Team NINJA
+137,Baldur's Gate 3,2023,Action,Action Adventure,Larian Studios
+138,Hogwarts Legacy,2023,Action,Action Adventure,Avalanche Software
+139,Resident Evil 4,2023,Action,Action Adventure,Capcom
+140,Atomic Heart,2023,Shooter,Tactical Shooter,Mundfish
+141,Barotrauma,2023,Action,Action Adventure,FakeFish
+142,Starfield,2023,Action,Action Adventure,Bethesda Game Studios
+143,Dead Space,2023,Action,Action Adventure,Motive Studios
+144,The Legend of Zelda: Tears of the Kingdom,2023,Action,Action Adventure,Nintendo
+145,Alan Wake 2,2023,Action,Action Adventure,Remedy Entertainment
+146,Hi-Fi Rush,2023,Action,Action Adventure,Tango Gameworks
+147,The Finals,2023,Shooter,Tactical Shooter,Embark Studios
+148,Marvel's Spider-Man 2,2023,Action,Action Adventure,Insomniac Games
+149,Star Wars Jedi: Survivor,2023,Action,Action Adventure,Respawn Entertainment
+150,Diablo 4,2023,Action,Action Adventure,Activision Blizzard
+151,Lies Of P,2023,Action,Action Adventure,Round8 Studio
+152,Cyberpunk 2077: Phantom Liberty,2023,Shooter,Tactical Shooter,CD PROJEKT RED
+153,Ready or Not,2023,Shooter,Tactical Shooter,VOID Interactive
+154,Dredge,2023,Action,Action Adventure,Black Salt Games
+155,System Shock,2023,Shooter,Tactical Shooter,Nightdive Studios
+156,Black Survival: Eternal Return,2023,Action,Action Adventure,O'olBlue
+157,Dave the Diver,2023,Action,Action Adventure,MINTROCKET
+158,Lethal Company,2023,Action,Action Adventure,Zeekerss
+159,Dead Island 2,2023,Action,Action Adventure,Dambuster Studios
+160,Final Fantasy XVI,2023,Action,Action Adventure,Square Enix
+161,Assassin's Creed Mirage,2023,Action,Action Adventure,Ubisoft
+162,We Were Here Expeditions: The FriendShip,2023,Action,Action Adventure,Total Mayhem Games
+163,Forspoken,2023,Action,Action Adventure,Luminous Productions
+164,20 Minutes Till Dawn,2023,Action,Action Adventure,flanne
+165,Sea of Stars,2023,RPG,Action RPG,Sabotage Studio
+166,The Murder of Sonic the Hedgehog,2023,Platformer,3D Platformer,SEGA
+167,Planet of Lana,2023,Action,Action Adventure,Wishfully
+168,Fortnite Looping,2023,Shooter,Tactical Shooter,Germans Projects
+169,RoboCop: Rogue City,2023,Action,Action Adventure,Teyon
+170,Cocoon,2023,Action,Action Adventure,Geometric Interactive
+171,World of Horror,2023,RPG,Action RPG,panstasz
+172,Ghostrunner 2,2023,Action,Action Adventure,One More Level
+173,The Invincible,2023,Action,Action Adventure,Starward Industries
+174,Wo Long: Fallen Dynasty,2023,Action,Action Adventure,Team NINJA
+175,Armored Core 6: Fires of Rubicon,2023,Action,Action Adventure,FromSoftware
+176,Have a Nice Death,2023,Platformer,3D Platformer,Magic Design Studios
+177,Super Mario Bros. Wonder,2023,Action,Action Adventure,Nintendo
+178,Disney Dreamlight Valley,2023,Action,Action Adventure,Gameloft
+179,Blasphemous 2,2023,Platformer,3D Platformer,The Game Kitchen
+180,Jusant,2023,Action,Action Adventure,DONTNOD Entertainment
+181,Against the Storm,2023,Action,Action Adventure,Eremite Games
+182,Counter-Strike 2,2023,Shooter,Tactical Shooter,Valve Software
+183,Wartales,2023,Action,Action Adventure,Shiro Games
+184,The Outer Worlds: Spacer's Choice Edition,2023,Shooter,Tactical Shooter,Obsidian Entertainment
+185,Stray Gods: The Roleplaying Musical,2023,Action,Action Adventure,Summerfall Studios
+186,Mortal Kombat 1,2023,Action,Action Adventure,NetherRealm Studios
+187,Everspace 2,2023,Action,Action Adventure,ROCKFISH Games
+188,Street Fighter 6,2023,Action,Action Adventure,Capcom
+189,Oxenfree 2: Lost Signals,2023,Action,Action Adventure,Netflix
+190,Viewfinder,2023,Action,Action Adventure,Sad Owl Studios
+191,Dune: Spice Wars,2023,Action,Action Adventure,Shiro Games
+192,KartRider: Drift,2023,Sports,Sports Sim,NEXON KOREA
+193,Amnesia: The Bunker,2023,Action,Action Adventure,Frictional Games
+194,En Garde!,2023,Action,Action Adventure,Supinfogame Graduation Projects
+195,Chants of Sennaar,2023,Action,Action Adventure,Rundisc
+196,The Talos Principle 2,2023,Action,Action Adventure,Croteam
+197,9 Years of Shadows,2023,Action,Action Adventure,Halberd Studios
+198,The Last Spell,2023,Action,Action Adventure,CCCP
+199,Remnant 2,2023,Action,Action Adventure,Gunfire Games
+200,Lords of the Fallen,2023,Action,Action Adventure,City Interactive
+201,Farlight 84,2023,Action,Action Adventure,Farlight Games
+202,Avatar: Frontiers of Pandora,2023,Action,Action Adventure,Massive Entertainment
+203,Bramble: The Mountain King,2023,Action,Action Adventure,Dimfrost
+204,Dread Templar,2023,Shooter,Tactical Shooter,T19 Games
+205,Elden Ring,2022,Action,Action Adventure,FromSoftware
+206,Stray,2022,Action,Action Adventure,BlueTwelve
+207,Vampire Survivors,2022,Action,Action Adventure,poncle
+208,Uncharted: Legacy of Thieves Collection,2022,Action,Action Adventure,Naughty Dog
+209,Lost Ark,2022,RPG,Action RPG,Smilegate Entertainment
+210,MultiVersus,2022,Action,Action Adventure,Player First Games
+211,Dying Light 2 Stay Human,2022,Action,Action Adventure,Techland
+212,Raft,2022,Action,Action Adventure,Redbeet Interactive
+213,Aperture Desk Job,2022,Action,Action Adventure,Valve Software
+214,Horizon Forbidden West,2022,Action,Action Adventure,Guerrilla Games
+215,Teenage Mutant Ninja Turtles: Shredder's Revenge,2022,Action,Action Adventure,Tribute Games
+216,God of War: Ragnarök,2022,Action,Action Adventure,SCE Santa Monica Studio
+217,A Plague Tale: Requiem,2022,Action,Action Adventure,Asobo Studio
+218,Tunic,2022,Action,Action Adventure,ISOMETRICORP Games
+219,Cult of the Lamb,2022,Action,Action Adventure,Massive Monster
+220,Overwatch 2,2022,Shooter,Tactical Shooter,Activision Blizzard
+221,High on Life,2022,Shooter,Tactical Shooter,Squanch Games
+222,Lego Star Wars: The Skywalker Saga,2022,Platformer,3D Platformer,TT Games
+223,Ghostwire: Tokyo,2022,Action,Action Adventure,Tango Gameworks
+224,The Stanley Parable: Ultra Deluxe,2022,Action,Action Adventure,Crows Crows Crows
+225,Grounded,2022,Action,Action Adventure,Obsidian Entertainment
+226,Portal with RTX,2022,Action,Action Adventure,Lightspeed Studios™
+227,Mount & Blade 2: Bannerlord,2022,Action,Action Adventure,TaleWorlds Entertainment
+228,The Last of Us Part I,2022,Shooter,Tactical Shooter,Naughty Dog
+229,The Quarry,2022,Action,Action Adventure,Supermassive Games
+230,Sifu,2022,Action,Action Adventure,Sloclap
+231,Scorn,2022,Action,Action Adventure,Ebb Software
+232,Yu-Gi-Oh! Master Duel,2022,Action,Action Adventure,Konami Digital Entertainment
+233,Resident Evil Re:Verse,2022,Shooter,Tactical Shooter,Capcom
+234,The Callisto Protocol,2022,Action,Action Adventure,Striking Distance Studios
+235,Metal: Hellsinger,2022,Shooter,Tactical Shooter,The Outsiders
+236,PowerWash Simulator,2022,Action,Action Adventure,FuturLab
+237,Not For Broadcast,2022,Action,Action Adventure,NotGames
+238,Call of Duty: Modern Warfare 2,2022,Shooter,Tactical Shooter,Raven Software
+239,Teardown,2022,Action,Action Adventure,Tuxedo Labs
+240,Neon White,2022,Shooter,Tactical Shooter,Ben Esposito
+241,Potion Craft: Alchemist Simulator,2022,Action,Action Adventure,niceplay games
+242,Dorfromantik,2022,Platformer,3D Platformer,Toukana Interactive
+243,Marvel Snap,2022,Action,Action Adventure,Nuverse
+244,Weird West,2022,Action,Action Adventure,WolfEye Studios
+245,Trek to Yomi,2022,Platformer,3D Platformer,Flying Wild Hog
+246,Tiny Tina's Wonderlands,2022,Shooter,Tactical Shooter,Gearbox Software
+247,Knightfall: A Daring Journey,2022,Sports,Sports Sim,Landfall
+248,Signalis,2022,Action,Action Adventure,rose-engine
+249,Nobody Saves the World,2022,Action,Action Adventure,DrinkBox Studios
+250,Sniper Elite 5,2022,Shooter,Tactical Shooter,Rebellion
+251,Rogue Legacy 2,2022,Action,Action Adventure,Cellar Door Games
+252,Midnight Fight Express,2022,Action,Action Adventure,Jacob Dzwinel
+253,Gotham Knights,2022,Action,Action Adventure,Warner Bros. Interactive
+254,Brotato,2022,Action,Action Adventure,Blobfish
+255,"Warhammer 40,000: Darktide",2022,Sports,Sports Sim,Fatshark
+256,Need for Speed Unbound,2022,Sports,Sports Sim,Criterion Games
+257,Forgive Me Father,2022,Shooter,Tactical Shooter,Byte Barrel
+258,As Dusk Falls,2022,Action,Action Adventure,INT./NIGHT
+259,Marvel's Midnight Suns,2022,Action,Action Adventure,Firaxis
+260,Blue Fire: Void Maker,2022,Action,Action Adventure,ROBI Studios
+261,Pentiment,2022,Action,Action Adventure,Obsidian Entertainment
+262,Prodeus,2022,Action,Action Adventure,Unknown
+263,Undecember,2022,Action,Action Adventure,LINE Games
+264,OlliOlli World,2022,Platformer,3D Platformer,Roll7
+265,Shatterline,2022,Action,Action Adventure,Frag Lab
+266,Hardspace: Shipbreaker,2022,Action,Action Adventure,Blackbird Interactive
+267,Citizen Sleeper,2022,Action,Action Adventure,Jump Over The Age
+268,Tower of Fantasy,2022,Action,Action Adventure,Level Infinite
+269,Evil West,2022,Action,Action Adventure,Flying Wild Hog
+270,Two Point Campus,2022,Action,Action Adventure,Two Point Studios
+271,Shadow Warrior 3,2022,Shooter,Tactical Shooter,Flying Wild Hog
+272,Total War: WARHAMMER 3,2022,Action,Action Adventure,Creative Assembly
+273,Halo Infinite,2021,Shooter,Tactical Shooter,343 Industries
+274,It Takes Two,2021,Platformer,3D Platformer,Hazelight
+275,Resident Evil: Village,2021,Action,Action Adventure,Capcom
+276,Forza Horizon 5,2021,Sports,Sports Sim,Playground Games
+277,Marvel's Guardians of the Galaxy,2021,Shooter,Tactical Shooter,Eidos Montreal
+278,Deathloop,2021,Action,Action Adventure,Arkane Studios
+279,Mass Effect: Legendary Edition,2021,Shooter,Tactical Shooter,BioWare
+280,Inscryption,2021,Action,Action Adventure,Daniel Mullins Games
+281,The Ascent,2021,Action,Action Adventure,Neon Giant
+282,Psychonauts 2,2021,Platformer,3D Platformer,Double Fine Productions
+283,Back 4 Blood,2021,Shooter,Tactical Shooter,Turtle Rock Studios
+284,Capcom Arcade Stadium,2021,Platformer,3D Platformer,Capcom
+285,Far Cry 6,2021,Shooter,Tactical Shooter,Ubisoft
+286,Loop Hero,2021,Action,Action Adventure,Four Quarters
+287,Little Nightmares 2,2021,Platformer,3D Platformer,Tarsier Studios
+288,Death's Door,2021,Action,Action Adventure,Acid Nerve
+289,Kena: Bridge of Spirits,2021,Shooter,Tactical Shooter,Ember Lab
+290,Hitman 3,2021,Shooter,Tactical Shooter,IO Interactive
+291,Outriders,2021,Shooter,Tactical Shooter,People Can Fly
+292,Unpacking,2021,Action,Action Adventure,Witch Beam
+293,Battlefield 2042,2021,Shooter,Tactical Shooter,Electronic Arts DICE
+294,Twelve Minutes,2021,Action,Action Adventure,Netflix
+295,Disco Elysium: Final Cut,2021,Action,Action Adventure,ZA/UM
+296,Ratchet & Clank: Rift Apart,2021,Action,Action Adventure,Insomniac Games
+297,Subnautica: Below Zero,2021,Action,Action Adventure,Unknown Worlds Entertainment
+298,Vampire: The Masquerade: Bloodhunt,2021,Action,Action Adventure,Sharkmob
+299,The Medium,2021,Action,Action Adventure,Bloober Team
+300,Black Book,2021,Action,Action Adventure,Morteshka
+301,NieR Replicant v1.22474487139...,2021,Action,Action Adventure,Toylogic
+302,Death Stranding Director's Cut,2021,Action,Action Adventure,Kojima Productions
+303,Life is Strange: True Colors,2021,Action,Action Adventure,Deck Nine
+304,Scarlet Nexus,2021,Action,Action Adventure,BANDAI NAMCO Entertainment America
+305,Returnal,2021,Shooter,Tactical Shooter,Housemarque
+306,Biomutant,2021,Action,Action Adventure,Experiment 101
+307,Narita Boy,2021,Action,Action Adventure,Studio Koba
+308,Breathedge,2021,Action,Action Adventure,RedRuins Softworks
+309,Tales of Arise,2021,Action,Action Adventure,Bandai Namco Entertainment
+310,The Forgotten City,2021,Action,Action Adventure,Modern Storyteller
+311,Totally Accurate Battle Simulator,2021,Action,Action Adventure,Landfall
+312,Pathfinder: Wrath of the Righteous,2021,RPG,Action RPG,Owlcat Games
+313,Greak: Memories of Azur,2021,Platformer,3D Platformer,Navegante Entertainment
+314,Yakuza 3 Remastered,2021,Action,Action Adventure,Ryu ga Gotoku Studio
+315,Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,2021,Shooter,Tactical Shooter,Gearbox Software
+316,New World,2021,Action,Action Adventure,Amazon Game Studios
+317,Monster Hunter Rise,2021,Action,Action Adventure,Capcom
+318,Curse of the Dead Gods,2021,Action,Action Adventure,Passtech Games
+319,Dagon: by H. P. Lovecraft,2021,Action,Action Adventure,Bit Golem
+320,Road 96,2021,Action,Action Adventure,Digixart
+321,The Dark Pictures Anthology: House of Ashes,2021,Action,Action Adventure,Supermassive Games
+322,Sable,2021,Action,Action Adventure,Shedworks
+323,FIFA 22,2021,Sports,Sports Sim,Electronic Arts Vancouver
+324,Turnip Boy Commits Tax Evasion,2021,Action,Action Adventure,Snoozy Kazoo
+325,Goose Goose Duck,2021,Action,Action Adventure,Gaggle Studios
+326,Hot Wheels Unleashed,2021,Sports,Sports Sim,Milestone
+327,Super Animal Royale,2021,Action,Action Adventure,Pixile
+328,Rustler,2021,Action,Action Adventure,Jutsu Games
+329,Diablo 2: Resurrected,2021,Action,Action Adventure,Vicarious Visions
+330,Humankind,2021,Action,Action Adventure,Amplitude Studios
+331,Age of Empires 4,2021,Action,Action Adventure,Relic Entertainment
+332,Tribes of Midgard,2021,Action,Action Adventure,Norsfell
+333,Everhood,2021,Action,Action Adventure,Chris Nordgren
+334,Chivalry 2,2021,Action,Action Adventure,Torn Banner Studios
+335,Bright Memory: Infinite,2021,Action,Action Adventure,FYQD-Studio
+336,Nickelodeon All-Star Brawl,2021,Action,Action Adventure,Ludosity
+337,Omno,2021,Action,Action Adventure,Jonas Manke
+338,Grand Theft Auto: San Andreas – The Definitive Edition,2021,Action,Action Adventure,Rockstar Games
+339,Call of Duty: Vanguard,2021,Shooter,Tactical Shooter,Raven Software
+340,Knockout City,2021,Action,Action Adventure,Velan studios
+341,Cyberpunk 2077,2020,Shooter,Tactical Shooter,CD PROJEKT RED
+342,Hades,2020,Action,Action Adventure,Supergiant Games
+343,Fall Guys: Ultimate Knockout,2020,Action,Action Adventure,Mediatonic
+344,DOOM Eternal,2020,Shooter,Tactical Shooter,Bethesda Softworks
+345,The Last of Us Part 2,2020,Shooter,Tactical Shooter,Naughty Dog
+346,Ori and the Will of the Wisps,2020,Platformer,3D Platformer,Moon Studios
+347,Ghost of Tsushima,2020,Action,Action Adventure,Sucker Punch Productions
+348,Black Mesa,2020,Shooter,Tactical Shooter,Crowbar Collective
+349,Resident Evil 3,2020,Action,Action Adventure,Capcom
+350,Mafia: Definitive Edition,2020,Shooter,Tactical Shooter,Hangar 13
+351,Mafia 2: Definitive Edition,2020,Action,Action Adventure,Hangar 13
+352,Final Fantasy 7,2020,Action,Action Adventure,Square Enix
+353,Deep Rock Galactic,2020,Action,Action Adventure,Ghost Ship Games
+354,Tell Me Why,2020,Action,Action Adventure,DONTNOD Entertainment
+355,Assassin's Creed Valhalla,2020,Action,Action Adventure,Ubisoft Montreal
+356,Ghostrunner,2020,Action,Action Adventure,3D Realms
+357,Marvel's Spider-Man: Miles Morales,2020,Action,Action Adventure,Insomniac Games
+358,Risk of Rain 2,2020,Shooter,Tactical Shooter,Hopoo Games
+359,Dota Underlords,2020,Action,Action Adventure,Valve Software
+360,Genshin Impact,2020,Action,Action Adventure,miHoYo
+361,Superhot: Mind Control Delete,2020,Action,Action Adventure,SUPERHOT Team
+362,Factorio,2020,Action,Action Adventure,Wube Software
+363,Phasmophobia,2020,Action,Action Adventure,Kinetic Games
+364,Helltaker,2020,Action,Action Adventure,vanripper
+365,Persona 5 Royal,2020,Action,Action Adventure,Atlus
+366,Half-Life: Alyx,2020,Shooter,Tactical Shooter,Valve Software
+367,Marvel's Avengers,2020,Action,Action Adventure,Crystal Dynamics
+368,Crusader Kings 3,2020,Action,Action Adventure,Paradox Developement Studios
+369,Yakuza: Like a Dragon,2020,Action,Action Adventure,SEGA
+370,Spiritfarer,2020,Action,Action Adventure,Thunder Lotus Games
+371,DiRT 5,2020,Sports,Sports Sim,Codemasters
+372,Wasteland 3,2020,Action,Action Adventure,InXile Entertainment
+373,Streets of Rage 4,2020,Action,Action Adventure,Playdigious
+374,Watch Dogs: Legion,2020,Shooter,Tactical Shooter,Ubisoft
+375,Mafia 3: Definitive Edition,2020,Action,Action Adventure,Hangar 13
+376,Star Wars: Squadrons,2020,Action,Action Adventure,Electronic Arts
+377,Call of Duty: Black Ops Cold War,2020,Shooter,Tactical Shooter,Raven Software
+378,Maneater,2020,Action,Action Adventure,Tripwire Interactive
+379,Kentucky Route Zero,2020,Action,Action Adventure,Netflix
+380,Astro's Playroom,2020,Platformer,3D Platformer,Japan Studio
+381,Resident Evil: Resistance,2020,Action,Action Adventure,Capcom
+382,Immortals: Fenyx Rising,2020,Action,Action Adventure,Ubisoft
+383,The Dark Pictures Anthology: Little Hope,2020,Action,Action Adventure,Supermassive Games
+384,Hellpoint,2020,Action,Action Adventure,Cradle Games
+385,Moving Out,2020,Action,Action Adventure,SMG Studio
+386,Carrion,2020,Action,Action Adventure,Phobia Game Studio
+387,Noita,2020,Action,Action Adventure,Nolla Games
+388,Amnesia: Rebirth,2020,Action,Action Adventure,Frictional Games
+389,Desperados 3,2020,Action,Action Adventure,Mimimi Productions
+390,XCOM: Chimera Squad,2020,Action,Action Adventure,Firaxis
+391,SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated,2020,Platformer,3D Platformer,Purple Lamp Studios
+392,Streets of Kamurocho,2020,Action,Action Adventure,SEGA
+393,Journey to the Savage Planet,2020,Action,Action Adventure,Typhoon studios
+394,Microsoft Flight Simulator 2020,2020,Action,Action Adventure,Asobo Studio
+395,Tetris Effect: Connected,2020,Platformer,3D Platformer,Monstars
+396,Call of the Sea,2020,Action,Action Adventure,Out of the Blue
+397,Warhammer Underworlds: Online,2020,Action,Action Adventure,Steel Sky Productions
+398,Mortal Shell,2020,Action,Action Adventure,Cold Symmetry
+399,Animal Crossing: New Horizons,2020,Action,Action Adventure,Nintendo
+400,Monster Train,2020,Action,Action Adventure,Good Shepherd Entertainment
+401,Tony Hawk's Pro Skater 1 + 2,2020,Platformer,3D Platformer,Vicarious Visions
+402,Worms Rumble,2020,Shooter,Tactical Shooter,Team17 Digital
+403,Going Under,2020,Action,Action Adventure,Aggro Crab
+404,Marvel's Spider-Man Remastered,2020,Action,Action Adventure,Insomniac Games
+405,Armor of Heroes,2020,Action,Action Adventure,SEGA
+406,Crash Bandicoot 4: It's About Time,2020,Platformer,3D Platformer,Beenox
+407,Control Ultimate Edition,2020,Shooter,Tactical Shooter,Remedy Entertainment
+408,DOOM 64 (2020),2020,Shooter,Tactical Shooter,id Software
+409,Apex Legends,2019,Shooter,Tactical Shooter,Respawn Entertainment
+410,Control,2019,Shooter,Tactical Shooter,505 Games
+411,Star Wars Jedi: Fallen Order,2019,Action,Action Adventure,Respawn Entertainment
+412,Death Stranding,2019,Action,Action Adventure,Kojima Productions
+413,Sekiro: Shadows Die Twice,2019,Action,Action Adventure,FromSoftware
+414,Metro Exodus,2019,Shooter,Tactical Shooter,4A Games
+415,Disco Elysium,2019,Action,Action Adventure,ZA/UM
+416,A Plague Tale: Innocence,2019,Action,Action Adventure,Focus Home Interactive
+417,Devil May Cry 5,2019,Action,Action Adventure,Capcom
+418,Days Gone,2019,Action,Action Adventure,Bend Studio
+419,The Outer Worlds,2019,Shooter,Tactical Shooter,Obsidian Entertainment
+420,Borderlands 3,2019,Shooter,Tactical Shooter,2K
+421,Borderlands Game of the Year Enhanced,2019,Shooter,Tactical Shooter,Gearbox Software
+422,Mortal Kombat 11,2019,Action,Action Adventure,NetherRealm Studios
+423,Resident Evil 2,2019,Action,Action Adventure,Capcom
+424,Minion Masters,2019,Action,Action Adventure,BetaDwarf
+425,Slay the Spire,2019,Action,Action Adventure,Humble Bundle
+426,Outer Wilds,2019,Action,Action Adventure,Mobius Digital
+427,Gothic Playable Teaser,2019,RPG,Action RPG,THQ Nordic
+428,Gears 5,2019,Shooter,Tactical Shooter,The Coalition
+429,Katana ZERO,2019,Platformer,3D Platformer,Askiisoft
+430,Blasphemous,2019,Platformer,3D Platformer,The Game Kitchen
+431,Call of Duty: Modern Warfare (2019),2019,Shooter,Tactical Shooter,Raven Software
+432,Need for Speed Heat,2019,Sports,Sports Sim,Ghost Games
+433,Remnant: From the Ashes,2019,Action,Action Adventure,Gunfire Games
+434,My Friend Pedro,2019,Shooter,Tactical Shooter,Devolver
+435,DiRT Rally 2.0,2019,Sports,Sports Sim,Codemasters
+436,The Dark Pictures Anthology: Man of Medan,2019,Action,Action Adventure,Supermassive Games
+437,Bloodstained: Ritual of the Night,2019,Action,Action Adventure,505 Games
+438,Goat of Duty,2019,Action,Action Adventure,34BigThings
+439,Children of Morta,2019,Action,Action Adventure,Dead Mage
+440,Tom Clancy's The Division 2,2019,Shooter,Tactical Shooter,Ubisoft
+441,GreedFall,2019,Action,Action Adventure,Spiders
+442,Splitgate,2019,Shooter,Tactical Shooter,1047 Games
+443,Astroneer,2019,Action,Action Adventure,System Era Softworks
+444,Code Vein,2019,Action,Action Adventure,BANDAI NAMCO Entertainment America
+445,Rage 2,2019,Sports,Sports Sim,id Software
+446,Untitled Goose Game,2019,Action,Action Adventure,House House
+447,Superliminal,2019,Platformer,3D Platformer,Pillow Castle Games
+448,Pathologic 2,2019,Action,Action Adventure,Ice-Pick Lodge
+449,My Time At Portia,2019,RPG,Action RPG,Team17 Digital
+450,Kingdom Hearts 3,2019,Action,Action Adventure,Square Enix
+451,Far Cry New Dawn,2019,Platformer,3D Platformer,Ubisoft
+452,Beat Saber,2019,Action,Action Adventure,Hyperbolic Magnetism
+453,Assassin's Creed 3: Remastered,2019,Action,Action Adventure,Ubisoft Montreal
+454,Baba Is You,2019,Platformer,3D Platformer,Hempuli Oy
+455,Darksiders Genesis,2019,Action,Action Adventure,Airship Syndicate
+456,Wolfenstein: Youngblood,2019,Shooter,Tactical Shooter,Bethesda Softworks
+457,Trine 4: The Nightmare Prince,2019,Platformer,3D Platformer,Frozenbyte
+458,Wargroove,2019,Action,Action Adventure,Chucklefish
+459,Void Bastards,2019,Action,Action Adventure,Blue Manchu
+460,Evoland Legendary Edition,2019,Action,Action Adventure,Shiro Games
+461,Supraland,2019,Action,Action Adventure,Supra Games
+462,Age of Empires 2: Definitive Edition,2019,Action,Action Adventure,Forgotten Empires
+463,Anthem,2019,Shooter,Tactical Shooter,BioWare
+464,MORDHAU,2019,Action,Action Adventure,Triternion
+465,FIFA 20,2019,Sports,Sports Sim,Electronic Arts Canada
+466,NBA 2K20,2019,Action,Action Adventure,2K
+467,Showdown Bandit,2019,Action,Action Adventure,naveed321isthebest
+468,ACE COMBAT 7: SKIES UNKNOWN,2019,Platformer,3D Platformer,BANDAI NAMCO Entertainment America
+469,The Surge 2,2019,Action,Action Adventure,Focus Home Interactive
+470,Generation Zero (2019),2019,Shooter,Tactical Shooter,Avalanche Studios
+471,Pikuniku,2019,Action,Action Adventure,Devolver Digital
+472,A Short Hike,2019,Action,Action Adventure,adamgryu
+473,The Beast Inside,2019,Action,Action Adventure,Illusion Ray Studio
+474,We Were Here Together,2019,Action,Action Adventure,Total Mayhem Games
+475,Outward Definitive Edition,2019,Action,Action Adventure,Nine Dots Studio
+476,Indivisible,2019,Action,Action Adventure,Lab Zero Games
+477,Red Dead Redemption 2,2018,Action,Action Adventure,Rockstar Games
+478,God of War (2018),2018,Action,Action Adventure,Santa Monica Studio
+479,Marvel's Spider-Man,2018,Action,Action Adventure,Insomniac Games
+480,Detroit: Become Human,2018,Action,Action Adventure,Quantic Dream
+481,Monster Hunter: World,2018,Action,Action Adventure,Capcom
+482,Warhammer: Vermintide 2,2018,Action,Action Adventure,Fatshark
+483,Far Cry 5,2018,Shooter,Tactical Shooter,Ubisoft
+484,Shadow of the Tomb Raider,2018,Action,Action Adventure,Eidos Montreal
+485,Assassin's Creed Odyssey,2018,Action,Action Adventure,Ubisoft
+486,Hitman 2,2018,Shooter,Tactical Shooter,IO Interactive
+487,Among Us,2018,Action,Action Adventure,Innersloth
+488,Kingdom Come: Deliverance,2018,Action,Action Adventure,Deep Silver
+489,Dead Cells,2018,Platformer,3D Platformer,Plug In Digital
+490,Subnautica,2018,Action,Action Adventure,Unknown Worlds Entertainment
+491,The Forest,2018,Action,Action Adventure,Endnight Games
+492,Forza Horizon 4,2018,Sports,Sports Sim,Playground Games
+493,Surviving Mars,2018,Action,Action Adventure,Haemimont Games
+494,Celeste,2018,Platformer,3D Platformer,Matt Makes Games
+495,Frostpunk,2018,Action,Action Adventure,11 Bit Studios
+496,A Way Out,2018,Action,Action Adventure,Electronic Arts
+497,Rust,2018,Shooter,Tactical Shooter,Facepunch Studios
+498,Dark Souls: Remastered,2018,Action,Action Adventure,FromSoftware
+499,Sea of Thieves,2018,Action,Action Adventure,Rare
+500,Gwent: The Witcher Card Game,2018,Action,Action Adventure,CD PROJEKT RED
+501,Gris,2018,Platformer,3D Platformer,Nomada Studio
+502,Vampyr,2018,Action,Action Adventure,DONTNOD Entertainment
+503,Battlefield V,2018,Shooter,Tactical Shooter,Electronic Arts
+504,Life is Strange 2,2018,Action,Action Adventure,DONTNOD Entertainment
+505,The Awesome Adventures of Captain Spirit,2018,Action,Action Adventure,DONTNOD Entertainment
+506,Overcooked! 2,2018,Action,Action Adventure,Team17 Digital
+507,Spyro Reignited Trilogy,2018,Action,Action Adventure,Activision
+508,Totally Accurate Battlegrounds,2018,Shooter,Tactical Shooter,Landfall
+509,Fallout 76,2018,Action,Action Adventure,Bethesda Game Studios
+510,Hellblade: Senua's Sacrifice VR Edition,2018,Action,Action Adventure,Ninja Theory
+511,Darksiders 3,2018,Action,Action Adventure,THQ Nordic
+512,Moonlighter,2018,Action,Action Adventure,11 Bit Studios
+513,Aim Lab,2018,Action,Action Adventure,Statespace
+514,Just Cause 4,2018,Action,Action Adventure,Square Enix
+515,Aegis Defenders,2018,Action,Action Adventure,Humble Bundle
+516,Red Faction Guerrilla Re-Mars-tered,2018,Shooter,Tactical Shooter,THQ Nordic
+517,Headsnatchers,2018,Action,Action Adventure,IguanaBee
+518,Realm Royale,2018,Action,Action Adventure,Hi-Rez Studios
+519,Into the Breach,2018,Action,Action Adventure,Subset Games
+520,Unravel Two,2018,Platformer,3D Platformer,Electronic Arts
+521,Northgard,2018,Action,Action Adventure,Plug In Digital
+522,Graveyard Keeper,2018,Action,Action Adventure,tinyBuild
+523,F1 2018,2018,Sports,Sports Sim,Codemasters
+524,Regions Of Ruin,2018,Action,Action Adventure,Vox Games
+525,Ring of Elysium,2018,Shooter,Tactical Shooter,Tencent Games
+526,Return Of The Obra Dinn,2018,Action,Action Adventure,Lucas Pope
+527,Two Point Hospital,2018,RPG,Action RPG,Two Point Studios
+528,Call of Duty: Black Ops 4,2018,Shooter,Tactical Shooter,Raven Software
+529,Horizon Chase Turbo,2018,Sports,Sports Sim,Aquiris Game Studio
+530,Pathfinder: Kingmaker,2018,RPG,Action RPG,Owlcat Games
+531,State of Decay 2,2018,Shooter,Tactical Shooter,Undead Labs
+532,DRAGON BALL FighterZ,2018,Action,Action Adventure,BANDAI NAMCO Entertainment America
+533,Jurassic World Evolution,2018,Action,Action Adventure,Frontier Developments
+534,Wizard of Legend,2018,Action,Action Adventure,Humble Bundle
+535,Ni no Kuni 2: Revenant Kingdom,2018,Action,Action Adventure,BANDAI NAMCO Entertainment America
+536,Wreckfest,2018,Sports,Sports Sim,Handy Games
+537,Mutant Year Zero: Road to Eden,2018,Action,Action Adventure,The Bearded Ladies
+538,Steel Rats,2018,Sports,Sports Sim,Tate Multimedia
+539,House Flipper,2018,Action,Action Adventure,Ultimate Games
+540,The Council,2018,Action,Action Adventure,Big Bad Wolf
+541,Cuisine Royale,2018,Action,Action Adventure,Darkflow Software
+542,Call of Cthulhu,2018,Action,Action Adventure,Cyanide Studio
+543,Hunt: Showdown,2018,Shooter,Tactical Shooter,Crytek
+544,"Warhammer 40,000: Gladius: Relics of War",2018,Action,Action Adventure,Proxy Studios
+545,Destiny 2,2017,Shooter,Tactical Shooter,Bungie
+546,Horizon Zero Dawn,2017,Action,Action Adventure,Guerrilla Games
+547,Hollow Knight,2017,Platformer,3D Platformer,Team Cherry
+548,Little Nightmares,2017,Platformer,3D Platformer,BANDAI NAMCO Entertainment America
+549,PlayerUnknown's Battlegrounds,2017,Shooter,Tactical Shooter,Krafton
+550,Prey,2017,Shooter,Tactical Shooter,Arkane Studios
+551,Hellblade: Senua's Sacrifice,2017,Action,Action Adventure,Ninja Theory
+552,For Honor,2017,Action,Action Adventure,Ubisoft
+553,NieR:Automata,2017,Action,Action Adventure,Platinum Games
+554,Resident Evil 7: Biohazard,2017,Shooter,Tactical Shooter,Capcom
+555,Middle-earth: Shadow of War,2017,Action,Action Adventure,Warner Bros. Interactive
+556,Cuphead,2017,Platformer,3D Platformer,Studio MDHR
+557,Assassin's Creed Origins,2017,Action,Action Adventure,Ubisoft
+558,Wolfenstein 2: The New Colossus,2017,Shooter,Tactical Shooter,Bethesda Softworks
+559,Divinity: Original Sin 2,2017,Action,Action Adventure,Larian Studios
+560,Quake Champions,2017,Shooter,Tactical Shooter,id Software
+561,What Remains of Edith Finch,2017,Action,Action Adventure,Annapurna Interactive
+562,Call of Duty: WWII,2017,Shooter,Tactical Shooter,Sledgehammer Games
+563,The Legend of Zelda: Breath of the Wild,2017,Action,Action Adventure,Nintendo
+564,STAR WARS Battlefront 2,2017,Shooter,Tactical Shooter,Electronic Arts DICE
+565,Doki Doki Literature Club!,2017,Action,Action Adventure,Team Salvato
+566,Dear Esther: Landmark Edition,2017,Action,Action Adventure,The Chinese Room
+567,Serious Sam Fusion 2017 (beta),2017,Action,Action Adventure,Croteam
+568,Fortnite Battle Royale,2017,Shooter,Tactical Shooter,Epic Games
+569,VRChat,2017,Action,Action Adventure,VRChat
+570,Sonic Mania,2017,Platformer,3D Platformer,SEGA
+571,Crash Bandicoot N. Sane Trilogy,2017,Platformer,3D Platformer,Activision
+572,Sniper Elite 4,2017,Shooter,Tactical Shooter,Rebellion
+573,The LEGO NINJAGO Movie Video Game,2017,Action,Action Adventure,Warner Bros. Interactive
+574,Injustice 2,2017,Action,Action Adventure,Warner Bros. Interactive
+575,Outlast 2,2017,Action,Action Adventure,Red Barrels
+576,The Evil Within 2,2017,Shooter,Tactical Shooter,Bethesda Softworks
+577,Life is Strange: Before The Storm,2017,Action,Action Adventure,Square Enix
+578,Uncharted: The Lost Legacy,2017,Action,Action Adventure,Naughty Dog
+579,Mass Effect: Andromeda,2017,Action,Action Adventure,BioWare
+580,Dishonored: Death of the Outsider,2017,Action,Action Adventure,Bethesda Softworks
+581,Super Mario Odyssey,2017,Platformer,3D Platformer,Nintendo
+582,Tom Clancy's Ghost Recon Wildlands,2017,Shooter,Tactical Shooter,Ubisoft
+583,Ultimate Epic Battle Simulator,2017,Action,Action Adventure,Brilliant Game Studios
+584,Need for Speed Payback,2017,Sports,Sports Sim,Ghost Games
+585,The Surge,2017,Action,Action Adventure,Focus Home Interactive
+586,TERA,2017,Action,Action Adventure,Bluehole
+587,RiME,2017,Action,Action Adventure,QLOC
+588,Nioh,2017,Action,Action Adventure,Team NINJA
+589,South Park: The Fractured But Whole,2017,Action,Action Adventure,Ubisoft San Francisco
+590,SteamWorld Dig 2,2017,Platformer,3D Platformer,Image & Form
+591,Deceit,2017,Action,Action Adventure,Automaton
+592,Ruiner,2017,Shooter,Tactical Shooter,Devolver Digital
+593,We Were Here,2017,Action,Action Adventure,Total Mayhem Games
+594,Snake Pass,2017,Action,Action Adventure,Sumo Digital
+595,Guns of Icarus Alliance,2017,Action,Action Adventure,Muse Games
+596,Conan Exiles,2017,Action,Action Adventure,Funcom
+597,Crossout,2017,Sports,Sports Sim,Targem Games
+598,OKAMI HD,2017,Action,Action Adventure,Capcom
+599,Yakuza Kiwami 2,2017,Action,Action Adventure,SEGA
+600,Bulletstorm: Full Clip Edition,2017,Action,Action Adventure,People Can Fly
+601,A Hat in Time,2017,Platformer,3D Platformer,Humble Bundle
+602,Observеr,2017,Action,Action Adventure,Bloober Team
+603,Full Throttle Remastered,2017,Action,Action Adventure,Double Fine Productions
+604,Stick Fight: The Game,2017,Action,Action Adventure,Landfall
+605,Geneshift,2017,Action,Action Adventure,Nik Nak Studios
+606,Pyre,2017,Action,Action Adventure,Supergiant Games
+607,Fortnite: Save The World,2017,Shooter,Tactical Shooter,Epic Games
+608,FIFA 18,2017,Sports,Sports Sim,Electronic Arts
+609,Bomber Crew,2017,Action,Action Adventure,Curve Digital
+610,Oxygen Not Included,2017,Action,Action Adventure,Klei Entertainment
+611,Absolver,2017,Action,Action Adventure,Devolver Digital
+612,Darkwood,2017,Action,Action Adventure,Crunching Koalas
+613,DOOM (2016),2016,Shooter,Tactical Shooter,Bethesda Softworks
+614,Dark Souls 3,2016,Action,Action Adventure,BANDAI NAMCO Entertainment America
+615,Stardew Valley,2016,RPG,Action RPG,Chucklefish
+616,BioShock Remastered,2016,Shooter,Tactical Shooter,Feral Interactive
+617,Hitman,2016,Shooter,Tactical Shooter,Feral Interactive
+618,Deus Ex: Mankind Divided,2016,Action,Action Adventure,Eidos Montreal
+619,The Elder Scrolls V: Skyrim Special Edition,2016,Action,Action Adventure,Bethesda Game Studios
+620,Dishonored 2,2016,Action,Action Adventure,Bethesda Softworks
+621,Don't Starve Together,2016,Action,Action Adventure,Klei Entertainment
+622,Uncharted 4: A Thief's End,2016,Shooter,Tactical Shooter,Naughty Dog
+623,BioShock 2 Remastered,2016,Action,Action Adventure,Digital Extremes
+624,ARK: Survival Of The Fittest,2016,Action,Action Adventure,Instinct Games
+625,Titanfall 2,2016,Shooter,Tactical Shooter,Respawn Entertainment
+626,Paladins,2016,Shooter,Tactical Shooter,Hi-Rez Studios
+627,INSIDE,2016,Action,Action Adventure,Playdead
+628,Firewatch,2016,Action,Action Adventure,Campo Santo
+629,No Man's Sky,2016,Action,Action Adventure,Hello Games
+630,Titan Quest Anniversary Edition,2016,Action,Action Adventure,THQ Nordic
+631,Battlefield 1,2016,Shooter,Tactical Shooter,Electronic Arts
+632,Layers of Fear,2016,Action,Action Adventure,Bloober Team
+633,XCOM 2,2016,Action,Action Adventure,Feral Interactive
+634,Ori and the Blind Forest: Definitive Edition,2016,Platformer,3D Platformer,Moon Studios
+635,Sid Meier's Civilization 6,2016,Action,Action Adventure,Aspyr Media
+636,Watch Dogs 2,2016,Action,Action Adventure,Ubisoft Montreal
+637,Darksiders Warmastered Edition,2016,Action,Action Adventure,Vigil Games
+638,Darkest Dungeon,2016,Action,Action Adventure,Red Hook Studios
+639,Quantum Break,2016,Shooter,Tactical Shooter,Remedy Entertainment
+640,Mafia 3,2016,Action,Action Adventure,Aspyr Media
+641,SUPERHOT,2016,Shooter,Tactical Shooter,SUPERHOT Team
+642,Wallpaper Engine,2016,Action,Action Adventure,Unknown
+643,The Witness,2016,Action,Action Adventure,NVIDIA Lightspeed Studios
+644,Tom Clancy's The Division,2016,Shooter,Tactical Shooter,Ubisoft
+645,Ratchet & Clank,2016,Shooter,Tactical Shooter,Insomniac Games
+646,Dead by Daylight,2016,Action,Action Adventure,Behaviour Interactive
+647,Overcooked,2016,Platformer,3D Platformer,Team17 Digital
+648,Human: Fall Flat,2016,Action,Action Adventure,505 Games
+649,FINAL FANTASY XV,2016,RPG,Action RPG,Square Enix
+650,Beholder,2016,Action,Action Adventure,Alawar Entertainment
+651,Starbound,2016,Action,Action Adventure,Chucklefish
+652,Killing Floor 2,2016,Action,Action Adventure,Tripwire Interactive
+653,Enter the Gungeon,2016,Shooter,Tactical Shooter,Dodge Roll
+654,Drawful 2,2016,Action,Action Adventure,Jackbox Games
+655,Orwell: Keeping an Eye On You,2016,Action,Action Adventure,Osmotic Studios
+656,Stellaris,2016,Action,Action Adventure,Paradox Development Studio
+657,Oxenfree,2016,Action,Action Adventure,Night School Studio
+658,ABZU,2016,Action,Action Adventure,Giant Squid
+659,The Flame in the Flood,2016,Action,Action Adventure,The Molasses Flood
+660,Heroes & Generals,2016,Shooter,Tactical Shooter,Reto-Moto
+661,Persona 5,2016,Action,Action Adventure,Atlus
+662,Yakuza Kiwami,2016,Action,Action Adventure,Ryu ga Gotoku Studio
+663,Shadow Tactics: Blades of the Shogun,2016,Action,Action Adventure,Daedalic Entertainment
+664,Call of Duty: Modern Warfare Remastered,2016,Shooter,Tactical Shooter,Raven Software
+665,Street Fighter V,2016,Action,Action Adventure,Capcom
+666,Battlerite,2016,Action,Action Adventure,Stunlock Studios
+667,Shadow Warrior 2,2016,Shooter,Tactical Shooter,Devolver Digital
+668,H1Z1: King of the Kill,2016,Action,Action Adventure,Daybreak Games Company
+669,Steep,2016,Action,Action Adventure,Ubisoft
+670,Stories: The Path of Destinies,2016,Platformer,3D Platformer,Spearhead Games
+671,Mirror's Edge Catalyst,2016,Platformer,3D Platformer,Electronic Arts
+672,Furi,2016,Platformer,3D Platformer,The Game Bakers
+673,Grim Dawn,2016,Action,Action Adventure,Crate Entertainment
+674,Unravel,2016,Action,Action Adventure,Electronic Arts
+675,Far Cry Primal,2016,Shooter,Tactical Shooter,Ubisoft
+676,SpeedRunners,2016,Sports,Sports Sim,tinyBuild
+677,The Uncertain: Episode 1: The Last Quiet Day,2016,Action,Action Adventure,ComonGames
+678,This is the Police,2016,Action,Action Adventure,THQ Nordic
+679,The Lab,2016,Action,Action Adventure,Valve Software
+680,Golf With Your Friends,2016,Sports,Sports Sim,Team17 Digital
+681,The Witcher 3: Wild Hunt,2015,Action,Action Adventure,CD PROJEKT RED
+682,Life is Strange,2015,Action,Action Adventure,DONTNOD Entertainment
+683,Fallout 4,2015,Action,Action Adventure,Bethesda Game Studios
+684,Rocket League,2015,Sports,Sports Sim,Psyonix
+685,Rise of the Tomb Raider,2015,Action,Action Adventure,Feral Interactive
+686,Batman: Arkham Knight,2015,Action,Action Adventure,Rocksteady Studios
+687,Metal Gear Solid V: The Phantom Pain,2015,Shooter,Tactical Shooter,Kojima Productions
+688,Just Cause 3,2015,Shooter,Tactical Shooter,Square Enix
+689,Mortal Kombat 10,2015,Action,Action Adventure,Warner Bros. Interactive
+690,Mad Max,2015,Action,Action Adventure,Avalanche Studios
+691,ARK: Survival Evolved,2015,Action,Action Adventure,Instinct Games
+692,Bloodborne,2015,Action,Action Adventure,FromSoftware
+693,Cities: Skylines,2015,Action,Action Adventure,Colossal Order
+694,Undertale,2015,RPG,Action RPG,8-4
+695,Tom Clancy's Rainbow Six Siege,2015,Shooter,Tactical Shooter,Ubisoft
+696,Ori and the Blind Forest,2015,Platformer,3D Platformer,Moon Studios
+697,SOMA,2015,Action,Action Adventure,Frictional Games
+698,Call of Duty: Black Ops 3,2015,Shooter,Tactical Shooter,Raven Software
+699,Fallout Shelter,2015,RPG,Action RPG,Bethesda Softworks
+700,Dying Light: The Following: Enhanced Edition,2015,Action,Action Adventure,Techland
+701,DiRT Rally,2015,Sports,Sports Sim,Feral Interactive
+702,Yakuza 0,2015,Action,Action Adventure,SEGA
+703,Hotline Miami 2: Wrong Number,2015,Shooter,Tactical Shooter,Devolver Digital
+704,Grim Fandango Remastered,2015,Action,Action Adventure,Double Fine Productions
+705,Broforce,2015,Platformer,3D Platformer,Devolver Digital
+706,Kingdom: Classic,2015,Action,Action Adventure,Noio
+707,Dark Souls 2: Scholar of the First Sin,2015,Action,Action Adventure,BANDAI NAMCO Entertainment America
+708,SMITE,2015,Action,Action Adventure,Hi-Rez Studios
+709,Assassin's Creed Syndicate,2015,Action,Action Adventure,Ubisoft Montreal
+710,Until Dawn,2015,Action,Action Adventure,Supermassive Games
+711,Titan Souls,2015,Action,Action Adventure,Devolver Digital
+712,Wolfenstein: The Old Blood,2015,Shooter,Tactical Shooter,Bethesda Softworks
+713,Divinity: Original Sin: Enhanced Edition,2015,RPG,Action RPG,Larian Studios
+714,Darksiders 2 Deathinitive Edition,2015,Action,Action Adventure,THQ Nordic
+715,Hacknet,2015,Action,Action Adventure,Team Fractal Alligator
+716,Prison Architect,2015,Action,Action Adventure,Double Eleven
+717,Jotun: Valhalla Edition,2015,Action,Action Adventure,Thunder Lotus
+718,Resident Evil Revelations 2,2015,Action,Action Adventure,Capcom
+719,The Elder Scrolls Online: Tamriel Unlimited,2015,Action,Action Adventure,Bethesda Softworks
+720,Tales from the Borderlands: A Telltale Game Series,2015,Action,Action Adventure,Telltale Games
+721,Dying Light,2015,Action,Action Adventure,Techland
+722,STAR WARS Battlefront,2015,Action,Action Adventure,Electronic Arts
+723,Tabletop Simulator,2015,RPG,Action RPG,Berserk Games
+724,Pillars of Eternity,2015,RPG,Action RPG,Obsidian Entertainment
+725,Magicka 2,2015,Action,Action Adventure,Paradox Interactive
+726,Trove,2015,Action,Action Adventure,Trion Worlds
+727,Satellite Reign,2015,Action,Action Adventure,5 Lives Studios
+728,Kerbal Space Program,2015,Action,Action Adventure,Squad
+729,Clicker Heroes,2015,Action,Action Adventure,Playsaurus
+730,God of War 3 Remastered,2015,Action,Action Adventure,Santa Monica Studio
+731,Kholat,2015,Action,Action Adventure,IMGN.PRO
+732,TEKKEN 7,2015,Action,Action Adventure,BANDAI NAMCO Entertainment America
+733,Evolve Stage 2,2015,Action,Action Adventure,Turtle Rock Studios
+734,Saints Row: Gat Out of Hell,2015,Action,Action Adventure,Deep Silver
+735,Warhammer: End Times: Vermintide,2015,Action,Action Adventure,Fatshark
+736,F1 2015,2015,Sports,Sports Sim,Feral Interactive
+737,Crypt of the NecroDancer,2015,Action,Action Adventure,Brace Yourself Games
+738,Elite Dangerous,2015,Action,Action Adventure,Frontier Developments
+739,Plague Inc: Evolved,2015,Action,Action Adventure,Ndemic Creations
+740,The Order: 1886,2015,Action,Action Adventure,Ready At Dawn
+741,Need for Speed,2015,Sports,Sports Sim,Ghost Games
+742,Dirty Bomb,2015,Shooter,Tactical Shooter,Splash Damage®
+743,Dungeons 2,2015,Action,Action Adventure,Kalypso Media
+744,The Red Solstice,2015,Action,Action Adventure,Ironward
+745,AdVenture Capitalist,2015,Action,Action Adventure,Kongregate
+746,Besiege,2015,Action,Action Adventure,Spiderling Studios
+747,HELLDIVERS,2015,Action,Action Adventure,Arrowhead Game Studios
+748,Her Story,2015,Action,Action Adventure,Sam Barlow
+749,Middle-earth: Shadow of Mordor,2014,Action,Action Adventure,Feral Interactive
+750,Wolfenstein: The New Order,2014,Shooter,Tactical Shooter,Bethesda Softworks
+751,Metro: Last Light Redux,2014,Shooter,Tactical Shooter,Deep Silver
+752,Metro 2033 Redux,2014,Shooter,Tactical Shooter,Deep Silver
+753,Borderlands: The Pre-Sequel,2014,Shooter,Tactical Shooter,Aspyr Media
+754,Metal Gear Solid V: Ground Zeroes,2014,Shooter,Tactical Shooter,Kojima Productions
+755,The Last Of Us Remastered,2014,Action,Action Adventure,Naughty Dog
+756,Unturned,2014,Shooter,Tactical Shooter,505 Games
+757,Watch Dogs,2014,Action,Action Adventure,Ubisoft
+758,Brawlhalla,2014,Action,Action Adventure,Ubisoft
+759,Alien: Isolation,2014,Action,Action Adventure,Feral Interactive
+760,Transistor,2014,Action,Action Adventure,Supergiant Games
+761,Far Cry 4,2014,Shooter,Tactical Shooter,Ubisoft
+762,Insurgency,2014,Shooter,Tactical Shooter,New World Interactive
+763,Black Desert Online,2014,Action,Action Adventure,Pearl Abyss
+764,Thief,2014,Action,Action Adventure,Feral Interactive
+765,This War of Mine,2014,Action,Action Adventure,11 Bit Studios
+766,Lara Croft and the Temple of Osiris,2014,Action,Action Adventure,Square Enix
+767,South Park: The Stick of Truth,2014,Action,Action Adventure,Obsidian Entertainment
+768,Assassin's Creed Unity,2014,Action,Action Adventure,Ubisoft
+769,Halo: The Master Chief Collection,2014,Action,Action Adventure,343 Industries
+770,Sleeping Dogs: Definitive Edition,2014,Action,Action Adventure,Feral Interactive
+771,Guacamelee! Super Turbo Championship Edition,2014,Platformer,3D Platformer,DrinkBox Studios
+772,The Sims 4,2014,Action,Action Adventure,Electronic Arts
+773,Goat Simulator,2014,Action,Action Adventure,Double Eleven
+774,Dragon Age: Inquisition,2014,Action,Action Adventure,BioWare
+775,A Story About My Uncle,2014,Action,Action Adventure,Gone North Games
+776,inFAMOUS Second Son,2014,Action,Action Adventure,Sucker Punch Productions
+777,Age of Wonders 3,2014,Action,Action Adventure,Triumph Studios
+778,The Long Dark,2014,Action,Action Adventure,Hinterland Studio
+779,The Binding of Isaac: Rebirth,2014,Action,Action Adventure,Nicalis
+780,The Evil Within,2014,Shooter,Tactical Shooter,Bethesda Softworks
+781,Murdered: Soul Suspect,2014,Action,Action Adventure,Square Enix
+782,LEGO The Hobbit,2014,Action,Action Adventure,Feral Interactive
+783,Lords of the Fallen (2014),2014,Action,Action Adventure,City Interactive
+784,Game of Thrones: A Telltale Games Series,2014,Action,Action Adventure,Telltale Games
+785,Child of Light,2014,RPG,Action RPG,Ubisoft
+786,Broken Age,2014,Action,Action Adventure,Double Fine Productions
+787,Destiny,2014,Shooter,Tactical Shooter,Bungie
+788,The Talos Principle,2014,Action,Action Adventure,Devolver Digital
+789,Divinity: Original Sin,2014,Action,Action Adventure,Larian Studios
+790,Killer is Dead: Nightmare Edition,2014,Action,Action Adventure,Grasshopper Manufacture
+791,Valiant Hearts: The Great War,2014,Action,Action Adventure,Ubisoft Montpellier
+792,Deponia: The Complete Journey,2014,Action,Action Adventure,Daedalic Entertainment
+793,Robocraft,2014,Action,Action Adventure,Freejam
+794,Sunset Overdrive,2014,Shooter,Tactical Shooter,Insomniac Games
+795,Shadowrun: Dragonfall: Director's Cut,2014,Action,Action Adventure,Harebrained Schemes
+796,Never Alone,2014,Action,Action Adventure,Upper One Games
+797,Styx: Master of Shadows,2014,Action,Action Adventure,Cyanide Studio
+798,Sniper Elite 3,2014,Shooter,Tactical Shooter,505 Games
+799,Fable Anniversary,2014,RPG,Action RPG,Lionhead Studios
+800,The Banner Saga,2014,Action,Action Adventure,Versus Evil
+801,The Vanishing of Ethan Carter,2014,Action,Action Adventure,The Astronauts
+802,The Expendabros,2014,Platformer,3D Platformer,Free Lives
+803,Tropico 5,2014,Action,Action Adventure,Haemimont Games
+804,Loadout,2014,Action,Action Adventure,Edge of Reality
+805,LittleBigPlanet 3,2014,Platformer,3D Platformer,Sumo Digital
+806,Dungeon of the Endless,2014,Action,Action Adventure,Amplitude Studios
+807,Endless Legend,2014,Action,Action Adventure,Amplitude Studios
+808,Call of Duty: Advanced Warfare,2014,Shooter,Tactical Shooter,Raven Software
+809,Oddworld: New 'n' Tasty,2014,Platformer,3D Platformer,Oddworld Inhabitants
+810,inFAMOUS: First Light,2014,Action,Action Adventure,Sucker Punch Productions
+811,Trials Fusion,2014,Sports,Sports Sim,Ubisoft
+812,Assassin's Creed Rogue,2014,Action,Action Adventure,Ubisoft
+813,Warface: Ice Breaker,2014,Action,Action Adventure,Crytek
+814,Stealth Inc 2: A Game of Clones,2014,Action,Action Adventure,NVIDIA Lightspeed Studios
+815,Dungeon Defenders 2,2014,Action,Action Adventure,Trendy Entertainment
+816,Hawken,2014,Shooter,Tactical Shooter,505 Games
+817,Grand Theft Auto V,2013,Action,Action Adventure,Rockstar North
+818,Tomb Raider,2013,Action,Action Adventure,Crystal Dynamics
+819,BioShock Infinite,2013,Shooter,Tactical Shooter,Aspyr Media
+820,PAYDAY 2,2013,Shooter,Tactical Shooter,505 Games
+821,Dota 2,2013,Action,Action Adventure,Valve Software
+822,Warframe,2013,Shooter,Tactical Shooter,Digital Extremes
+823,Outlast,2013,Action,Action Adventure,Red Barrels
+824,Path of Exile,2013,Action,Action Adventure,Grinding Gear Games
+825,Company of Heroes 2,2013,Action,Action Adventure,Feral Interactive
+826,Injustice: Gods Among Us Ultimate Edition,2013,Platformer,3D Platformer,NetherRealm Studios
+827,Assassin's Creed 4: Black Flag,2013,Action,Action Adventure,Ubisoft
+828,Brothers: A Tale of Two Sons,2013,Action,Action Adventure,Starbreeze Studios
+829,Saints Row 4,2013,Action,Action Adventure,Volition
+830,Batman: Arkham Origins,2013,Action,Action Adventure,Warner Bros. Interactive
+831,War Thunder,2013,Shooter,Tactical Shooter,Gaijin Entertainment
+832,The Wolf Among Us,2013,Action,Action Adventure,Telltale Games
+833,Deus Ex: Human Revolution: Director's Cut,2013,Action,Action Adventure,Feral Interactive
+834,GRID 2,2013,Sports,Sports Sim,Feral Interactive
+835,The Stanley Parable,2013,Action,Action Adventure,Galactic Cafe
+836,Amnesia: A Machine for Pigs,2013,Action,Action Adventure,The Chinese Room
+837,Trine 2: Complete Story,2013,Platformer,3D Platformer,Frozenbyte
+838,Viscera Cleanup Detail: Shadow Warrior,2013,Action,Action Adventure,Devolver Digital
+839,The Last Of Us,2013,Action,Action Adventure,Naughty Dog
+840,Call of Juarez: Gunslinger,2013,Shooter,Tactical Shooter,Ubisoft
+841,"Papers, Please",2013,Action,Action Adventure,Lucas Pope
+842,Shadowrun Returns,2013,Action,Action Adventure,Harebrained Schemes
+843,Don't Starve,2013,Action,Action Adventure,Klei Entertainment
+844,DmC: Devil May Cry,2013,Action,Action Adventure,Ninja Theory
+845,The Bureau: XCOM Declassified,2013,Shooter,Tactical Shooter,2K
+846,Rayman Legends,2013,Platformer,3D Platformer,Ubisoft
+847,Beyond: Two Souls,2013,Action,Action Adventure,Quantic Dream
+848,Battlefield 4,2013,Shooter,Tactical Shooter,Electronic Arts
+849,The Walking Dead: Season 2,2013,Action,Action Adventure,Telltale Games
+850,Metal Gear Rising: Revengeance,2013,Action,Action Adventure,Platinum Games
+851,Ryse: Son of Rome,2013,Action,Action Adventure,Crytek
+852,Sanctum 2,2013,Shooter,Tactical Shooter,Coffee Stain Studios
+853,Neverwinter,2013,Action,Action Adventure,Cryptic Studios
+854,Far Cry 3: Blood Dragon,2013,Shooter,Tactical Shooter,Ubisoft
+855,BattleBlock Theater,2013,Action,Action Adventure,The Behemoth
+856,Remember Me,2013,Action,Action Adventure,Capcom U.S.A
+857,Dragon's Dogma: Dark Arisen,2013,Action,Action Adventure,Capcom
+858,The Playroom,2013,Platformer,3D Platformer,SCE Japan Studio
+859,Monaco: What's Yours Is Mine,2013,Action,Action Adventure,Pocketwatch Games
+860,Rogue Legacy,2013,Platformer,3D Platformer,Abstraction Games
+861,The Swapper,2013,Action,Action Adventure,Curve Digital
+862,Gone Home,2013,Action,Action Adventure,The Fullbright Company
+863,Metro: Last Light,2013,Shooter,Tactical Shooter,4A Games
+864,7 Days to Die,2013,Shooter,Tactical Shooter,Telltale Games
+865,Everlasting Summer,2013,Action,Action Adventure,Soviet Games
+866,Mortal Kombat Komplete Edition,2013,Platformer,3D Platformer,NetherRealm Studios
+867,Surgeon Simulator,2013,Action,Action Adventure,Bossa Studios
+868,LEGO Marvel Super Heroes,2013,Action,Action Adventure,Feral Interactive
+869,SteamWorld Dig,2013,Action,Action Adventure,Image & Form
+870,Project Zomboid,2013,RPG,Action RPG,The Indie Stone
+871,No More Room in Hell,2013,Action,Action Adventure,No More Room in Hell Team
+872,Age of Empires 2 HD,2013,Action,Action Adventure,Hidden Path Entertainment
+873,Risk of Rain,2013,Platformer,3D Platformer,Hopoo Games
+874,Shadow Warrior (2013),2013,Shooter,Tactical Shooter,Devolver Digital
+875,Race The Sun,2013,Sports,Sports Sim,FlippFly
+876,Call of Duty: Ghosts,2013,Shooter,Tactical Shooter,Raven Software
+877,The Incredible Adventures of Van Helsing,2013,Action,Action Adventure,Unknown
+878,Need for Speed Rivals,2013,Sports,Sports Sim,Criterion Games
+879,Dead Space 3,2013,Shooter,Tactical Shooter,Electronic Arts
+880,Antichamber,2013,Platformer,3D Platformer,Alexander Bruce
+881,How to Survive,2013,Action,Action Adventure,505 Games
+882,Hero Siege,2013,Action,Action Adventure,Elias Viglione
+883,DayZ,2013,Action,Action Adventure,Bohemia Interactive
+884,Marvel Heroes,2013,Action,Action Adventure,Gazillion Entertainment
+885,Counter-Strike: Global Offensive,2012,Shooter,Tactical Shooter,Valve Software
+886,Borderlands 2,2012,Shooter,Tactical Shooter,Aspyr Media
+887,The Witcher 2: Assassins of Kings Enhanced Edition,2012,RPG,Action RPG,CD PROJEKT RED
+888,The Walking Dead: Season 1,2012,Action,Action Adventure,Telltale Games
+889,Hotline Miami,2012,Shooter,Tactical Shooter,Devolver Digital
+890,Far Cry 3,2012,Shooter,Tactical Shooter,Ubisoft
+891,Spec Ops: The Line,2012,Shooter,Tactical Shooter,Yager
+892,Dishonored,2012,Action,Action Adventure,Bethesda Softworks
+893,Hitman: Absolution,2012,Shooter,Tactical Shooter,IO Interactive
+894,Batman: Arkham City: Game of the Year Edition,2012,Action,Action Adventure,Feral Interactive
+895,Journey,2012,Action,Action Adventure,thatgamecompany
+896,XCOM: Enemy Unknown,2012,Action,Action Adventure,Feral Interactive
+897,Max Payne 3,2012,Shooter,Tactical Shooter,Rockstar Games
+898,The Darkness 2,2012,Action,Action Adventure,2K
+899,Crusader Kings 2,2012,Action,Action Adventure,Paradox Development Studio
+900,Assassin's Creed 3,2012,Action,Action Adventure,Ubisoft Montreal
+901,FEZ,2012,Action,Action Adventure,POLYTRON
+902,Chivalry: Medieval Warfare,2012,Action,Action Adventure,Activision
+903,Torchlight 2,2012,Action,Action Adventure,Runic Games
+904,Resident Evil 6,2012,Shooter,Tactical Shooter,Capcom
+905,Sniper Elite V2,2012,Shooter,Tactical Shooter,Rebellion
+906,Euro Truck Simulator 2,2012,Action,Action Adventure,SCS Software
+907,FTL: Faster Than Light,2012,Action,Action Adventure,Subset Games
+908,Sleeping Dogs,2012,Action,Action Adventure,United Front Games
+909,Alan Wake's American Nightmare,2012,Shooter,Tactical Shooter,Remedy Entertainment
+910,Call of Duty: Black Ops 2,2012,Shooter,Tactical Shooter,Treyarch
+911,LEGO The Lord of the Rings,2012,Action,Action Adventure,Warner Bros. Interactive
+912,Dark Souls: Prepare To Die Edition,2012,Action,Action Adventure,FromSoftware
+913,Guns of Icarus Online,2012,Action,Action Adventure,Muse Games
+914,Darksiders 2,2012,Action,Action Adventure,THQ Nordic
+915,Endless Space: Collection,2012,Action,Action Adventure,Amplitude Studios
+916,Mark of the Ninja,2012,Platformer,3D Platformer,Klei Entertainment
+917,PlanetSide 2,2012,Shooter,Tactical Shooter,Daybreak Games Company
+918,Spelunky,2012,Platformer,3D Platformer,Mossmouth
+919,Deponia,2012,Action,Action Adventure,Daedalic Entertainment
+920,Dust: An Elysian Tail,2012,Platformer,3D Platformer,Humble Hearts
+921,DiRT Showdown,2012,Sports,Sports Sim,Codemasters
+922,Mass Effect 3,2012,Action,Action Adventure,BioWare
+923,Binary Domain,2012,Shooter,Tactical Shooter,SEGA
+924,Sins of a Solar Empire: Rebellion,2012,Action,Action Adventure,Stardock Entertainment
+925,Resident Evil Revelations,2012,Action,Action Adventure,Capcom
+926,Orcs Must Die! 2,2012,Action,Action Adventure,Robot Entertainment
+927,Awesomenauts,2012,Platformer,3D Platformer,Ronimo Games
+928,Deadlight,2012,Platformer,3D Platformer,Tequila Works
+929,HELL YEAH! Wrath of the Dead Rabbit,2012,Platformer,3D Platformer,Arkedo Studio
+930,Strider,2012,Platformer,3D Platformer,Capcom
+931,Thomas Was Alone,2012,Action,Action Adventure,Curve Digital
+932,Scribblenauts Unlimited,2012,Action,Action Adventure,Warner Bros. Interactive
+933,Skullgirls,2012,Action,Action Adventure,Lab Zero Games
+934,Game Dev Tycoon,2012,Action,Action Adventure,Greenheart Games
+935,Risen 2: Dark Waters,2012,Action,Action Adventure,Deep Silver
+936,Cry of Fear,2012,Action,Action Adventure,Team Psykskallar
+937,Persona 4 Golden,2012,RPG,Action RPG,Atlus
+938,Doom 3: BFG Edition,2012,Shooter,Tactical Shooter,id Software
+939,Cortex Command,2012,Action,Action Adventure,Data Realms
+940,Divinity 2: Developer's Cut,2012,Action,Action Adventure,Larian Studios
+941,Sonic & All-Stars Racing Transformed,2012,Sports,Sports Sim,Sumo Digital
+942,Baldur's Gate: Enhanced Edition,2012,Action,Action Adventure,BioWare
+943,Super Hexagon,2012,Platformer,3D Platformer,Terry Cavanagh
+944,LEGO Batman 2 DC Super Heroes,2012,Action,Action Adventure,Traveller's Tales
+945,Hard Reset Extended Edition,2012,Action,Action Adventure,Flying Wild Hog
+946,Legend of Grimrock,2012,Action,Action Adventure,Almost Human Games
+947,Little Inferno,2012,Action,Action Adventure,Tomorrow
+948,Need for Speed: Most Wanted: A Criterion Game,2012,Sports,Sports Sim,Criterion Games
+949,Shank 2,2012,Platformer,3D Platformer,Klei Entertainment
+950,Prototype 2,2012,Action,Action Adventure,Activision
+951,Natural Selection 2,2012,Action,Action Adventure,Unknown Worlds Entertainment
+952,Dear Esther,2012,Action,Action Adventure,Sumo Digital
+953,Portal 2,2011,Shooter,Tactical Shooter,Valve Software
+954,The Elder Scrolls V: Skyrim,2011,Action,Action Adventure,Bethesda Game Studios
+955,Terraria,2011,Platformer,3D Platformer,Engine Software
+956,Saints Row: The Third,2011,Action,Action Adventure,Volition
+957,L.A. Noire,2011,Action,Action Adventure,Team Bondi
+958,Bastion,2011,Action,Action Adventure,Warner Bros. Interactive
+959,Total War: SHOGUN 2,2011,Action,Action Adventure,Feral Interactive
+960,Magicka,2011,Action,Action Adventure,Paradox Interactive
+961,Dead Island,2011,Shooter,Tactical Shooter,Techland
+962,The Binding of Isaac,2011,Action,Action Adventure,Edmund McMillen and Florian Himsl
+963,Dead Space 2,2011,Shooter,Tactical Shooter,Electronic Arts
+964,Batman: Arkham City,2011,Action,Action Adventure,Rocksteady Studios
+965,Uncharted 3: Drake's Deception,2011,Action,Action Adventure,Naughty Dog
+966,Homefront,2011,Shooter,Tactical Shooter,Digital Extremes
+967,Call of Duty: Modern Warfare 3,2011,Shooter,Tactical Shooter,Aspyr Media
+968,Deus Ex: Human Revolution,2011,Action,Action Adventure,Eidos Montreal
+969,To the Moon,2011,Action,Action Adventure,X.D. Network
+970,"Warhammer 40,000: Space Marine",2011,Shooter,Tactical Shooter,Relic Entertainment
+971,PAYDAY The Heist,2011,Shooter,Tactical Shooter,OVERKILL Software
+972,Tropico 4,2011,Action,Action Adventure,Feral Interactive
+973,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011,Action,Action Adventure,Tripwire Interactive
+974,Serious Sam 3: BFE,2011,Shooter,Tactical Shooter,Devolver Digital
+975,F.E.A.R. 3,2011,Shooter,Tactical Shooter,Warner Bros. Interactive
+976,Battlefield 3,2011,Shooter,Tactical Shooter,Electronic Arts DICE
+977,Assassin's Creed Revelations,2011,Action,Action Adventure,Ubisoft
+978,Crysis 2: Maximum Edition,2011,Action,Action Adventure,Crytek
+979,Rage,2011,Shooter,Tactical Shooter,Aspyr Media
+980,Shadow of the Colossus (2011),2011,Action,Action Adventure,Sony Interactive Entertainment
+981,Red Faction: Armageddon,2011,Shooter,Tactical Shooter,Volition
+982,Sonic Generations,2011,Platformer,3D Platformer,SEGA
+983,Outland,2011,Platformer,3D Platformer,Ubisoft
+984,Galactic Civilizations 2: Ultimate Edition,2011,Action,Action Adventure,Stardock Entertainment
+985,Renegade Ops,2011,Shooter,Tactical Shooter,SEGA
+986,SpaceChem,2011,Action,Action Adventure,Zachtronics
+987,Bulletstorm,2011,Shooter,Tactical Shooter,Epic Games
+988,Rayman Origins,2011,Platformer,3D Platformer,Ubisoft
+989,Orcs Must Die!,2011,Action,Action Adventure,Robot Entertainment
+990,Anomaly: Warzone Earth,2011,Action,Action Adventure,11 Bit Studios
+991,Lord of the Rings: War in the North,2011,Action,Action Adventure,Feral Interactive
+992,Alice: Madness Returns,2011,Action,Action Adventure,Electronic Arts
+993,Duke Nukem Forever,2011,Shooter,Tactical Shooter,Gearbox Software
+994,Dark Souls,2011,Action,Action Adventure,BANDAI NAMCO Entertainment America
+995,Dino D-Day,2011,Action,Action Adventure,800 North and Digital Ranch
+996,Catherine,2011,Action,Action Adventure,Atlus
+997,Dragon Age 2,2011,Action,Action Adventure,BioWare
+998,Star Wars: The Old Republic,2011,RPG,Action RPG,BioWare
+999,Superbrothers: Sword & Sworcery,2011,Action,Action Adventure,Noodlecake Studios
+1000,Brink,2011,Shooter,Tactical Shooter,Bethesda Softworks
+1001,DiRT 3,2011,Sports,Sports Sim,Codemasters
+1002,"Warhammer 40,000: Dawn of War 2: Retribution",2011,Action,Action Adventure,Feral Interactive
+1003,Gears of War 3,2011,Shooter,Tactical Shooter,Epic Games
+1004,Dungeon Siege 3,2011,Action,Action Adventure,Square Enix
+1005,Sanctum,2011,Shooter,Tactical Shooter,Coffee Stain Studios
+1006,Crysis 2,2011,Shooter,Tactical Shooter,Electronic Arts
+1007,The Tiny Bang Story,2011,Action,Action Adventure,Colibri Games
+1008,APB Reloaded,2011,Shooter,Tactical Shooter,Deep Silver
+1009,Stacking,2011,Action,Action Adventure,THQ Nordic
+1010,Frozen Synapse,2011,Action,Action Adventure,Mode 7
+1011,Sonic CD,2011,Platformer,3D Platformer,Christian Whitehead
+1012,Puzzle Agent 2,2011,Action,Action Adventure,Telltale Games
+1013,Edna & Harvey: Harvey's New Eyes,2011,Action,Action Adventure,Daedalic Entertainment
+1014,Rocketbirds: Hardboiled Chicken,2011,Action,Action Adventure,Ratloop Asia Pte
+1015,Jamestown: Legend of the Lost Colony,2011,Platformer,3D Platformer,Final Form Games
+1016,Worms Ultimate Mayhem,2011,Action,Action Adventure,Team17 Digital
+1017,Treasure Adventure Game,2011,Action,Action Adventure,Robit Studios
+1018,LEGO Harry Potter: Years 5-7,2011,Action,Action Adventure,Feral Interactive
+1019,inFAMOUS 2,2011,Action,Action Adventure,Sucker Punch Productions
+1020,Spiral Knights,2011,Action,Action Adventure,Grey Havens
+1021,Limbo,2010,Action,Action Adventure,Double Eleven
+1022,Metro 2033,2010,Shooter,Tactical Shooter,4A Games
+1023,BioShock 2,2010,Shooter,Tactical Shooter,Feral Interactive
+1024,Alan Wake,2010,Shooter,Tactical Shooter,Remedy Entertainment
+1025,Amnesia: The Dark Descent,2010,Action,Action Adventure,Frictional Games
+1026,Fallout: New Vegas,2010,Shooter,Tactical Shooter,Obsidian Entertainment
+1027,Sid Meier's Civilization V,2010,Action,Action Adventure,Aspyr Media
+1028,Super Meat Boy,2010,Platformer,3D Platformer,NVIDIA Lightspeed Studios
+1029,Mass Effect 2,2010,Action,Action Adventure,BioWare
+1030,Just Cause 2,2010,Shooter,Tactical Shooter,Square Enix
+1031,Batman: Arkham Asylum Game of the Year Edition,2010,Platformer,3D Platformer,Feral Interactive
+1032,Mafia 2,2010,Shooter,Tactical Shooter,2K Czech
+1033,Heavy Rain,2010,Action,Action Adventure,Quantic Dream
+1034,SEGA Mega Drive and Genesis Classics,2010,Action,Action Adventure,SEGA
+1035,Darksiders,2010,Action,Action Adventure,THQ
+1036,Red Dead Redemption,2010,Shooter,Tactical Shooter,Rockstar North
+1037,Call of Duty: Black Ops,2010,Shooter,Tactical Shooter,Raven Software
+1038,Assassin's Creed Brotherhood,2010,Action,Action Adventure,Ubisoft Montreal
+1039,Lara Croft and the Guardian of Light,2010,Action,Action Adventure,Square Enix
+1040,Medal of Honor,2010,Shooter,Tactical Shooter,Electronic Arts DICE
+1041,Alien Swarm,2010,Shooter,Tactical Shooter,Valve Software
+1042,Battlefield: Bad Company 2,2010,Shooter,Tactical Shooter,Electronic Arts
+1043,Mount & Blade: Warband,2010,Action,Action Adventure,TaleWorlds Entertainment
+1044,VVVVVV,2010,Action,Action Adventure,Nicalis
+1045,Plants vs. Zombies GOTY Edition,2010,Action,Action Adventure,PopCap Games
+1046,World of Tanks,2010,Shooter,Tactical Shooter,Wargaming Group
+1047,Dead Rising 2,2010,Action,Action Adventure,Capcom U.S.A
+1048,Alpha Protocol,2010,Shooter,Tactical Shooter,Obsidian Entertainment
+1049,Need For Speed: Hot Pursuit,2010,Sports,Sports Sim,Electronic Arts
+1050,STAR WARS: The Force Unleashed 2,2010,Action,Action Adventure,Aspyr Media
+1051,Kane & Lynch 2: Dog Days,2010,Shooter,Tactical Shooter,Square Enix
+1052,Serious Sam HD: The Second Encounter,2010,Shooter,Tactical Shooter,Croteam
+1053,Vanquish,2010,Shooter,Tactical Shooter,Platinum Games
+1054,Tom Clancy's Splinter Cell: Conviction,2010,Action,Action Adventure,Ubisoft Montreal
+1055,ArmA 2: Operation Arrowhead,2010,Action,Action Adventure,Bohemia Interactive
+1056,Assassin's Creed 2 Deluxe Edition,2010,Action,Action Adventure,Ubisoft Montreal
+1057,Fable 3,2010,Action,Action Adventure,Lionhead Studios
+1058,Gothic 2: Gold Edition,2010,Action,Action Adventure,Piranha Bytes
+1059,Dungeon Defenders,2010,Action,Action Adventure,Trendy Entertainment
+1060,Halo: Reach,2010,Shooter,Tactical Shooter,Bungie
+1061,Dragon Age: Origins: Ultimate Edition,2010,RPG,Action RPG,BioWare
+1062,Cave Story+,2010,Platformer,3D Platformer,Nicalis
+1063,Two Worlds 2,2010,RPG,Action RPG,Reality Pump
+1064,Shank,2010,Platformer,3D Platformer,Klei Entertainment
+1065,Poker Night at the Inventory,2010,Sports,Sports Sim,Telltale Games
+1066,LEGO Harry Potter: Years 1-4,2010,Platformer,3D Platformer,Feral Interactive
+1067,Costume Quest,2010,Action,Action Adventure,THQ Nordic
+1068,Aliens vs. Predator,2010,Shooter,Tactical Shooter,SEGA
+1069,STAR WARS Empire at War: Gold Pack,2010,Action,Action Adventure,Lucasfilm
+1070,BIT.TRIP RUNNER,2010,Platformer,3D Platformer,Choice Provisions
+1071,"Warhammer 40,000: Dawn of War 2 Chaos Rising",2010,Action,Action Adventure,Feral Interactive
+1072,Back to the Future: The Game,2010,Action,Action Adventure,Telltale Games
+1073,Puzzle Agent,2010,Action,Action Adventure,Telltale Games
+1074,Prince of Persia: The Forgotten Sands,2010,Action,Action Adventure,Ubisoft Montreal
+1075,Sniper: Ghost Warrior,2010,Shooter,Tactical Shooter,City Interactive
+1076,Supreme Commander 2,2010,Action,Action Adventure,Gas Powered Games
+1077,God of War 3,2010,Action,Action Adventure,SCE Studios Santa Monica
+1078,Swords and Soldiers HD,2010,Action,Action Adventure,Ronimo Games
+1079,Sam & Max: The Devil's Playhouse: Episode 1: The Penal Zone,2010,Action,Action Adventure,Telltale Games
+1080,Beat Hazard,2010,Action,Action Adventure,Cold Beam Games
+1081,Sam & Max The Devil's Playhouse Episode 2 The Tomb of Sammun-Mak,2010,Action,Action Adventure,Telltale Games
+1082,Sam & Max: The Devil's Playhouse: Episode 3: They stole Max's brain!,2010,Action,Action Adventure,Telltale Games
+1083,Sam & Max The Devil's Playhouse Episode 4: Beyond Alley of Dolls,2010,Action,Action Adventure,Telltale Games
+1084,Worms Reloaded,2010,Action,Action Adventure,Team17 Digital
+1085,Sam & Max: The Devil's Playhouse: Episode 5: The City That Dares Not Sleep,2010,Action,Action Adventure,Telltale Games
+1086,Danganronpa: Trigger Happy Havoc,2010,Action,Action Adventure,Abstraction Games
+1087,SimCity 4 Deluxe Edition,2010,Action,Action Adventure,Aspyr Media
+1088,Monkey Island 2 Special Edition: LeChuck's Revenge,2010,Action,Action Adventure,LucasArts Entertainment
+1089,Left 4 Dead 2,2009,Shooter,Tactical Shooter,Valve Software
+1090,Borderlands,2009,Shooter,Tactical Shooter,2K
+1091,Minecraft,2009,Action,Action Adventure,4J Studios
+1092,Brutal Legend,2009,Action,Action Adventure,Electronic Arts
+1093,Assassin's Creed 2,2009,Action,Action Adventure,Ubisoft Montreal
+1094,Resident Evil 5,2009,Shooter,Tactical Shooter,Capcom
+1095,Killing Floor,2009,Action,Action Adventure,Tripwire Interactive
+1096,Dragon Age: Origins,2009,RPG,Action RPG,BioWare
+1097,Bayonetta,2009,Action,Action Adventure,Platinum Games
+1098,Batman: Arkham Asylum,2009,Action,Action Adventure,Rocksteady Studios
+1099,Fallout 3: Game of the Year Edition,2009,Action,Action Adventure,Bethesda Game Studios
+1100,Trine Enchanted Edition,2009,Platformer,3D Platformer,Frozenbyte
+1101,F.E.A.R. 2: Project Origin,2009,Shooter,Tactical Shooter,Warner Bros. Interactive
+1102,Burnout Paradise: The Ultimate Box,2009,Sports,Sports Sim,Criterion Games
+1103,Machinarium,2009,Action,Action Adventure,Amanita Design
+1104,S.T.A.L.K.E.R.: Call of Pripyat,2009,Shooter,Tactical Shooter,GSC Game World
+1105,Red Faction: Guerrilla,2009,Shooter,Tactical Shooter,THQ Nordic
+1106,The Elder Scrolls 4: Oblivion Game of the Year Edition,2009,RPG,Action RPG,Bethesda Game Studios
+1107,Torchlight,2009,Action,Action Adventure,Runic Games
+1108,Uncharted 2: Among Thieves,2009,Shooter,Tactical Shooter,Naughty Dog
+1109,Prototype,2009,Action,Action Adventure,Activision
+1110,FINAL FANTASY XIII,2009,RPG,Action RPG,Square Enix
+1111,Serious Sam HD: The First Encounter,2009,Shooter,Tactical Shooter,Croteam
+1112,Overlord 2,2009,Action,Action Adventure,Triumph Studios
+1113,Grand Theft Auto: Episodes from Liberty City,2009,Action,Action Adventure,Rockstar North
+1114,ArmA 2,2009,Action,Action Adventure,Bohemia Interactive
+1115,Risen,2009,Action,Action Adventure,Piranha Bytes
+1116,Tropico 3,2009,Action,Action Adventure,Haemimont Games
+1117,"Warhammer 40,000: Dawn of War 2",2009,Action,Action Adventure,Feral Interactive
+1118,Company of Heroes: Tales of Valor,2009,Action,Action Adventure,Relic Entertainment
+1119,STAR WARS: The Force Unleashed Ultimate Sith Edition,2009,Action,Action Adventure,Aspyr Media
+1120,Command & Conquer: Red Alert 3: Uprising,2009,Action,Action Adventure,Electronic Arts Los Angeles
+1121,Two Worlds Epic Edition,2009,RPG,Action RPG,Reality Pump
+1122,Mini Ninjas,2009,Action,Action Adventure,Feral Interactive
+1123,Flower,2009,Platformer,3D Platformer,Sony Interactive Entertainment
+1124,The Secret of Monkey Island: Special Edition,2009,Action,Action Adventure,Aspyr Media
+1125,Demon's Souls,2009,Action,Action Adventure,FromSoftware
+1126,The Sims 3,2009,Action,Action Adventure,Electronic Arts
+1127,Plants vs. Zombies,2009,Action,Action Adventure,PopCap Games
+1128,Operation Flashpoint: Dragon Rising,2009,Shooter,Tactical Shooter,Codemasters
+1129,Empire: Total War,2009,Action,Action Adventure,Feral Interactive
+1130,Sacred 2 Gold,2009,Action,Action Adventure,ASCARON Entertainment
+1131,Broken Sword 1: Shadow of the Templars (The Director's Cut),2009,Action,Action Adventure,Revolution Software
+1132,Crayon Physics Deluxe,2009,Action,Action Adventure,Kloonigames
+1133,Mount & Blade: With Fire & Sword,2009,Action,Action Adventure,TaleWorlds Entertainment
+1134,King's Bounty: Armored Princess,2009,Action,Action Adventure,Katauri Interactive
+1135,Zeno Clash,2009,Shooter,Tactical Shooter,ACE Team
+1136,Hammerfight,2009,Action,Action Adventure,Konstantin Koshutin
+1137,Call of Juarez: Bound in Blood,2009,Shooter,Tactical Shooter,Ubisoft
+1138,Osmos,2009,Platformer,3D Platformer,Hemisphere Games
+1139,And Yet It Moves,2009,Platformer,3D Platformer,Broken Rules
+1140,Cogs,2009,Platformer,3D Platformer,Lazy 8 Studios
+1141,Bionic Commando (2009),2009,Shooter,Tactical Shooter,Capcom
+1142,"Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack",2009,Action,Action Adventure,Size Five Games
+1143,Ticket to Ride,2009,Action,Action Adventure,Plug In Digital
+1144,Need for Speed: Shift,2009,Sports,Sports Sim,Electronic Arts
+1145,Halo 3: ODST,2009,Shooter,Tactical Shooter,Bungie
+1146,Broken Sword 2: The Smoking Mirror (Remastered),2009,Action,Action Adventure,Revolution Software
+1147,Penumbra: Black Plague Gold Edition,2009,Action,Action Adventure,Frictional Games
+1148,inFamous,2009,Action,Action Adventure,Sucker Punch Productions
+1149,STEINS;GATE,2009,Action,Action Adventure,MAGES
+1150,Trine,2009,Platformer,3D Platformer,Frozenbyte
+1151,Shatter,2009,Action,Action Adventure,Kanawati
+1152,AI War: Fleet Command,2009,Action,Action Adventure,Arcen Games
+1153,MX vs. ATV Reflex,2009,Sports,Sports Sim,THQ Nordic
+1154,Gratuitous Space Battles,2009,Action,Action Adventure,Positech Games
+1155,Velvet Assassin,2009,Action,Action Adventure,Replay Studios
+1156,Train Simulator,2009,Action,Action Adventure,Dovetail Games
+1157,Grand Theft Auto 4,2008,Action,Action Adventure,Rockstar North
+1158,The Witcher: Enhanced Edition Director's Cut,2008,Action,Action Adventure,CD PROJEKT RED
+1159,Mirror's Edge,2008,Action,Action Adventure,Electronic Arts DICE
+1160,Dead Space (2008),2008,Shooter,Tactical Shooter,Electronic Arts
+1161,Left 4 Dead,2008,Shooter,Tactical Shooter,Valve Software
+1162,Saints Row 2,2008,Shooter,Tactical Shooter,Volition
+1163,Castle Crashers,2008,Action,Action Adventure,The Behemoth
+1164,Fallout 3,2008,Shooter,Tactical Shooter,Bethesda Game Studios
+1165,Braid,2008,Action,Action Adventure,Hothead Games
+1166,GRID (2008),2008,Sports,Sports Sim,Codemasters
+1167,Far Cry 2,2008,Shooter,Tactical Shooter,Ubisoft
+1168,Tomb Raider: Underworld,2008,Action,Action Adventure,Feral Interactive
+1169,S.T.A.L.K.E.R.: Clear Sky,2008,Shooter,Tactical Shooter,GSC Game World
+1170,Call of Duty: World at War,2008,Shooter,Tactical Shooter,Treyarch
+1171,World of Goo,2008,Platformer,3D Platformer,2D BOY
+1172,Bully: Scholarship Edition,2008,Action,Action Adventure,Rockstar New England
+1173,Prince of Persia (2008),2008,Action,Action Adventure,Ubisoft
+1174,Viking: Battle for Asgard,2008,Action,Action Adventure,Creative Assembly
+1175,SPORE,2008,Action,Action Adventure,Maxis
+1176,AudioSurf,2008,Action,Action Adventure,Dylan Fitterer
+1177,Valkyria Chronicles,2008,Action,Action Adventure,SEGA
+1178,LEGO Batman,2008,Action,Action Adventure,Traveller's Tales
+1179,Mount & Blade,2008,Action,Action Adventure,TaleWorlds Entertainment
+1180,Gears of War 2,2008,Shooter,Tactical Shooter,Epic Games
+1181,Overlord: Raising Hell,2008,RPG,Action RPG,Triumph Studios
+1182,King's Bounty: The Legend,2008,Action,Action Adventure,Katauri Interactive
+1183,Assassin's Creed: Director's Cut Edition,2008,Action,Action Adventure,Ubisoft Montreal
+1184,Burnout Paradise,2008,Sports,Sports Sim,Electronic Arts
+1185,Crysis Warhead,2008,Shooter,Tactical Shooter,Crytek
+1186,TrackMania Nations Forever,2008,Sports,Sports Sim,Nadeo
+1187,"Warhammer 40,000: Dawn of War: Soulstorm",2008,Action,Action Adventure,Relic Entertainment
+1188,Fable 2,2008,Action,Action Adventure,Lionhead Studios
+1189,Sid Meier's Civilization 4: Colonization,2008,Action,Action Adventure,Aspyr Media
+1190,LittleBigPlanet,2008,Platformer,3D Platformer,Sony Interactive Entertainment
+1191,Devil May Cry 4,2008,Action,Action Adventure,Capcom
+1192,The Last Remnant,2008,Action,Action Adventure,Square Enix
+1193,Command & Conquer: Red Alert 3,2008,Action,Action Adventure,Electronic Arts
+1194,Metal Gear Solid 4: Guns of the Patriots,2008,Shooter,Tactical Shooter,Kojima Productions
+1195,Tom Clancy's Rainbow Six Vegas 2,2008,Shooter,Tactical Shooter,Ubisoft
+1196,Need For Speed Undercover,2008,Sports,Sports Sim,Electronic Arts Black Box
+1197,Multiwinia,2008,Action,Action Adventure,Introversion Software
+1198,Bionic Commando: Rearmed,2008,Platformer,3D Platformer,Capcom
+1199,Crash Time 2,2008,Sports,Sports Sim,RTL interactive
+1200,Toki Tori,2008,Action,Action Adventure,Two Tribes
+1201,Penumbra: Requiem,2008,Action,Action Adventure,Frictional Games
+1202,Alone in the Dark (2008),2008,Action,Action Adventure,Atari
+1203,Battlefield: Bad Company,2008,Shooter,Tactical Shooter,Electronic Arts
+1204,Rise of the Argonauts,2008,Action,Action Adventure,Liquid Entertainment
+1205,Defense Grid: The Awakening,2008,Action,Action Adventure,Hidden Path Entertainment
+1206,Dark Sector,2008,Shooter,Tactical Shooter,Digital Extremes
+1207,The Orange Box,2008,Shooter,Tactical Shooter,Valve Software
+1208,Star Wars: The Force Unleashed,2008,Action,Action Adventure,Aspyr Media
+1209,Legendary,2008,Shooter,Tactical Shooter,Spark Unlimited
+1210,The Void,2008,Action,Action Adventure,Ice-Pick Lodge
+1211,SEGA Bass Fishing,2008,Action,Action Adventure,SEGA
+1212,Edna & Harvey: The Breakout,2008,Action,Action Adventure,Daedalic Entertainment
+1213,Silent Hill Homecoming,2008,Action,Action Adventure,Konami Digital Entertainment
+1214,X3: Terran Conflict,2008,Action,Action Adventure,Egosoft
+1215,SPORE Creepy & Cute Parts Pack,2008,Action,Action Adventure,Maxis
+1216,Euro Truck Simulator,2008,Action,Action Adventure,SCS Software
+1217,God of War: Chains of Olympus,2008,Action,Action Adventure,Ready at Dawn Studios
+1218,PixelJunk Eden,2008,Action,Action Adventure,Sony Interactive Entertainment
+1219,Sam & Max: Episode 204: Chariots of the Dogs,2008,Action,Action Adventure,Telltale Games
+1220,Sam & Max: Episode 203: Night of the Raving Dead,2008,Action,Action Adventure,Telltale Games
+1221,Sam & Max: Episode 202: Moai Better Blues,2008,Action,Action Adventure,Telltale Games
+1222,Midnight Club: Los Angeles,2008,Sports,Sports Sim,Rockstar San Diego
+1223,NARUTO: Ultimate Ninja Storm,2008,Action,Action Adventure,CyberConnect2 Co.
+1224,Sniper Art of Victory,2008,Action,Action Adventure,CI Games
+1225,Portal,2007,Action,Action Adventure,Valve Software
+1226,BioShock,2007,Shooter,Tactical Shooter,Digital Extremes
+1227,Team Fortress 2,2007,Shooter,Tactical Shooter,Valve Software
+1228,Half-Life 2: Episode Two,2007,Shooter,Tactical Shooter,Valve Software
+1229,Mass Effect,2007,Action,Action Adventure,BioWare
+1230,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007,Shooter,Tactical Shooter,GSC Game World
+1231,Assassin's Creed,2007,Action,Action Adventure,Ubisoft
+1232,Overlord,2007,Action,Action Adventure,Triumph Studios
+1233,Crysis,2007,Shooter,Tactical Shooter,Electronic Arts
+1234,Call of Duty 4: Modern Warfare,2007,Shooter,Tactical Shooter,Raven Software
+1235,Tomb Raider: Anniversary,2007,Action,Action Adventure,Feral Interactive
+1236,"Warhammer 40,000: Dawn of War: Game of the Year Edition",2007,Action,Action Adventure,Relic Entertainment
+1237,Uncharted: Drake's Fortune,2007,Shooter,Tactical Shooter,Naughty Dog
+1238,Company of Heroes: Opposing Fronts,2007,Action,Action Adventure,Relic Entertainment
+1239,LEGO Star Wars: The Complete Saga,2007,Action,Action Adventure,Feral Interactive
+1240,Kane and Lynch: Dead Men,2007,Shooter,Tactical Shooter,Square Enix
+1241,Halo 3,2007,Shooter,Tactical Shooter,Bungie
+1242,God of War 2,2007,Action,Action Adventure,SCE Studios Santa Monica
+1243,Medieval 2: Total War,2007,Action,Action Adventure,Feral Interactive
+1244,Unreal Tournament 3 Black,2007,Shooter,Tactical Shooter,Epic Games
+1245,Penumbra Overture,2007,Action,Action Adventure,Frictional Games
+1246,The Lord of the Rings Online,2007,RPG,Action RPG,Standing Stone Games
+1247,Rome: Total War: Collection,2007,Action,Action Adventure,Creative Assembly
+1248,Civilization 4: Beyond the Sword,2007,Action,Action Adventure,Firaxis
+1249,RACE 07,2007,Sports,Sports Sim,SimBin
+1250,Supreme Commander,2007,Action,Action Adventure,Gas Powered Games
+1251,Supreme Commander: Forged Alliance,2007,Action,Action Adventure,Gas Powered Games
+1252,10-Blades,2007,Action,Action Adventure,Gaijin Entertainment
+1253,Shadowgrounds Survivor,2007,Shooter,Tactical Shooter,Frozenbyte
+1254,Painkiller: Black Edition,2007,Action,Action Adventure,People Can Fly
+1255,Eschalon: Book I,2007,RPG,Action RPG,Basilisk Games
+1256,FlatOut: Ultimate Carnage,2007,Sports,Sports Sim,Bugbear Entertainment
+1257,LEGO Indiana Jones: The Original Adventures,2007,Platformer,3D Platformer,Traveller's Tales
+1258,Super Mario Galaxy,2007,Platformer,3D Platformer,Nintendo
+1259,Aquaria,2007,Action,Action Adventure,Finji
+1260,Crackdown,2007,Shooter,Tactical Shooter,Realtime Worlds
+1261,Painkiller Overdose,2007,Shooter,Tactical Shooter,Mindware Studios
+1262,Command & Conquer 3: Tiberium Wars,2007,Action,Action Adventure,Electronic Arts Los Angeles
+1263,TimeShift,2007,Shooter,Tactical Shooter,Saber Interactive
+1264,Europa Universalis 3 Complete,2007,Action,Action Adventure,Paradox Development Studio
+1265,Battlestations: Midway,2007,Action,Action Adventure,Feral Interactive
+1266,Medal of Honor: Airborne,2007,Shooter,Tactical Shooter,Electronic Arts Los Angeles
+1267,Jade Empire: Special Edition,2007,Action,Action Adventure,Aspyr Media
+1268,Viva Piñata,2007,Action,Action Adventure,Rare
+1269,Clive Barker's Jericho,2007,Shooter,Tactical Shooter,Codemasters
+1270,Heroes of Might & Magic V: Tribes of the East,2007,Action,Action Adventure,Nival Interactive
+1271,UFO: Afterlight,2007,Action,Action Adventure,Altar Games
+1272,Peggle Deluxe,2007,Platformer,3D Platformer,PopCap Games
+1273,Sam & Max: 102: Situation: Comedy,2007,Action,Action Adventure,Telltale Games
+1274,"Sam & Max: 103: The Mole, the Mob and the Meatball",2007,Action,Action Adventure,Telltale Games
+1275,Sam & Max: 105: Reality 2.0,2007,Action,Action Adventure,Telltale Games
+1276,Need for Speed: ProStreet,2007,Sports,Sports Sim,Electronic Arts Black Box
+1277,Sam & Max: Episode 201: Ice Station Santa,2007,Action,Action Adventure,Telltale Games
+1278,Zombie Shooter,2007,Shooter,Tactical Shooter,Sigma Team
+1279,Titan Quest: Immortal Throne,2007,Action,Action Adventure,Iron Lore Studios
+1280,Peggle,2007,Platformer,3D Platformer,PopCap Games
+1281,The Witcher,2007,RPG,Action RPG,CD PROJEKT RED
+1282,The Darkness,2007,Shooter,Tactical Shooter,Starbreeze Studios
+1283,TEKKEN 6,2007,Platformer,3D Platformer,Bandai Namco Entertainment
+1284,Tom Clancy's Ghost Recon Advanced Warfighter 2,2007,Shooter,Tactical Shooter,Ubisoft
+1285,Lost Odyssey,2007,RPG,Action RPG,Mistwalker
+1286,Platypus 2,2007,Platformer,3D Platformer,Idigicon
+1287,Death to Spies,2007,Action,Action Adventure,Haggard Games
+1288,"Pokémon Diamond, Pearl",2007,Action,Action Adventure,Game Freak
+1289,Forza Motorsport 2,2007,Sports,Sports Sim,Microsoft Game Studios
+1290,Spider-Man 3,2007,Action,Action Adventure,Treyarch
+1291,Stranglehold,2007,Shooter,Tactical Shooter,Midway Studios Chicago
+1292,Rock Band,2007,Platformer,3D Platformer,Harmonix Music Systems
+1293,Half-Life 2: Episode One,2006,Shooter,Tactical Shooter,Valve Software
+1294,Half-Life Deathmatch: Source,2006,Action,Action Adventure,Valve Software
+1295,Hitman: Blood Money,2006,Shooter,Tactical Shooter,Square Enix
+1296,Company of Heroes,2006,Action,Action Adventure,Feral Interactive
+1297,Tomb Raider: Legend,2006,Action,Action Adventure,Crystal Dynamics
+1298,Just Cause,2006,Shooter,Tactical Shooter,Avalanche Studios
+1299,Titan Quest,2006,Action,Action Adventure,THQ Nordic
+1300,Dark Messiah of Might and Magic,2006,Action,Action Adventure,Arkane Studios
+1301,Gothic 3,2006,Action,Action Adventure,Piranha Bytes
+1302,Gears of War,2006,Shooter,Tactical Shooter,Epic Games
+1303,The Elder Scrolls 4: Oblivion,2006,Action,Action Adventure,Bethesda Game Studios
+1304,FlatOut 2,2006,Sports,Sports Sim,Bugbear Entertainment
+1305,The Ship: Murder Party,2006,Action,Action Adventure,Outerlight
+1306,The Ship: Single Player,2006,Action,Action Adventure,Outerlight
+1307,"Warhammer 40,000: Dawn of War: Dark Crusade",2006,Action,Action Adventure,Relic Entertainment
+1308,DEFCON,2006,Action,Action Adventure,Introversion Software
+1309,Dead Rising,2006,Action,Action Adventure,Capcom
+1310,Civilization 4: Warlords,2006,Action,Action Adventure,Firaxis
+1311,Tom Clancy's Splinter Cell Double Agent,2006,Action,Action Adventure,Ubisoft
+1312,Call of Juarez,2006,Shooter,Tactical Shooter,Techland
+1313,Tom Clancy's Rainbow Six Vegas,2006,Shooter,Tactical Shooter,Ubisoft
+1314,Need For Speed Carbon,2006,Sports,Sports Sim,Electronic Arts Black Box
+1315,Heroes of Might and Magic V,2006,Action,Action Adventure,Nival Interactive
+1316,Lost Planet: Extreme Condition,2006,Shooter,Tactical Shooter,Capcom
+1317,Devil May Cry 3: Dante's Awakening Special Edition,2006,Action,Action Adventure,Capcom
+1318,Sid Meier's Railroads!,2006,Action,Action Adventure,Feral Interactive
+1319,Alien Shooter 2: Reloaded,2006,Action,Action Adventure,Sigma Team
+1320,Rome: Total War: Alexander,2006,Action,Action Adventure,Feral Interactive
+1321,The Legend of Heroes: Trails in the Sky,2006,RPG,Action RPG,Nihon Falcom
+1322,The Legend of Zelda: Twilight Princess,2006,Action,Action Adventure,Nintendo
+1323,ROBLOX,2006,Sports,Sports Sim,ROBLOX
+1324,Saints Row,2006,Shooter,Tactical Shooter,Volition
+1325,Red Orchestra: Ostfront 41-45,2006,Action,Action Adventure,Tripwire Interactive
+1326,Call of Duty 3,2006,Shooter,Tactical Shooter,Treyarch
+1327,Marvel Ultimate Alliance,2006,Action,Action Adventure,Raven Software
+1328,Dreamfall: The Longest Journey,2006,Action,Action Adventure,Funcom
+1329,Ys Origin,2006,Action,Action Adventure,DotEmu
+1330,Sam & Max: 101: Culture Shock,2006,Action,Action Adventure,Telltale Games
+1331,FINAL FANTASY 3 (3D REMAKE),2006,RPG,Action RPG,Square Enix
+1332,Alpha Prime,2006,Action,Action Adventure,Black Element
+1333,The Blackwell Legacy,2006,Action,Action Adventure,Wadjet Eye Games
+1334,Bully,2006,Action,Action Adventure,Rockstar Vancouver
+1335,Heroes of Might & Magic V: Hammers of Fate,2006,Action,Action Adventure,Nival Interactive
+1336,Marc Ecko's Getting Up: Contents Under Pressure,2006,Action,Action Adventure,General Arcade
+1337,Disciples 2: Gallean's Return,2006,Action,Action Adventure,Strategy First
+1338,Dwarf Fortress,2006,Action,Action Adventure,Bay 12 Games
+1339,IL-2 Sturmovik: 1946,2006,Action,Action Adventure,1C: Maddox Games
+1340,Stronghold Legends,2006,Action,Action Adventure,FireFly Studios
+1341,Disciples 2: Rise of the Elves,2006,Action,Action Adventure,Strategy First
+1342,flOw,2006,Sports,Sports Sim,Sony Interactive Entertainment
+1343,Rayman Raving Rabbids,2006,Action,Action Adventure,Ubisoft
+1344,Tom Clancy's Ghost Recon: Advanced Warfighter,2006,Shooter,Tactical Shooter,Ubisoft
+1345,Runaway 2: The Dream of the Turtle,2006,Action,Action Adventure,Pendulo Studios
+1346,Hard Truck: Apocalypse,2006,Sports,Sports Sim,CDV Software
+1347,SiN Episodes: Emergence,2006,Shooter,Tactical Shooter,Ritual Entertainment
+1348,Planet Alcatraz,2006,RPG,Action RPG,1C Company
+1349,Jagged Alliance 2 Gold,2006,Action,Action Adventure,Strategy First
+1350,The Godfather: The Game,2006,Shooter,Tactical Shooter,Electronic Arts Redwood Shores
+1351,Grand Theft Auto: Vice City Stories,2006,Action,Action Adventure,Rockstar North
+1352,Desperados 2: Cooper's Revenge,2006,Action,Action Adventure,Spellbound Entertainment
+1353,Test Drive Unlimited,2006,Sports,Sports Sim,Eden Games
+1354,Prey (2006),2006,Shooter,Tactical Shooter,Human Head Studios
+1355,New Super Mario Bros.,2006,Platformer,3D Platformer,Nintendo
+1356,Secret Files: Tunguska,2006,Action,Action Adventure,Animation Arts
+1357,Jets'n'Guns Gold,2006,Shooter,Tactical Shooter,Rake in Grass
+1358,The Ship,2006,Shooter,Tactical Shooter,Outerlight
+1359,Dream Pinball 3D,2006,Platformer,3D Platformer,Runesoft
+1360,Broken Sword 4: The Angel of Death,2006,Action,Action Adventure,Sumo Digital
+1361,Half-Life 2: Lost Coast,2005,Action,Action Adventure,Valve Software
+1362,Psychonauts,2005,Platformer,3D Platformer,Double Fine Productions
+1363,Resident Evil 4 (2005),2005,Shooter,Tactical Shooter,Capcom
+1364,F.E.A.R.,2005,Shooter,Tactical Shooter,Monolith Productions
+1365,Star Wars: Battlefront 2 (2005),2005,Shooter,Tactical Shooter,Electronic Arts
+1366,Day of Defeat: Source,2005,Action,Action Adventure,Valve Software
+1367,Star Wars: Republic Commando,2005,Shooter,Tactical Shooter,LucasArts Entertainment
+1368,Need For Speed: Most Wanted,2005,Sports,Sports Sim,Electronic Arts Canada
+1369,Serious Sam 2,2005,Action,Action Adventure,Croteam
+1370,Condemned: Criminal Origins,2005,Action,Action Adventure,Monolith Productions
+1371,Fable: The Lost Chapters,2005,Action,Action Adventure,Lionhead Studios
+1372,Sid Meier's Civilization 4,2005,Action,Action Adventure,Firaxis
+1373,Prince of Persia: The Two Thrones,2005,Action,Action Adventure,Ubisoft
+1374,Call of Duty 2,2005,Shooter,Tactical Shooter,Infinity Ward
+1375,KAO the Kangaroo: Round 2,2005,Sports,Sports Sim,Tate Multimedia
+1376,"Warhammer 40,000: Dawn of War – Winter Assault",2005,Action,Action Adventure,Relic Entertainment
+1377,Tom Clancy's Splinter Cell Chaos Theory,2005,Action,Action Adventure,Ubisoft
+1378,Shadowgrounds,2005,Shooter,Tactical Shooter,Frozenbyte
+1379,Dungeon Siege 2,2005,Action,Action Adventure,Gas Powered Games
+1380,Darwinia,2005,Action,Action Adventure,Introversion Software
+1381,Hexic HD,2005,Platformer,3D Platformer,Carbonated Games
+1382,Sniper Elite,2005,Action,Action Adventure,Rebellion
+1383,God of War I,2005,Action,Action Adventure,SCE Santa Monica Studio
+1384,Quake 4,2005,Shooter,Tactical Shooter,Aspyr Media
+1385,Samorost 2,2005,Action,Action Adventure,Amanita Design
+1386,Oddworld: Stranger's Wrath,2005,Action,Action Adventure,Oddworld Inhabitants
+1387,Call of Cthulhu: Dark Corners of the Earth,2005,Shooter,Tactical Shooter,Headfirst Productions
+1388,Neverwinter Nights Diamond,2005,Action,Action Adventure,BioWare
+1389,Sacred Gold,2005,Action,Action Adventure,ASCARON Entertainment
+1390,Stubbs the Zombie in Rebel Without a Pulse,2005,Shooter,Tactical Shooter,Aspyr Media
+1391,Fahrenheit (Indigo Prophecy),2005,Action,Action Adventure,Aspyr Media
+1392,Devil May Cry 3: Dante's Awakening,2005,Action,Action Adventure,Capcom U.S.A
+1393,Shadow of the Colossus,2005,Action,Action Adventure,Team Ico
+1394,Still Life,2005,Action,Action Adventure,Microids
+1395,Destroy All Humans!,2005,Action,Action Adventure,THQ Nordic
+1396,X3: Reunion,2005,Action,Action Adventure,Egosoft
+1397,Project: Snowblind,2005,Action,Action Adventure,Crystal Dynamics
+1398,Ultratron,2005,Platformer,3D Platformer,Curve Digital
+1399,GUN,2005,Action,Action Adventure,Neversoft
+1400,Earth 2160,2005,Action,Action Adventure,Reality Pump
+1401,SpellForce: Platinum Edition,2005,Action,Action Adventure,JoWooD
+1402,Freedom Force vs. the Third Reich,2005,Action,Action Adventure,2K Australia
+1403,Ys: The Oath in Felghana,2005,Action,Action Adventure,XSEED Games
+1404,killer7,2005,Action,Action Adventure,Engine Software
+1405,Kingdom Hearts 2,2005,Action,Action Adventure,Square Enix
+1406,Star Wolves,2005,Action,Action Adventure,X-Bow Software
+1407,Cold Fear,2005,Action,Action Adventure,GOG
+1408,Brothers in Arms: Road to Hill 30,2005,Action,Action Adventure,Gearbox Software
+1409,Burnout Revenge,2005,Action,Action Adventure,Criterion Games
+1410,Peter Jackson's King Kong: The Official Game of the Movie,2005,Shooter,Tactical Shooter,Ubisoft
+1411,Grand Theft Auto: Liberty City Stories,2005,Action,Action Adventure,Rockstar North
+1412,Sudeki,2005,Action,Action Adventure,Climax Studios
+1413,Battlefield 2,2005,Shooter,Tactical Shooter,Digital Illusions
+1414,RIP,2005,Platformer,3D Platformer,White Elephant
+1415,Brothers in Arms: Earned in Blood,2005,Action,Action Adventure,Gearbox Software
+1416,Mario Kart DS,2005,Sports,Sports Sim,Nintendo
+1417,Doom 3: Resurrection of Evil,2005,Shooter,Tactical Shooter,id Software
+1418,Ultimate Spider-Man,2005,Action,Action Adventure,Vicarious Visions
+1419,GT Legends,2005,Sports,Sports Sim,SimBin Studios
+1420,Fate (2005),2005,Action,Action Adventure,WildTangent
+1421,Geneforge 3,2005,Action,Action Adventure,Spiderweb Software
+1422,Cossacks 2: Napoleonic Wars,2005,Action,Action Adventure,GSC Game World
+1423,Geometry Wars Evolved,2005,Action,Action Adventure,Bizarre Creations
+1424,Lego Star Wars: The Video Game,2005,Platformer,3D Platformer,Traveller's Tales
+1425,UFO: Aftershock,2005,Action,Action Adventure,Altar Interactive
+1426,Blitzkrieg Anthology,2005,Action,Action Adventure,Nival Interactive
+1427,Advent Rising,2005,Action,Action Adventure,GlyphX Games
+1428,Total Overdose,2005,Shooter,Tactical Shooter,Deadline Games
+1429,Half-Life 2,2004,Shooter,Tactical Shooter,Valve Software
+1430,Grand Theft Auto: San Andreas,2004,Action,Action Adventure,Rockstar North
+1431,Half-Life 2: Deathmatch,2004,Action,Action Adventure,Valve Software
+1432,Garry's Mod,2004,Action,Action Adventure,Facepunch Studios
+1433,Counter-Strike: Source,2004,Shooter,Tactical Shooter,Valve Software
+1434,Counter-Strike: Condition Zero,2004,Action,Action Adventure,Valve Software
+1435,Syberia 2,2004,Action,Action Adventure,Microids
+1436,Half-Life: Source,2004,Action,Action Adventure,Valve Software
+1437,Counter-Strike: Condition Zero Deleted Scenes,2004,Shooter,Tactical Shooter,Valve Software
+1438,Star Wars: Knights of the Old Republic 2 – The Sith Lords,2004,Action,Action Adventure,Aspyr Media
+1439,Doom 3,2004,Shooter,Tactical Shooter,id Software
+1440,Far Cry,2004,Shooter,Tactical Shooter,Ubisoft
+1441,Vampire: The Masquerade: Bloodlines,2004,Action,Action Adventure,Troika Games
+1442,Prince of Persia: Warrior Within,2004,Action,Action Adventure,Ubisoft
+1443,Hitman: Contracts,2004,Shooter,Tactical Shooter,Square Enix
+1444,Thief 3: Deadly Shadows,2004,Action,Action Adventure,Ion Storm
+1445,Beyond Divinity,2004,Action,Action Adventure,Larian Studios
+1446,FlatOut,2004,Sports,Sports Sim,Bugbear Entertainment
+1447,Need for Speed: Underground 2,2004,Sports,Sports Sim,Electronic Arts Black Box
+1448,Sid Meier's Pirates!,2004,Action,Action Adventure,Feral Interactive
+1449,Space Hack,2004,Action,Action Adventure,Meridian4
+1450,Evil Genius,2004,Action,Action Adventure,Elixir Studios
+1451,The Bard's Tale,2004,Action,Action Adventure,InXile Entertainment
+1452,Metal Gear Solid 3: Snake Eater,2004,Action,Action Adventure,Konami Computer Entertainment Japan
+1453,Street Racing Syndicate,2004,Sports,Sports Sim,Eutechnyx
+1454,Unreal Tournament 2004: Editor's Choice Edition,2004,Action,Action Adventure,Epic Games
+1455,Gish,2004,Action,Action Adventure,Cryptic Sea
+1456,SingStar,2004,Action,Action Adventure,Sony Interactive Entertainment
+1457,Neighbours from Hell Compilation,2004,Action,Action Adventure,JoWooD
+1458,Yume Nikki,2004,Action,Action Adventure,kikiyama
+1459,World of Warcraft,2004,RPG,Action RPG,Unknown
+1460,"Pokémon FireRed, LeafGreen",2004,Action,Action Adventure,Game Freak
+1461,"Pokémon Ruby, Sapphire, Emerald",2004,Action,Action Adventure,Game Freak
+1462,The Sims 2,2004,Action,Action Adventure,Maxis
+1463,Star Wars: Battlefront (2004),2004,Shooter,Tactical Shooter,Electronic Arts DICE
+1464,CS2D,2004,Action,Action Adventure,Unreal Software
+1465,World War 2: Panzer Claws,2004,Action,Action Adventure,Unknown
+1466,The Legend of Zelda: The Minish Cap,2004,Action,Action Adventure,Capcom
+1467,ROME: Total War,2004,Action,Action Adventure,Feral Interactive
+1468,Call of Duty: United Offensive,2004,Shooter,Tactical Shooter,Gray Matter Interactive
+1469,BloodRayne 2,2004,Shooter,Tactical Shooter,Sony Interactive Entertainment
+1470,OpenTTD,2004,Action,Action Adventure,ZodTTD
+1471,Halo 2,2004,Shooter,Tactical Shooter,Bungie
+1472,Guilty Gear X2 #Reload,2004,Action,Action Adventure,Arc System Works
+1473,Marine Sharpshooter 2: Jungle Warfare,2004,Action,Action Adventure,Jarhead Games
+1474,Silent Storm Gold Edition,2004,Action,Action Adventure,Nival Interactive
+1475,Obscure,2004,Action,Action Adventure,Hydravision Entertainment
+1476,The I of the Dragon,2004,RPG,Action RPG,Primal
+1477,Jak 3,2004,Action,Action Adventure,Naughty Dog
+1478,Silent Hill 4: The Room,2004,Action,Action Adventure,Team Silent
+1479,Spider-Man 2: The Game,2004,Action,Action Adventure,Treyarch
+1480,Sherlock Holmes: The Silver Earring,2004,Action,Action Adventure,Frogwares
+1481,Harry Potter and the Prisoner of Azkaban,2004,Platformer,3D Platformer,KnowWonder
+1482,Crusader Kings Complete,2004,Action,Action Adventure,Paradox Development Studio
+1483,Tom Clancy's Splinter Cell: Pandora Tomorrow,2004,Action,Action Adventure,Ubisoft
+1484,Uncharted Waters Online,2004,Action,Action Adventure,Koei Tecmo
+1485,Unreal Tournament 2004,2004,Shooter,Tactical Shooter,Digital Extremes
+1486,Perimeter,2004,Action,Action Adventure,K-D Lab
+1487,Zuma Deluxe,2004,Platformer,3D Platformer,PopCap Games
+1488,Medal of Honor: Pacific Assault,2004,Shooter,Tactical Shooter,Electronic Arts Los Angeles
+1489,Heroes of Might and Magic 4: Complete,2004,Action,Action Adventure,New World Computing
+1490,Metroid: Zero Mission,2004,Platformer,3D Platformer,Nintendo
+1491,Feeding Frenzy,2004,Platformer,3D Platformer,Oberon Media
+1492,Paper Mario: The Thousand-Year Door,2004,RPG,Action RPG,Intelligent Systems
+1493,Return to Mysterious Island,2004,Action,Action Adventure,Kheops Studio
+1494,Konung 2,2004,Action,Action Adventure,1C Company
+1495,Aura: Fate of the Ages,2004,Action,Action Adventure,Streko-Graphics
+1496,Full Spectrum Warrior,2004,Action,Action Adventure,Pandemic Studios
+1497,Star Wars: Knights of the Old Republic,2003,Action,Action Adventure,Aspyr Media
+1498,POSTAL 2,2003,Shooter,Tactical Shooter,Running With Scissors
+1499,Max Payne 2: The Fall of Max Payne,2003,Shooter,Tactical Shooter,Remedy Entertainment
+1500,Day of Defeat,2003,Action,Action Adventure,Valve Software

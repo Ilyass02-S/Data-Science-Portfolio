@@ -1,10 +1,19 @@
 import concurrent.futures
+import difflib
+import os
 import re
 import sqlite3
+import threading
 import time
 import requests
 
-RAWG_API_KEY = "20feb19fa2b04f598a8dfd063ea003de"
+# ==========================================
+# CONFIGURATION
+# ==========================================
+DB_PATH = "games.db"
+RAWG_API_KEY = os.environ.get("RAWG_KEY", "b65d6a6847de4006afd9f0fbb83a6867")   # export RAWG_KEY=your_key
+RAWG_URL = "https://api.rawg.io/api/games"
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,"
@@ -12,190 +21,362 @@ HEADERS = {
     )
 }
 
-# Number of parallel workers (5-8 is the sweet spot to avoid getting IP banned by Steam)
 MAX_WORKERS = 5
+MIN_MATCH_SCORE = 0.85      # name similarity needed to accept a RAWG/Steam match (0-1)
+SKIP_ALREADY_DONE = True    # only process games with no Reviews row yet (lets you resume)
+
+# Metacritic: Steam's score first (1 extra, heavily rate-limited call per game),
+# RAWG's score as the fallback. Set False for a much faster run using RAWG's score only.
+USE_STEAM_METACRITIC = True
+
+# Global (all-thread) minimum gaps between requests, in seconds
+STEAM_INTERVAL = 0.35
+APPDETAILS_INTERVAL = 1.6   # strictest Steam endpoint (commonly reported ~200 requests / 5 min)
+RAWG_INTERVAL = 0.15
 
 
-def get_steam_appid(session, game_name):
-    """Find AppID directly from Steam Store Search using a shared HTTP session."""
-    clean_name = re.sub(r"[:\-\'™®!.,]", " ", game_name).strip()
-    search_url = f"https://store.steampowered.com/api/storesearch/?term={clean_name}&l=english&cc=US"
+class RateLimiter:
+    """Shared across threads so MAX_WORKERS can't exceed the real request rate."""
 
-    try:
-        res = session.get(search_url, headers=HEADERS, timeout=8)
-        if res.status_code == 200:
-            data = res.json()
-            if data.get("total", 0) > 0 and len(data.get("items", [])) > 0:
-                return data["items"][0]["id"]
-    except Exception:
-        pass
+    def __init__(self, min_interval):
+        self.min_interval = min_interval
+        self.lock = threading.Lock()
+        self.next_time = 0.0
 
+    def wait(self):
+        with self.lock:
+            now = time.monotonic()
+            delay = self.next_time - now
+            if delay > 0:
+                time.sleep(delay)
+                now = time.monotonic()
+            self.next_time = now + self.min_interval
+
+
+STEAM_LIMITER = RateLimiter(STEAM_INTERVAL)
+DETAILS_LIMITER = RateLimiter(APPDETAILS_INTERVAL)
+RAWG_LIMITER = RateLimiter(RAWG_INTERVAL)
+
+_local = threading.local()
+
+
+def get_session():
+    if not hasattr(_local, "session"):
+        _local.session = requests.Session()
+    return _local.session
+
+
+def get_json(url, limiter, params=None, headers=None, retries=4):
+    """GET with rate limiting, URL-encoded params and backoff on 429/403."""
+    for attempt in range(retries):
+        limiter.wait()
+        try:
+            r = get_session().get(url, params=params, headers=headers, timeout=10)
+        except requests.RequestException:
+            time.sleep(2 * (attempt + 1))
+            continue
+        if r.status_code == 200:
+            try:
+                return r.json()
+            except ValueError:
+                return None
+        if r.status_code in (429, 403):
+            time.sleep(10 * (attempt + 1))
+            continue
+        return None
     return None
 
 
+# ==========================================
+# NAME MATCHING
+# ==========================================
+ROMAN = {"II": "2", "III": "3", "IV": "4", "V": "5", "VI": "6",
+         "VII": "7", "VIII": "8", "IX": "9", "X": "10"}
+
+# Things we never want to match unless the game itself is named that way
+JUNK = re.compile(
+    r"\b(soundtrack|ost|demo|playtest|beta|dlc|artbook|art book|bundle|season pass|"
+    r"expansion|dedicated server|sdk|editor|wallpaper)\b",
+    re.IGNORECASE,
+)
+
+EDITION_WORDS = {
+    "game", "of", "the", "year", "goty", "edition", "definitive", "complete", "deluxe",
+    "enhanced", "ultimate", "gold", "remastered", "special", "anniversary", "hd",
+    "directors", "director", "s", "cut", "standard",
+}
+
+
+def normalize(name):
+    """Lowercase, strip symbols, turn Roman numerals into digits (matches games.py)."""
+    name = re.sub(r"[™®©]", "", name or "").replace("&", " and ")
+    tokens = [ROMAN.get(t, t) for t in re.findall(r"\w+", name)]
+    out = " ".join(tokens).lower()
+    return re.sub(r"^the ", "", out).strip()
+
+
+def similarity(a, b):
+    na, nb = normalize(a), normalize(b)
+    if not na or not nb:
+        return 0.0
+    if na == nb:
+        return 1.0
+
+    ta, tb = na.split(), nb.split()
+
+    # "Fallout 4" vs "Fallout 4 Game of the Year Edition": same game, edition suffix
+    if tb[:len(ta)] == ta and all(t in EDITION_WORDS for t in tb[len(ta):]):
+        return 0.95
+
+    score = difflib.SequenceMatcher(None, na, nb).ratio()
+
+    # "Portal" vs "Portal 2": different numbers means a different game, never accept
+    nums_a = {t for t in ta if t.isdigit()}
+    nums_b = {t for t in tb if t.isdigit()}
+    if nums_a != nums_b:
+        score = min(score, 0.7)
+    return score
+
+
+def pick_best(query, candidates, name_key):
+    """Returns (best_candidate_or_None, best_score)."""
+    best, best_score = None, 0.0
+    for c in candidates:
+        cname = c.get(name_key, "") or ""
+        if JUNK.search(cname) and not JUNK.search(query):
+            continue
+        s = similarity(query, cname)
+        if s > best_score:
+            best, best_score = c, s
+    if best_score >= MIN_MATCH_SCORE:
+        return best, best_score
+    return None, best_score
+
+
+# ==========================================
+# DATA SOURCES
+# ==========================================
+
+def rawg_lookup(game_name):
+    """Best RAWG match for the name (verified by name similarity, not just 'first result')."""
+    for precise in ("true", None):
+        params = {"key": RAWG_API_KEY, "search": game_name, "page_size": 5}
+        if precise:
+            params["search_precise"] = precise
+        data = get_json(RAWG_URL, RAWG_LIMITER, params=params)
+        results = (data or {}).get("results") or []
+        match, score = pick_best(game_name, results, "name")
+        if match:
+            return match, score
+    return None, 0.0
+
+
+def steam_appid_from_rawg(rawg_id):
+    """RAWG stores the real Steam store link, which is the most reliable AppID source."""
+    data = get_json(f"{RAWG_URL}/{rawg_id}/stores", RAWG_LIMITER, params={"key": RAWG_API_KEY})
+    for store in (data or {}).get("results", []):
+        m = re.search(r"store\.steampowered\.com/app/(\d+)", store.get("url") or "")
+        if m:
+            return int(m.group(1))
+    return None
+
+
+def steam_appid_from_search(game_name):
+    """Fallback: Steam search, but pick the best name match instead of the first hit."""
+    data = get_json(
+        "https://store.steampowered.com/api/storesearch/",
+        STEAM_LIMITER,
+        params={"term": game_name, "l": "english", "cc": "US"},
+        headers=HEADERS,
+    )
+    items = [i for i in (data or {}).get("items", []) if i.get("type", "app") == "app"]
+    match, score = pick_best(game_name, items, "name")
+    return (match["id"], score) if match else (None, score)
+
+
+def steam_reviews(app_id):
+    data = get_json(
+        f"https://store.steampowered.com/appreviews/{app_id}",
+        STEAM_LIMITER,
+        params={"json": 1, "language": "all", "purchase_type": "all", "num_per_page": 1},
+        headers=HEADERS,
+    )
+    summary = (data or {}).get("query_summary") or {}
+    total = summary.get("total_reviews", 0) or 0
+    positive = summary.get("total_positive", 0) or 0
+    pct = round(positive / total * 100, 2) if total > 0 else None
+    return pct, total
+
+
+def steam_metacritic(app_id):
+    data = get_json(
+        "https://store.steampowered.com/api/appdetails",
+        DETAILS_LIMITER,
+        params={"appids": app_id, "filters": "metacritic", "cc": "us", "l": "english"},
+        headers=HEADERS,
+    )
+    entry = (data or {}).get(str(app_id)) or {}
+    if not entry.get("success"):
+        return None
+    d = entry.get("data")
+    if isinstance(d, dict):
+        mc = d.get("metacritic")
+        if isinstance(mc, dict):
+            return mc.get("score")
+    return None
+
+
+# ==========================================
+# PER-GAME WORKER
+# ==========================================
+
 def process_single_game(game_tuple):
-    """Fetch all metrics for a single game."""
     game_id, game_name = game_tuple
 
-    # Create a persistent session per worker thread for socket reuse
-    session = requests.Session()
+    rec = {
+        "game_id": game_id, "name": game_name,
+        "steam_pct": None, "total_reviews": 0,
+        "rawg_rating": None, "added": 0, "ratings_count": 0,
+        "metacritic": None,
+        # debug only, not stored in the DB:
+        "app_id": None, "match_source": None, "match_score": 0.0,
+    }
 
-    clean_name = re.sub(r"[:\-\']", " ", game_name)
-    clean_name = " ".join(clean_name.split())
+    # 1) RAWG (verified match)
+    rawg, rawg_score = rawg_lookup(game_name)
+    rawg_mc = None
+    if rawg:
+        rawg_mc = rawg.get("metacritic")
+        rec["rawg_rating"] = rawg.get("rating")
+        rec["added"] = rawg.get("added", 0)
+        rec["ratings_count"] = rawg.get("ratings_count", 0)
 
-    # 1. RAWG API Call
-    rawg_url = f"https://api.rawg.io/api/games?key={RAWG_API_KEY}&search={clean_name}"
-    rawg_rating, added_count, ratings_count = None, 0, 0
+    # 2) Steam AppID: RAWG's Steam link first, name-verified Steam search second
+    if rawg:
+        app_id = steam_appid_from_rawg(rawg["id"])
+        if app_id:
+            rec.update(app_id=app_id, match_source="rawg_store_link", match_score=rawg_score)
+    if not rec["app_id"]:
+        app_id, score = steam_appid_from_search(game_name)
+        if app_id:
+            rec.update(app_id=app_id, match_source="steam_search", match_score=score)
+        else:
+            rec["match_score"] = max(rawg_score, score)
 
-    try:
-        rawg_res = session.get(rawg_url, timeout=8)
-        if (
-            rawg_res.status_code == 200
-            and rawg_res.json().get("results")
-            and len(rawg_res.json()["results"]) > 0
-        ):
-            rawg_data = rawg_res.json()["results"][0]
-            rawg_rating = rawg_data.get("rating")
-            added_count = rawg_data.get("added", 0)
-            ratings_count = rawg_data.get("ratings_count", 0)
-    except Exception:
-        pass
+    # 3) Steam reviews
+    if rec["app_id"]:
+        pct, total = steam_reviews(rec["app_id"])
+        rec.update(steam_pct=pct, total_reviews=total)
 
-    # 2. Steam AppID Resolution
-    app_id = get_steam_appid(session, game_name)
-    if not app_id:
-        return (
-            game_id,
-            game_name,
-            None,
-            None,
-            0,
-            rawg_rating,
-            added_count,
-            ratings_count,
-            None,
-        )
+        # 4) Metacritic from Steam first
+        if USE_STEAM_METACRITIC:
+            rec["metacritic"] = steam_metacritic(rec["app_id"])
 
-    # 3. Steam App Reviews
-    review_url = f"https://store.steampowered.com/appreviews/{app_id}?json=1&language=all"
-    steam_pct, total_reviews = None, 0
+    # 5) Metacritic fallback from RAWG
+    if rec["metacritic"] is None and rawg_mc:
+        rec["metacritic"] = rawg_mc
 
-    try:
-        review_res = session.get(review_url, headers=HEADERS, timeout=8)
-        if review_res.status_code == 200:
-            summary = review_res.json().get("query_summary", {})
-            total_reviews = summary.get("total_reviews", 0)
-            total_positive = summary.get("total_positive", 0)
-            if total_reviews > 0:
-                steam_pct = round((total_positive / total_reviews) * 100, 2)
-    except Exception:
-        pass
+    return rec
 
-    # 4. Steam Metacritic Score
-    metacritic = None
-    steam_details_url = (
-        f"https://store.steampowered.com/api/appdetails?appids={app_id}"
+
+# ==========================================
+# DATABASE
+# ==========================================
+REVIEW_COLUMNS = {
+    "GameID": "INTEGER PRIMARY KEY",
+    "Steam_Rating_Pct": "REAL",       # positive review percentage (e.g. 88.5)
+    "Steam_Total_Reviews": "INTEGER", # total review count for weighting/popularity
+    "RAWG_Rating": "REAL",
+    "Added_Count": "INTEGER",
+    "Ratings_Count": "INTEGER",
+    "Metacritics": "INTEGER",
+}
+
+
+def ensure_reviews_table(conn):
+    """Creates Reviews, or adds any of these columns your existing table is missing."""
+    cur = conn.cursor()
+    cols = ", ".join(f"{k} {v}" for k, v in REVIEW_COLUMNS.items())
+    cur.execute(f"CREATE TABLE IF NOT EXISTS Reviews ({cols})")
+    existing = {row[1] for row in cur.execute("PRAGMA table_info(Reviews)")}
+    for k, v in REVIEW_COLUMNS.items():
+        if k not in existing:
+            cur.execute(f"ALTER TABLE Reviews ADD COLUMN {k} {v.replace(' PRIMARY KEY', '')}")
+    conn.commit()
+
+
+def save_record(conn, rec):
+    cur = conn.cursor()
+    cur.execute("DELETE FROM Reviews WHERE GameID = ?", (rec["game_id"],))
+    cur.execute(
+        """
+        INSERT INTO Reviews
+        (GameID, Steam_Rating_Pct, Steam_Total_Reviews, RAWG_Rating, Added_Count, Ratings_Count, Metacritics)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+        """,
+        (
+            rec["game_id"], rec["steam_pct"], rec["total_reviews"],
+            rec["rawg_rating"], rec["added"], rec["ratings_count"], rec["metacritic"],
+        ),
     )
+    conn.commit()
 
-    try:
-        details_res = session.get(
-            steam_details_url, headers=HEADERS, timeout=8
-        )
-        if details_res.status_code == 200:
-            details_json = details_res.json()
-            app_str = str(app_id)
-            if details_json.get(app_str, {}).get("success"):
-                app_data = details_json[app_str].get("data", {})
-                metacritic_obj = app_data.get("metacritic")
-                if metacritic_obj and isinstance(metacritic_obj, dict):
-                    metacritic = metacritic_obj.get("score")
-    except Exception:
-        pass
 
-    # Short delay to prevent IP rate limits
-    time.sleep(0.3)
-
-    return (
-        game_id,
-        game_name,
-        app_id,
-        steam_pct,
-        total_reviews,
-        rawg_rating,
-        added_count,
-        ratings_count,
-        metacritic,
-    )
-
+# ==========================================
+# MAIN
+# ==========================================
 
 def fetch_all_reviews_fast():
-    conn = sqlite3.connect("games.db")
-    cursor = conn.cursor()
+    if not RAWG_API_KEY:
+        print("Set your key first:  export RAWG_KEY=your_key")
+        return
 
-    cursor.execute("SELECT GameID, Game_Name FROM Games")
-    games = cursor.fetchall()
-    conn.close()
+    conn = sqlite3.connect(DB_PATH)
+    ensure_reviews_table(conn)
+    cur = conn.cursor()
 
-    print(
-        f"🚀 Starting parallel fetch for {len(games)} games using"
-        f" {MAX_WORKERS} thread workers...\n"
-    )
+    if SKIP_ALREADY_DONE:
+        cur.execute(
+            """
+            SELECT g.GameID, g.Game_Name FROM Games g
+            LEFT JOIN Reviews r ON r.GameID = g.GameID
+            WHERE r.GameID IS NULL
+            """
+        )
+    else:
+        cur.execute("SELECT GameID, Game_Name FROM Games")
+    games = cur.fetchall()
 
-    # Use ThreadPoolExecutor to run tasks in parallel
-    with concurrent.futures.ThreadPoolExecutor(
-        max_workers=MAX_WORKERS
-    ) as executor:
-        results = executor.map(process_single_game, games)
+    print(f"🚀 Fetching {len(games)} games with {MAX_WORKERS} workers...\n")
 
-        # Connect back to SQLite to insert completed items thread-safely
-        conn = sqlite3.connect("games.db")
-        cursor = conn.cursor()
-
-        for res in results:
-            (
-                game_id,
-                game_name,
-                app_id,
-                steam_pct,
-                total_reviews,
-                rawg_rating,
-                added_count,
-                ratings_count,
-                metacritic,
-            ) = res
-
-            if app_id is None:
-                print(f"❌ Not found on Steam: '{game_name}'")
+    found = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {executor.submit(process_single_game, g): g for g in games}
+        for i, fut in enumerate(concurrent.futures.as_completed(futures), 1):
+            game_id, game_name = futures[fut]
+            try:
+                rec = fut.result()
+            except Exception as e:
+                print(f"[!] '{game_name}' failed: {e}")
                 continue
 
-            cursor.execute(
-                """
-                INSERT OR REPLACE INTO Reviews 
-                (GameID, Steam_AppID, Steam_Rating_Pct, Steam_Total_Reviews, RAWG_Rating, Added_Count, Ratings_Count, Metacritics)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            """,
-                (
-                    game_id,
-                    app_id,
-                    steam_pct,
-                    total_reviews,
-                    rawg_rating,
-                    added_count,
-                    ratings_count,
-                    metacritic,
-                ),
-            )
+            save_record(conn, rec)
 
+            if rec["app_id"] is None:
+                print(f"[{i}/{len(games)}] ❌ No confident Steam match: '{game_name}' "
+                      f"(best score {rec['match_score']:.2f}) | RAWG: {rec['rawg_rating']}")
+                continue
+
+            found += 1
             print(
-                f"✅ '{game_name}' (AppID: {app_id}) -> Steam: {steam_pct}% |"
-                f" RAWG: {rawg_rating} | Metacritic: {metacritic}"
+                f"[{i}/{len(games)}] ✅ '{game_name}' (AppID {rec['app_id']}, "
+                f"{rec['match_source']}, match {rec['match_score']:.2f}) -> "
+                f"Steam: {rec['steam_pct']}% ({rec['total_reviews']} reviews) | "
+                f"Metacritic: {rec['metacritic']} | RAWG: {rec['rawg_rating']}"
             )
 
-            conn.commit()
-
-        conn.close()
-
-    print("\n⚡ All reviews fetched and stored in record time!")
+    conn.close()
+    print(f"\n⚡ Done. Matched on Steam: {found}/{len(games)}")
 
 
 if __name__ == "__main__":
